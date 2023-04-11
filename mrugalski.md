@@ -1,4 +1,440 @@
-# Archiwum Mrugalskiego na dzień 3/30/2023
+# Archiwum Mrugalskiego na dzień 4/11/2023
+
+## 2023-04-07
+
+### 1. Jak to jest z prywatnością kamer Tesli? - z jaką prywatnością?!
+
+[https://www.reuters.com/technology/tesla-workers-shared-sensitive-images-recorded-by-customer-cars-2023-04-06/](https://www.reuters.com/technology/tesla-workers-shared-sensitive-images-recorded-by-customer-cars-2023-04-06/)
+
+INFO: Samochody Tesli mają wiele wbudowanych kamer. Do nagrań ma dostęp producent, ale zapewnia, że używa ich tylko w skrajnych sytuacjach (np. analiza wypadków itp.). Jak się jednak okazało, w latach 2019-2022, pracownicy Tesli dzielili się najfajniejszymi i najbardziej intymnymi z nagrań na zamkniętych grupach dyskusyjnych.
+
+### 2. Raport na temat stanu sztucznej inteligencji 2023 - analiza
+
+[https://trojanczyk.pl/raport-na-temat-stanu-sztucznej-inteligencji-2023/](https://trojanczyk.pl/raport-na-temat-stanu-sztucznej-inteligencji-2023/)
+
+INFO: Uniwersytet Stanford wydał ogromny, 386-stronicowy raport na temat stanu sztucznej inteligencji w 2023 roku. To artykuł omawiający w bardzo zwięzły sposób (z obrazkami! :D) najważniejsze elementy tego raportu.
+
+### 3. Jak to się dzieje, że płyta winylowa posiada zapis stereofoniczny? (film, 18 minut)
+
+[https://youtube.com/watch?v=3DdUvoc7tJ4](https://youtube.com/watch?v=3DdUvoc7tJ4)
+
+INFO: Nagranie dźwięku 'mono' na płytę można sobie łatwo wytłumaczyć. Jedna igła zapisuje jedną ścieżkę. Ale jak to się dzieje przy dźwięku stereo? Przecież gramofon odtwarzający dźwięk stereofoniczny ma tylko jedną igłę. Film wyjaśnia to zjawisko.
+
+### 4. Historia Phishingu - od 1987 roku do dziś
+
+[https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2023/m02/security-history-the-evolution-of-phishing.html](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2023/m02/security-history-the-evolution-of-phishing.html)
+
+INFO: W obecnych czasach mamy do czynienia z phishingiem niemal na co dzień. Nie jest to jednak nowy wynalazek, jednak jego forma zmieniała się w czasie. Warto zobaczyć jak agresorzy oszukiwali ludzi w dawnych czasach.
+
+### 5. Tworzenie i sprzedaż technicznych kursów online? - wywiad: Mrugalski i Bartnik (film, 42 minuty)
+
+[https://youtube.com/watch?v=ksW1z2MI7RA](https://youtube.com/watch?v=ksW1z2MI7RA)
+
+INFO: Jak wygląda tworzenie skondensowanych ('w godzinę') kursów online, jakich narzędzi używam, gdzie jest tutaj rola AI i kilka innych zagadnień. Wywiad zrealizowany przez firmę Imker.
+
+### 6. Dyskietki już wymarły? No... niezupełnie
+
+[https://www.wired.com/story/why-the-floppy-disk-just-wont-die/](https://www.wired.com/story/why-the-floppy-disk-just-wont-die/)
+
+INFO: Zaskakująco wiele gałęzi przemysłu do dziś dnia bazuje na dyskietkach. Niestety, liczba dyskietek na świecie jest ograniczona, a same nośniki mają skrajnie niską żywotność. Nie ma także łatwego dostępu do nowych egzemplarzy, więc najczęściej skupuje się je z rynku wtórnego (eBay).
+
+### 7. Rób lepsze code review - na co zwracać uwagę?
+
+[https://dev.to/kolodziejczakm/16-donts-when-javascript-code-review-feels-like-watching-a-thriller-movie-4dbb](https://dev.to/kolodziejczakm/16-donts-when-javascript-code-review-feels-like-watching-a-thriller-movie-4dbb)
+
+INFO: Lista 16 częstych przewinień w JavaScript, które powinny zwrócić Twoją uwagę przy analizie kodu.
+
+### 8. Czy ChatGPT może wygenerować klucze do Windowsa 95? (film, 7 minut)
+
+[https://www.tomshardware.com/news/windows_95_chatgpt_keys](https://www.tomshardware.com/news/windows_95_chatgpt_keys)
+
+INFO: Klucze rejestracyjne do wspomnianego systemu były generowane według pewnego mało bezpiecznego algorytmu, który niestety stał się publiczny. Czy da się poprosić ChatGPT o wygenerowanie działających kluczy na podstawie opisu tej metody? Oczywiście!
+
+### 9. Uruchom LLaMA + Alpaca na własnym komputerze (AI)
+
+[https://github.com/cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai)
+
+INFO: Dużo się mówi o alternatywnych do ChatGPT rozwiązaniach. Działają na wszystkim. Nie wymagają GPU, uruchomiono je nawet na Raspberry Pi itp. Fajnie się czyta, że komuś działa, ale pytanie brzmi, jak to uruchomić samemu? Oto poradnik dla Windows/Mac/Linux opisujący najprostszą (wg autora) możliwą metodę na instalację LLaMA i Alpaca na własnym komputerze.
+
+### 10. CURL z ciasteczkami z przeglądarki Chrome
+
+[https://github.com/fipso/ccurl.sh](https://github.com/fipso/ccurl.sh)
+
+INFO: Używanie terminalowego klienta HTTP zwanego Curlem nie jest wcale skomplikowane. No, chyba że potrzebujesz używać w nim wielu ciasteczek i utrzymywać zalogowaną sesję. Wtedy poziom trudności wzrasta. A gdyby tak po prostu podpiąć się CURL-em do pamięci Chrome? Ktoś wpadł na pomysł jak to zrealizować i to za pomocą zaledwie kilku linii kodu.
+
+### 11. Kod źródłowy algorytmu rekomendacji Twittera
+
+[https://github.com/twitter/the-algorithm](https://github.com/twitter/the-algorithm)
+
+INFO: Elon obiecał i dostarczył. Kod odpowiedzialny za decyzję, które Tweety należy promować, a które raczej ukrywać, jest teraz powszechnie dostępny. W sieci znajdziesz wiele analiz tego kodu. Od czasu publikacji usunięto z niego już kilka wpadek (np weryfikacja w rekomendacji 'author_is_elon').
+
+### 12. Anori - Twoja personalizowana strona startowa (Chrome)
+
+[https://anori.sinja.io/](https://anori.sinja.io/)
+
+INFO: Gdy klikasz na 'new tab' w Chrome, otwiera się prawdopodobnie pusta zakładka lub wyszukiwarka. Anori podmienia nowego taba na edytowalny, schludny dashboard z wieloma widgetami. Przyjemnie wyglądający i użyteczny dodatek do przeglądarki.
+
+### 13. Prompt engineering w GPT-4 na przykładzie bota do obsługi pizzerii - zapis webinaru (film, 2 godziny)
+
+[https://www.youtube.com/live/So7WgNxD1b8?feature=share&t=331](https://www.youtube.com/live/So7WgNxD1b8?feature=share&t=331)
+
+INFO: Niemal dwugodzinna pogadanka na temat prompt engineeringu, czyli sprytnego budowania zapytań do ChatGPT API z punktu widzenia programisty. Możesz zacząć oglądać od 5:31, ponieważ na początku były pewne problemy z łączem.
+
+### 14. Jak sprzedawano pierwsze NFT w Polsce - śledztwo dziennikarskie
+
+[https://spidersweb.pl/plus/2023/04/aukcja-nft-desa](https://spidersweb.pl/plus/2023/04/aukcja-nft-desa)
+
+INFO: "Pierwszy" NFT sprzedany w Polsce na aukcji poszedł za ponad pół miliona złotych. Tylko czy faktycznie 'poszedł', a jeśli tak, to dlaczego nie zmienił właściciela? Ciekawa i nieco pokręcona sprawa.
+
+### 15. Emoji są fajne i poprawiają czytelność tekstu? Nie dla wszystkich
+
+[https://uxdesign.cc/accessibility-vs-emojis-ec17fddb07ec](https://uxdesign.cc/accessibility-vs-emojis-ec17fddb07ec)
+
+INFO: Używanie emoji jako punktorów w długich listach w social mediach to już klasyka. Stosowanie ich zamiast niektórych słów także jest częste. Wpisy wyglądają wtedy schludniej, a i tak są zrozumiałe. Czy jednak jest tak dla każdego? Co z osobami używającymi czytników ekranu? Warto posłuchać (załączony film), co słyszy taka osoba.
+
+### 16. Tester algorytmu Twittera
+
+[https://twitter-algorithm.vercel.app/](https://twitter-algorithm.vercel.app/)
+
+INFO: Algorytm rekomendacji Twittera został ostatnio opublikowany na GitHubie. Ktoś napisał aplikację oceniającą tweety wg tego algorytmu. Możesz wkleić dowolną treść i zobaczyć ile punktów zdobędzie. Niestety, narzędzie oceniające (w przeciwieństwie do algorytmu) działa jedynie w języku angielskim.
+
+### 17. GitHub Copilot dla linii poleceń (CLI)
+
+[https://christianheilmann.com/2023/03/29/github-copilot-for-the-command-line-is-amazing/](https://christianheilmann.com/2023/03/29/github-copilot-for-the-command-line-is-amazing/)
+
+INFO: Wszyscy znamy Copilota uzupełniającego kod dla programisty, a co powiesz na identyczne rozwiązanie, ale dla adminów Linuksa? To narzędzie pozwala generować nawet bardzo złożone sekwencje komend. Oczywiście przed ich wykonaniem admin otrzymuje podgląd polecenia i prośbę o akceptację jego wykonania.
+
+### 18. TabbyML - Copilot w wersji selfhosted
+
+[https://github.com/TabbyML/tabby](https://github.com/TabbyML/tabby)
+
+INFO: Nie używasz Copilota ze względu na ochronę swojego kodu i obawę przed przypadkowym łamaniem praw autorskich? Tabby rozwiązuje ten problem. Aplikacja pozwala postawić lokalny serwer działający niczym wspomniany Copilot. Twoje kody źródłowe pozostają w Twojej firmie i nikt nie ma do nich dostępu. W kolejnej edycji autorzy zapowiedzieli, że model będzie można doszkolić samodzielnie wyselekcjonowanymi kodami źródłowymi, więc o łamaniu prawa nie powinno być już mowy.
+
+### 19. debugHunter - wtyczka do Chrome szukająca trybu debugu w aplikacji
+
+[https://github.com/devploit/debugHunter](https://github.com/devploit/debugHunter)
+
+INFO: Wtyczka ta sprawdza, czy serwis, który aktualnie odwiedzasz, reaguje jakkolwiek na przesłanie w URL-u testowych parametrów w stylu debug, testing itp. Niekiedy można dzięki temu odkryć pewne sekrety developerów.
+
+### 20. Absolutne podstawy koncepcji API - co to jest, jak działa, jakie mamy rodzaje itp.
+
+[https://nerdleveltech.com/a-full-guide-understand-everything-about-apis-with-examples/](https://nerdleveltech.com/a-full-guide-understand-everything-about-apis-with-examples/)
+
+INFO: API REST-owe, GraphQL, XML-RPC, JSON-RPC, SOAP, OpenAPI... trochę tego jest. Artykuł opisuje (dość wysokopoziomowo) różnice między różnymi typami API, a także prezentuje przykłady implementacji ich użycia.
+
+### 21. Homerow - sterowanie aplikacjami na MacOS z klawiatury
+
+[https://www.homerow.app/](https://www.homerow.app/)
+
+INFO: Znasz dodatki do przeglądarek takie jak Vimium lub Vimperator? Jeśli lubisz nawigację po stronach, jaką one zapewniają, to z pewnością spodoba Ci się także Homerow. Realizuje on dokładnie to samo, ale nie na stronach WWW, a na poziomie systemu operacyjnego. Możesz 'kliknąć' dowolny element dowolnego otwartego okna za pomocą klawiatury. Aplikacja jest płatna, ale działa niczym WinRar - pokazuje prośbę o zakup co 50 uruchomień.
+
+### 22. Użyteczne techniki przy projektowaniu elementów wizualnych
+
+[https://anthonyhobday.com/sideprojects/visualtechniques/](https://anthonyhobday.com/sideprojects/visualtechniques/)
+
+INFO: Chcesz osiągnąć tekst na rozmytym tle, atrakcyjnie wyglądające cienie, zaokrąglone narożniki i wiele innych efektów? Ten krótki poradnik podpowie Ci jak to zrobić w sposób estetyczny
+
+### 23. Checklista frontendowa - czy Twoja aplikacja spełnia wszystkie wymagania?
+
+[https://frontendchecklist.io/](https://frontendchecklist.io/)
+
+INFO: Jeśli jesteś frontendowcem, to sprawdź, czy stworzony przez Ciebie kod aplikacji spełnia współczesne wymagania i czy nie zapomniałeś o jakimś drobiazgu. Jeśli nie wiesz, o co chodzi w konkretnym punkcie, to rozwiń go, klikając na strzałkę koło jego nazwy.
+
+### 24. Ślad węglowy najpopularniejszych witryn internetowych
+
+[https://keyprint.backspace.eco/](https://keyprint.backspace.eco/)
+
+INFO: Strony internetowe (a konkretniej mówiąc serwery i łącza, których używają) także zanieczyszczają środowisko, ale który z serwisów robi to najmocniej? Oto lista 250 największych 'kopciuchów'. Możesz kliknąć "Measure yours now", aby sprawdzić, jaki wpływ na środowisko ma Twoja strona.
+
+### 25. Jak używać pseudoklasy :not() w CSS?
+
+[http://devyoma.hashnode.dev/using-the-css-not-pseudo-class](http://devyoma.hashnode.dev/using-the-css-not-pseudo-class)
+
+INFO: Klasyczne style CSS skupiają się na selektorach wybierających elementy, które chcemy ostylować. Istnieje jednak instrukcja odwrotna, która styluje wszystko poza elementami wybranymi przez selektor. Jak i dlaczego warto jej używać? O tym w artykule.
+
+### 26. Jak przenieść się z WebSQL do SQLite w wersji przeglądarkowej?
+
+[https://developer.chrome.com/blog/from-web-sql-to-sqlite-wasm/](https://developer.chrome.com/blog/from-web-sql-to-sqlite-wasm/)
+
+INFO: Artykuł wyjaśnia jak przemigrować swoje dane z przestarzałego już Web SQL do implementacji SQLite działającej z użyciem Wasm. Procedura jest dość prosta, a po migracji możesz używać składni znanej już z SQLite.
+
+### 27. Wrzuć swoją aplikację PWA do App Store (Google/Apple/Microsoft/Meta)
+
+[https://web.dev/pwas-in-app-stores/](https://web.dev/pwas-in-app-stores/)
+
+INFO: Opis narzędzia umożliwiającego przerobienie Twojej aplikacji na format akceptowalny przez główne platformy z aplikacjami. Klikając na nazwę konkretnej platformy, zobaczysz procedurę, jaką należy przejść w celu opublikowania i podpisania własnej aplikacji w wybranym App Store.
+
+### 28. Croner - biblioteka do uruchamiania kodu JavaScript/TypeScript o zadanym czasie
+
+[https://github.com/hexagon/croner](https://github.com/hexagon/croner)
+
+INFO: Jako jeden z parametrów podajemy czas uruchomienia (zgodnie z notacją vixie-cron), a jako kolejny uchwyt funkcji do wykonania. Skrajnie proste rozwiązanie.
+
+### 29. 12 technicznych pytań rekrutacyjnych o relacyjnych bazach danych
+
+[https://devszczepaniak.pl/programista-pytania-rekrutacyjne-bazy-danych/](https://devszczepaniak.pl/programista-pytania-rekrutacyjne-bazy-danych/)
+
+INFO: Lista kilkunastu pytań, które teoretycznie możesz usłyszeć na rozmowie o pracę, a które powiązane są z RDMS. Artykuł poza samą listą pytań zawiera oczywiście także odpowiedzi na nie wraz z wyjaśnieniami.
+
+### 30. Nowe opcje w iOS 16.4, które powinny Cię zainteresować
+
+[https://scribe.rip/macoclock/ios-16-4-released-9-settings-you-need-to-change-immediately-bd599a855052](https://scribe.rip/macoclock/ios-16-4-released-9-settings-you-need-to-change-immediately-bd599a855052)
+
+INFO: Najnowsze wydanie iOS przeszło raczej bez większego echa i zawierało głównie poprawki błędów. Jednak wraz z nowym systemem pojawiło się kilka interesujących funkcji, które warto ustawić wg własnych potrzeb. 'Izolacja głosu' oraz nowe ustawienia dla hotspota zdecydowanie mogą się przydać.
+
+### 31. Każda kopia MacOS zawiera w sobie... ciekawy dokument
+
+[https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
+
+INFO: Nie chce używać w mailu wrażliwych słów kluczowych, więc napiszę tylko, że jest to najsłynniejszy dokument stworzony przez Satoshi Nakamoto ;)
+
+### 32. Jak zdobyć darmowy VPS od Oracle - instrukcja krok po kroku
+
+[https://blog.tomaszdunia.pl/oracle-free-tier/](https://blog.tomaszdunia.pl/oracle-free-tier/)
+
+INFO: Mowa oczywiście o serwerze z puli 'Oracle Cloud Free Tier'. Opinie w sieci głoszą, że to oczywiście działa, ale są także i ciemne strony projektu. Głównie mowa o losowym blokowanie serwerów przez dostawcę. Ciekawe rozwiązanie do niezobowiązującej nauki, ale do pracy lub postawienia czegoś, co ma być online 24h/dobę, lepiej to dwa razy przemyśleć.
+
+### 33. Katalog projektów niezależnych twórców
+
+[https://uw7.org/un_e10c159c2efa3](https://uw7.org/un_e10c159c2efa3)
+
+INFO: Coś podobnego do ProductHunt, ale w wersji minimalistycznej i skierowanej do niewielkich twórców, a nie super dofinansowanych startupów. Przy każdej kategorii jest przycisk "Explore All". Użyj go, aby zobaczyć wszystkie wpisy.
+
+### 34. Lista promptów do ChatGPT do szybkiego tworzenia treści do social mediów i nie tylko
+
+[https://uw7.org/un_685755b2397ce](https://uw7.org/un_685755b2397ce)
+
+INFO: Chcesz przygotować wpisy na Twittera, Facebooka, Linkedin itp., ale nie masz pomysłów? Zapytaj ChatGPT o inspirację. Kolekcja zawiera tysiące gotowych, mniej lub bardziej zaawansowanych promptów podzielonych na kategorie.
+
+## 2023-03-31
+
+### 1. Sam Altman (CEO OpenAI) w wywiadzie u Lexa Fridmana (film, 2h 25min).
+
+[https://m.youtube.com/watch?v=L_Guz73e6fw](https://m.youtube.com/watch?v=L_Guz73e6fw)
+
+INFO: Wywiad sprzed kilku dni na temat ChatGPT-4 i nadchodzących projektach od OpenAI, a także o przyszłości AI. Jest też trochę o współpracy z Microsoftem, o Elonie, presji politycznej na projekty i o kilku innych, równie ciekawych zagadnieniach.
+
+### 2. Przejęcie kanału na YouTube - jak do tego doszło? (case study)
+
+[https://www.youtube.com/watch?v=yGXaAWbzl5A](https://www.youtube.com/watch?v=yGXaAWbzl5A)
+
+INFO: Mowa o przejęciu kanału technologicznego Linus Tech Tips, w których twórca wyjaśnia, w jaki sposób jego kanał mający prawie 5 mln subskrypcji został usunięty w wyniku ataku hakerskiego. Mocne hasła, 2FA i inne popularne zabezpieczenia nie są w stanie udaremnić tej metody ataku.
+
+### 3. Jak działa rower - interaktywna prezentacja (wciągające!)
+
+[https://ciechanow.ski/bicycle/](https://ciechanow.ski/bicycle/)
+
+INFO: Dzieło Bartosza Ciechanowskiego. Trzeba więcej mówić? To ten gość od opisu działania zegarków mechanicznych, systemu GPS i teorii dźwięku w muzyce. Każdy jego wpis na blogu przypomina objętościowo małego e-booka. Czyta się zaskakująco ciekawie ze względu na liczne, interaktywne przykłady.
+
+### 4. AirTagi od Apple mogą jednak być zagrożeniem dla prywatności?
+
+[https://www.aljazeera.com/news/2023/3/25/he-took-away-my-peace-lawsuit-targets-technology-used-to-stalk](https://www.aljazeera.com/news/2023/3/25/he-took-away-my-peace-lawsuit-targets-technology-used-to-stalk)
+
+INFO: Wniesiono pozew dotyczący AirTagów ze względu na przypadki używania ich do śledzenia i stalkowania innych ludzi bez ich zgody.
+
+### 5. Proste zasady designu, które możesz bezpiecznie stosować w każdym projekcie
+
+[https://anthonyhobday.com/sideprojects/saferules/](https://anthonyhobday.com/sideprojects/saferules/)
+
+INFO: Nie znasz się na projektowaniu graficznym, a Twoje poczucie estetyki niemal nie istnieje? To prawdopodobnie ten poradnik bardzo ułatwi Ci życie. To zbiór zasad, których wprowadzenie z pewnością ulepszy wygląd każdego Twojego designu.
+
+### 6. GPT4all - ChatGPT w wersji 'zrób to sam'
+
+[https://github.com/nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
+
+INFO: Wersja chatbota zbudowanego na bazie LLaMa, wytrenowana na danych z języka angielskiego i na kodach źródłowych aplikacji. Model jest na tyle zoptymalizowany, aby dało się go uruchomić nawet na zwykłym CPU. Wymaga jednak sporo RAM-u (16GB na załadowanie całego modelu).
+
+### 7. Jak zbudować bota do przyjmowania zamówień na pizzę w GPT-4? - darmowy webinar [autopromocja]
+
+[https://www.aidevs.pl/webinar](https://www.aidevs.pl/webinar)
+
+INFO: Zapraszamy na bezpłatny webinar prowadzony przez Adama Gospodarczyka i Jakuba Mrugalskiego w ramach AI Devs - kursu dla programistów z zastosowania narzędzi z obszaru AI (Copilot, ChatGPT, GPT-4, OpenAI API) w programistycznej codzienności. Spotkanie odbędzie się 5 kwietnia o godzinie 20:00.
+
+### 8. Nowoczesne motion capture od Epic - animacja z nagrania z telefonu?
+
+[https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/](https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/)
+
+INFO: Nie potrzebujemy specjalistycznego sprzętu (wystarczy smartfon) ani wielu godzin przygotowywania materiału. Warto rzucić okiem na załączony film z przykładem użycia. Nie działa to idealnie, ale przy takiej szybkości generowania efektów, myślę, że do wielu projektów może być w zupełności wystarczające.
+
+### 9. Jak działa aplikacja webowa ChatGPT - analiza
+
+[https://github.com/terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt)
+
+INFO: To NIE jest artykuł o sztucznej inteligencji. To analiza kodu frontendowego aplikacji ChatGPT. Co się dzieje, gdy zadajesz pytanie? Jak ładowana jest historia Twojego chatu? Czy frontend ma pełne wsparcie dla Markdown? Sporo ciekawostek, które niestety też zmieniają się w czasie, ponieważ aplikacja stale jest ulepszana.
+
+### 10. Generator wyrażeń regularnych bazujący na AI
+
+[https://regex.ai/](https://regex.ai/)
+
+INFO: Wklej swój tekst, na którym chcesz pracować w okno po lewej. Następnie zaznacz elementy tekstu, które Cię interesują (chcesz je wydobyć). Po takiej konfiguracji możesz uruchomić narzędzie. W odpowiedzi dostaniesz kilka rozwiązań o różnym poziomie złożoności.
+
+### 11. Lista 20 alternatyw dla DrawIO do rysowania architektury sieci i flowchartów
+
+[https://medium.com/@mike_tyson_cloud/top-20-alternatives-to-draw-io-diagrams-net-for-cloud-architecture-ccaf0a6edd97](https://medium.com/@mike_tyson_cloud/top-20-alternatives-to-draw-io-diagrams-net-for-cloud-architecture-ccaf0a6edd97)
+
+INFO: Przegląd alternatywnych rozwiązań. Zarówno tych darmowych, jak i płatnych. O wielu z nich nigdy nie słyszałem. Jest szansa, że i Ty znajdziesz coś nowego.
+
+### 12. Zapisz się na listę oczekujących Barda (AI od Google)
+
+[https://blog.google/technology/ai/try-bard/](https://blog.google/technology/ai/try-bard/)
+
+INFO: Konkurencja dla ChatGPT od Google jest już dostępna. Trzeba tylko zapisać się na listę oczekujących. W pierwszej kolejności Bard będzie dostępny dla ludzi z USA i UK, ale warto być na liście, aby otrzymać zaproszenie, gdy tylko pojawi się w Polsce. Link do zapisu jest w ostatnim akapicie artykułu. Wielki, niebieski przycisk zapisuje na newsletter, a nie na listę oczekujących ;)
+
+### 13. CSS System Colors - zaimplementuj dark mode w jednej linii CSS
+
+[https://blog.jim-nielsen.com/2021/css-system-colors/](https://blog.jim-nielsen.com/2021/css-system-colors/)
+
+INFO: Masz ochotę zaimplementować np. ciemną skórkę dla swojej strony WWW? Istnieje na to wiele sposobów, ale najprostszy z nich, to jedna linijka w CSS, która zrobi całą pracę za Ciebie. Oczywiście nie zawsze wszystko będzie wyglądać tak, jak tego chcesz, więc artykuł nie jest o tej linijce, a bardziej o ulepszaniu efektów tego, co może ona wygenerować.
+
+### 14. Odwzorowanie świetnego efektu animacji w JS + CSS (film, 7 minut)
+
+[https://www.youtube.com/watch?v=PkADl0HubMY](https://www.youtube.com/watch?v=PkADl0HubMY)
+
+INFO: Autor stara się napisać od podstaw ciekawie zrealizowany efekt slidera widocznego na początku filmu. Krok po kroku opowiada, jak implementowana jest każda z funkcji. Całe rozwiązanie ma około 20 linii CSS i wspierane jest JavaScriptem w celu wykrywania pozycji myszki. Zdecydowanie warto rzucić okiem na pozostałe filmy z tego kanału.
+
+### 15. ChatGPT wspiera pluginy - nowa era aplikacji?
+
+[https://openai.com/blog/chatgpt-plugins](https://openai.com/blog/chatgpt-plugins)
+
+INFO: Do tej pory czat był odciętym od świata, zamkniętym mechanizmem. Nowy interfejs do tworzenia pluginów pozwala programistom podpiąć swoje rozwiązania do już istniejącego AI. Pozwoli to na drastyczne poszerzenie możliwości ChatGPT, a w konsekwencji umożliwi AI porozumiewanie się ze światem zewnętrznym. Obecnie pluginy dostępne są tylko dla wybranych programistów, ale zawsze możesz zapisać się na listę oczekujących.
+
+### 16. DevOps with Docker - kontenery dla początkujących (darmowy kurs)
+
+[https://devopswithdocker.com/](https://devopswithdocker.com/)
+
+INFO: Trzyczęściowy kurs wprowadzający użytkownika w świat Dockera i kontenerów. W każdej kolejnej części wzrasta poziom trudności i złożoności tematów. Zaczynamy oczywiście od absolutnych podstaw.
+
+### 17. Jak komputer naprawdę liczy wartość sinusa? (film, 8 minut)
+
+[https://www.youtube.com/watch?v=kkMt4lrJzs8](https://www.youtube.com/watch?v=kkMt4lrJzs8)
+
+INFO: W szkole nauczono nas jak wyliczyć wartość dowolnej funkcji trygonometrycznej. Komputery także znają te wzory, ale... nie za bardzo z nich korzystają. Skąd więc wiedzą, jaką wartość sinusa, czy tangensa mają zwrócić dla zadanych parametrów? Tego dowiesz się z filmu.
+
+### 18. Architektura Netflixa - jak to jest zbudowane?
+
+[https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3](https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3)
+
+INFO: Opis architektury backendu używanej w Netflix. Z jakich komponentów się składa, jakich rozwiązań używają, jak dbają o wysoką dostępność usług itp. Architektura rozpisana w połowie 2021 roku, więc mogło się zmienić kilka rzeczy, ale i tak ciekawe opracowanie.
+
+### 19. Jak GMail zabija ideę maila
+
+[http://www.igregious.com/2023/03/gmail-is-breaking-email.html](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
+
+INFO: Poczta e-mail to otwarty, zdecentralizowany system pozwalający każdemu na postawienie własnego serwera i wysyłanie, jak i odbieranie wiadomości do kogo chce i od kogo chce. Tak to w teorii powinno wyglądać. Jest jeszcze GMail, który w tym świecie ustala zasady ;)
+
+### 20. Materiały na temat wykrywania zagrożeń związanych z Kubernetes
+
+[https://github.com/jatrost/awesome-kubernetes-threat-detection](https://github.com/jatrost/awesome-kubernetes-threat-detection)
+
+INFO: Linki do artykułów, nagrań z konferencji, filmów z YouTube, narzędzi, książek itp. Jeśli wykorzystujesz w swojej architekturze aplikacji Kubernetes, to wiedza na temat zabezpieczeń i szukania podatności z pewnością Ci się przyda.
+
+### 21. Generatory liczb losowych w Bash i ZSH - coś jest nie tak...
+
+[https://gist.github.com/rbitr/9c68379d3e0b79c9f06eb3f867624576](https://gist.github.com/rbitr/9c68379d3e0b79c9f06eb3f867624576)
+
+INFO: Korzystasz ze zmiennej $RANDOM w swoich skryptach? Może się okazać, że w pewnych przypadkach, kolejne wylosowane liczby mogą być od siebie oddalone o stałą odległość, a niekiedy... powłoka może w kółko losować tę samą liczbę.
+
+### 22. Charts CSS - framework do szybkiej wizualizacji danych
+
+[https://chartscss.org/](https://chartscss.org/)
+
+INFO: masz w kodzie tabelę z nagłówkami i przypisanymi do nich danymi liczbowymi? To w takim razie masz wszystko, co wymagane jest do wygenerowania wykresu w CSS. Wystarczy tylko dodać odpowiednie klasy do danych i gotowe.
+
+### 23. WhoisDS - lista nowych domen zarejestrowanych na świecie
+
+[https://whoisds.com/newly-registered-domains](https://whoisds.com/newly-registered-domains)
+
+INFO: Bez kupowania abonamentu mamy dostęp do bazy danych z wynikami z ostatnich 4 dni (można sobie je pobierać w cronie cyklicznie). Do czego może Ci się to przydać? Np. do szybkiego wyłowienia stron phishingowych używających nazwy Twojej firmy. Na szybklo sprawdziłem jeden z plików z bazą i znalazłem (grep) jeden nowy phishing na FB. Niestety, w bazie nie ma domen PL.
+
+### 24. Jeśli nie GMail, to co? - przegląd alternatywnych rozwiązań
+
+[https://jozwiak.top/blog/porownanie-poczty-email](https://jozwiak.top/blog/porownanie-poczty-email)
+
+INFO: Porównanie 15 dostawców usług mailowych - opis dostępnych funkcji, wady i zalety każdego z nich, a także porady dotyczące wyboru usługi, która spełni oczekiwania użytkownika.
+
+### 25. Jak ustawić favikonę dla strony w 2023 roku?
+
+[https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
+
+INFO: W dawnych czasach dodanie favikony (obrazka pojawiającego się np. na tabie z Twoją stroną) ograniczało się do wrzucenia pliku o ustalonej nazwie do folderu ze stroną. Później przyszedł czas na specjalnego taga w HTML. Obecnie ikonę ustawia się... w 6 miejscach.
+
+### 26. CheatSheet - wyświetlaj automatycznie skróty klawiszowe na Macu
+
+[https://www.mediaatelier.com/CheatSheet/](https://www.mediaatelier.com/CheatSheet/)
+
+INFO: Być może zdarzyło Ci się pracować na iPadzie z podpiętą fizyczną klawiaturą. Tam długie przytrzymanie klawisza CMD (tzw. 'kalafior') powoduje wyświetlenie najważniejszych skrótów klawiszowych w aktualnie otwartej aplikacji. Ta aplikacja implementuje to samo, ale na MacOS.
+
+### 27. Zaokrąglone narożniki w CSS - jak to zrobić sprytniej?
+
+[https://set.studio/relative-rounded-corners/](https://set.studio/relative-rounded-corners/)
+
+INFO: Jeśli masz dwa obiekty (np. prostokąty) umieszczone jeden w drugim, a każdemu z nich ustawisz zaokrąglone narożniki o tej samej wartości radius, to efekt może być różny od zamierzonego. Artykuł tłumaczy, jak sprytnie (matematycznie) dobrać promień zaokrąglenia wewnętrznego obiektu w taki sposób, aby wizualnie pasował do zewnętrznej ramki. Wzór jest bardzo prosty, a CSS policzy go za Ciebie.
+
+### 28. Kolekcja 6 drobnych kodów CSS, które zdecydowanie mogą Ci się przydać
+
+[https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023/?ref=refind](https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023/?ref=refind)
+
+INFO: Przykłady implementacji container queries (tak, ta technologia jest już wszędzie obsługiwana), implementacja scroll-snap, pozycjonowanie z gridem, warstwy kaskadowe i inne.
+
+### 29. Kiedy naprawdę :focus-visible ma zastosowanie w CSS?
+
+[https://bitsofco.de/when-is-focus-visible-visible/](https://bitsofco.de/when-is-focus-visible-visible/)
+
+INFO: Nazwa tej pseudoklasy idealnie opisuje jej zastosowanie i podpowiada, nawet kiedy powinna być ona brana pod uwagę, ale czy aby na pewno? Warto wiedzieć, jak to naprawdę działa i do czego może się przydać.
+
+### 30. Materiały do pracy/nauki z technologią Terraform (lista 'Awesome')
+
+[https://github.com/shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
+
+INFO: Bardzo konkretna lista narzędzi/tutoriali/modułów, które pomogą Ci wznieść Twoją wiedzę o Terraformie i 'Infrastructure as Code' (IaC) na wyższy poziom.
+
+### 31. Stwórz publiczne, przeszukiwalne archiwum swoich Tweetów
+
+[https://www.wired.com/story/how-to-make-public-twitter-archive/](https://www.wired.com/story/how-to-make-public-twitter-archive/)
+
+INFO: Publikujesz posty na Twitterze od lat i chcesz mieć do nich dostęp offline z możliwością skrajnie szybkiego i efektywnego przeszukiwania? Artykuł wyjaśni Ci, jak to osiągnąć.
+
+### 32. Lista 11 poradników, dzięki którym lepiej poznasz możliwości Ansible
+
+[https://www.redhat.com/sysadmin/automation-guides-2020](https://www.redhat.com/sysadmin/automation-guides-2020)
+
+INFO: Automatyzacja deploymentu, weryfikacja konfiguracji, hardening systemu i inne
+
+### 33. Automatyzacja najpopularniejszych zadań dla adminów z użyciem Ansible
+
+[https://opensource.com/article/21/3/ansible-sysadmin](https://opensource.com/article/21/3/ansible-sysadmin)
+
+INFO: 5 codziennych tasków sysopsa, które można zautomatyzować z użyciem Ansible. W artykule znajdziesz link do repozytorium z odpowiednimi playbookami i rolami. Użyteczne nie tylko do automatyzacji zadań, ale także do nauki pisania samych playbooków.
+
+### 34. JSON Server - szybkie mockowanie API
+
+[https://github.com/typicode/json-server](https://github.com/typicode/json-server)
+
+INFO: Postaw "fake API" z testowymi danymi bez napisania linijki kodu w mniej niż 30 sekund. Użyteczne np. do szybkiego przygotowania backendu pod testy aplikacji frontendowej.
+
+### 35. Conventional commits - czym są i dlaczego warto je stosować
+
+[https://highlab.pl/conventional-commits/](https://highlab.pl/conventional-commits/)
+
+INFO: Opis techniki, konwencji tworzenia commitów w repozytorium. Dzięki zastosowaniu tej metody będziemy mogli szybkim rzutem oka rozpoznać, co konkretnie robi dana zmiana w kodzie i jak bardzo jest istotna.
+
+### 36. Projekty do realizacji w Terraformie w ramach nauki
+
+[https://github.com/CloudSkills/Terraform-Projects](https://github.com/CloudSkills/Terraform-Projects)
+
+INFO: 12 praktycznych zadań z rozwiązaniami dla osób chcących polepszyć swoje zdolności w Terraform.
+
+### 37. Materiały dla Red Team (security - łowcy zagrożeń)
+
+[https://uw7.org/un_aed53c155188b](https://uw7.org/un_aed53c155188b)
+
+INFO: Narzędzia do rekonesansu, ataki brute force, narzędzia ułatwiające tworzenie testowych kampanii phishingowych i wiele innych
+
+### 38. Mapy myśli dla branży Cyber Security
+
+[https://uw7.org/un_6a5b9f9e01a4f](https://uw7.org/un_6a5b9f9e01a4f)
+
+INFO: Pokaźna kolekcja map myśli prezentujących koncepcje związane z cyberbezpieczeństwem w przystępny, graficzny sposób. Grafiki są dość duże (mowa o rozdzielczości), więc nadają się także do druku.
 
 ## 2023-03-24
 
