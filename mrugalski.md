@@ -1,4 +1,1326 @@
-# Archiwum Mrugalskiego na dzień 4/11/2023
+# Archiwum Mrugalskiego na dzień 5/27/2023
+
+## 2023-05-26
+
+### 1. DevEx - co naprawdę napędza produktywność programisty?
+
+[https://queue.acm.org/detail.cfm?id=3595878](https://queue.acm.org/detail.cfm?id=3595878)
+
+INFO: Podejście DevEx ma na celu poprawę produktywności u programistów i polepszenie ich warunków pracy poprzez usprawnienia w kilku głównych aspektach ich pracy.
+
+### 2. Wytwarzanie oprogramowania okiem... jaskiniowca? ;)
+
+[https://grugbrain.dev/](https://grugbrain.dev/)
+
+INFO: Doświadczenia związane z rozwojem oprogramowania spisane w humorystycznej firmie z punktu widzenia programisty o dużym stażu pracy, ale niezbyt dużym intelekcie. Pomimo zastosowania bardzo humorystycznej formy, czyta się to dobrze i można wyciągnąć z tekstu użyteczne porady do zastosowania w codziennym życiu programisty.
+
+### 3. Kieszonkowy komputer na bazie Raspberry Pi
+
+[https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html](https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html)
+
+INFO: Autor dzieli się swoim najnowszym projektem, którym jest bazujący na Raspberry Pi, miniaturowy komputer, przypominający rozmiarami palmtopa. Urządzenie działa pod kontrolą systemu Linux.
+
+### 4. Nauka podstaw AI z użyciem... GitHub Copilota (kurs, 6 filmów)
+
+[https://techcommunity.microsoft.com/t5/educator-developer-blog/learning-ai-with-github-copilot/ba-p/3815078](https://techcommunity.microsoft.com/t5/educator-developer-blog/learning-ai-with-github-copilot/ba-p/3815078)
+
+INFO: Ciekawe podejście do nauki podstaw sztucznej inteligencji z użyciem asystenta bazującego na sztucznej inteligencji. Kurs został przygotowany przez Microsoft i składa się z 6 lekcji.
+
+### 5. Czy ten serial został przerwany? - wyszukiwarka
+
+[https://www.isitcutshort.com/](https://www.isitcutshort.com/)
+
+INFO: Strona z listą ponad 540 seriali, których producenci postanowili już nie rozbudowywać i zakończyć w nagły sposób. Jeśli znajomy poleci Ci stary serial, to sprawdź, czy przypadkiem nie ma go na liście, aby się nie rozczarować w trakcie oglądania.
+
+### 6. Czy znajdziesz buga w kodzie JavaScript? (film, 25 minut)
+
+[https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/](https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/)
+
+INFO: FIlm zawiera przykłady 10 dziurawych fragmentów kodów napisanych w JS. Autor omawia, na czym polega zagrożenie wynikające z konkretnej podatności.
+
+### 7. Jesteś programistą Angulara, Analitykiem, DevOpsem lub Testerem? [Sponsorowane]
+
+[https://www.futuremind.com/career/](https://www.futuremind.com/career/)
+
+INFO: firma Future Mind (znana z aplikacji takich jak Żappka, Super-Pharm, Hebe, Sinsay, Reserved i wielu innych) szuka ludzi do pracy zdalnej w 170-osobowym zespole z dużym doświadczeniem i dobrze przemyślanym procesem wytwórczym. Gwarantują ciekawe projekty (ostatnio np. trwają prace nad aplikacją do zarządzania portami jachtowymi na Morzu Śródziemnym) i dobre wynagrodzenie.
+
+### 8. Dobre rady dla stron logowania i rejestracji
+
+[https://evilmartians.com/chronicles/html-best-practices-for-login-and-signup-forms](https://evilmartians.com/chronicles/html-best-practices-for-login-and-signup-forms)
+
+INFO: Przegląd 11 sugestii na temat tego, jak ulepszyć strony logowania/rejestracji w Twojej aplikacji. Poradnik skupia się przede wszystkim na subtelnych ulepszeniach w HTML/CSS, które mogą bardzo poprawić komfort użytkowania wspomnianych komponentów.
+
+### 9. Aplikacja full stack z użyciem ChatGPT (film, 2h i 16 minut)
+
+[https://www.youtube.com/watch?v=GizsSo-EevA](https://www.youtube.com/watch?v=GizsSo-EevA)
+
+INFO: Rozbudowany poradnik pokazujący jak z użyciem ChatGPT wygenerować w pełni funkcjonalną aplikację składająca się zarówno z części frontendowej, jak i backendowej. Nie jest to takie proste, jak się wydaje i zajmuje trochę czasu.
+
+### 10. Jak PayPal przetwarza 350 miliardów operacji na dzień? JunoDB
+
+[https://blog.quastor.org/p/paypal-built-database-serves-350-billion-requests-per-day](https://blog.quastor.org/p/paypal-built-database-serves-350-billion-requests-per-day)
+
+INFO: Ciekawe rozwiązanie technologiczne stosowane przez PayPala oparte na prostej bazie typu klucz/wartość.
+
+### 11. Wykonaj face swap w MidJourney - poradnik (film, 8 minut)
+
+[https://www.loom.com/share/bcfbc51ef52c4ebeb87f67ad05306041](https://www.loom.com/share/bcfbc51ef52c4ebeb87f67ad05306041)
+
+INFO: Aby wykonać to, co widać na filmie, potrzebujesz dwóch botów. Jednym jest płatny bot Midjourney działający na Twoim serwerze Discorda, a drugim jest Insight face swap, który będzie sprytnie sterował tym pierwszym. Efekty podmiany twarzy są dobrej jakości.
+
+### 12. Co nowego pojawiło się w CSS i UI?
+
+[https://developer.chrome.com/blog/whats-new-css-ui-2023/](https://developer.chrome.com/blog/whats-new-css-ui-2023/)
+
+INFO: Przegląd 20 nowości, które w ostatnich miesiącach pojawiły się w CSS-ie oraz w UI. Użyteczne zwłaszcza dla frontendowców.
+
+### 13. Watchtower - aplikacja do automatycznego aktualizowania obrazów Dockera
+
+[https://github.com/containrrr/watchtower](https://github.com/containrrr/watchtower)
+
+INFO: Aplikacja dba o to, aby Twoje kontenery zawsze były uruchomione na najnowszej dostępnej wersji obrazu. Jeśli wykryje nieaktualny obraz, wyłączy kontener, zaktualizuje obraz i podniesie go ponownie z tymi samymi parametrami startowymi, ale z nowy obrazem. Użyteczne, gdy robisz deploy swojej aplikacji i pchasz nowe wersję np. na Docker Huba lub do prywatnego docker registry.
+
+### 14. Mniej znane sztuczki z Chrome DevTools
+
+[https://utilitybend.com/blog/chrome-devtools-tricks-that-deserve-a-spotlight](https://utilitybend.com/blog/chrome-devtools-tricks-that-deserve-a-spotlight)
+
+INFO: Używasz Chrome i pracujesz z wbudowanymi DevToolsami? Z artykułu dowiesz się o kilku mniej popularnych rozwiązaniach, które mogą usprawnić Twoją pracę.
+
+### 15. Interesujące mechaniki z gry Tiny Glade.
+
+[https://80.lv/articles/tiny-glade-s-window-clutter-mechanic-demonstrated/](https://80.lv/articles/tiny-glade-s-window-clutter-mechanic-demonstrated/)
+
+INFO: W 2024 ma zostać wydana gra Tiny Glade (symulator tworzenia zamku). Zerknij na postępy tworzenia tej gry i niesamowite mechaniki, które są wprowadzane przez developerów. Ciekawe rozwiązanie.
+
+### 16. Jak podzielić się obrazem Dockera bez użycia docker registry?
+
+[https://blog.devgenius.io/how-to-share-docker-images-without-docker-hub-or-any-registry-2d747cfb07c6](https://blog.devgenius.io/how-to-share-docker-images-without-docker-hub-or-any-registry-2d747cfb07c6)
+
+INFO: Metoda przenoszenia obrazów dockerowych między systemami bez użycia zewnętrznego mechanizmu składowania tych danych (np. Docker Huba).
+
+### 17. Weekle - wylicz dzień tygodnia dla dowolnej daty (metoda pamięciowa)
+
+[https://benjoffe.com/weekle](https://benjoffe.com/weekle)
+
+INFO: Być może widziałeś na YouTube osoby, które po podaniu absolutnie dowolnej daty z przyszłości lub przeszłości, były w stanie krzyknąć np. 'to jest wtorek!'. Jedni mają taką zdolność, a inni... mogą posłużyć się matematyką. Nie jest to na tyle łatwe, aby opanować to w kilka minut, ale da się to zrobić. Na stronie znajdziesz zarówno opis metody, ćwiczenia usprawniające obliczenia, jak i interaktywną grę sprawdzającą jak dobrze Ci idzie.
+
+### 18. Oficjalna aplikacja &lrm;ChatGPT na iOS
+
+[https://apps.apple.com/us/app/chatgpt/id6448311069](https://apps.apple.com/us/app/chatgpt/id6448311069)
+
+INFO: Teraz możesz używać ChatGPT wprost ze swojego iPhone/iPada. Aplikacja pojawiła się jakiś tydzień temu, ale dopiero od wczoraj dostępna jest także i w Polskim App Store.
+
+### 19. Windows Copilot - asystent AI wbudowany w system?
+
+[https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/)
+
+INFO: Microsoft pracuje nad rozwiązaniem, które miałoby pełnić funkcję asystenta pomagającego użytkownikowi w codziennych czynnościach. Nazwano to Copilotem, ale rozwiązanie nie ma nic wspólnego z generowaniem kodu. To tylko zbieżność nazw.
+
+### 20. Pluginy do VS Code do zwiększenia produktywności
+
+[https://madza.hashnode.dev/19-vs-code-extensions-to-boost-your-productivity](https://madza.hashnode.dev/19-vs-code-extensions-to-boost-your-productivity)
+
+INFO: Jak lepiej pracować z kodem, repozytorium GIT, dockerem itp? Oto lista 19 wtyczek, które usprawnią Twoją pracę.
+
+### 21. privateGPT - porozmawiaj ze swoimi dokumentami
+
+[https://github.com/imartinez/privateGPT](https://github.com/imartinez/privateGPT)
+
+INFO: Ciekawa koncepcja. Wrzucasz dokumenty (Worda, PowerPointa, dokumenty tekstowe, e-booki, PDF-y itp.) do jednego katalogu, a następnie uruchamiasz skrypt indeksujący dane i możesz o nie odpytywać za pomocą modelu AI, zbliżonego zachowaniem do ChatGPT. Wszystko odbywa się na lokalnym komputerze i działa nawet bez dostępu do internetu.
+
+### 22. DeviceScript - środowisko TypeScript dla IoT
+
+[https://microsoft.github.io/devicescript/](https://microsoft.github.io/devicescript/)
+
+INFO: Jeśli chcesz programować mikrokontrolery z użyciem TypeScriptu zamiast innych, często trudniejszych języków programowania, to to środowisko zintegrowane z VSCode jest dla Ciebie.
+
+### 23. Jak stworzyć nową właściwość w CSS z użyciem JavaScript?
+
+[https://fullystacked.net/posts/custom-properties/](https://fullystacked.net/posts/custom-properties/)
+
+INFO: Elementy w CSS styluje się za pomocą ograniczonego zbioru właściwości (properties), którym nadaje się wartość. Możliwe jest jednak rozbudowanie tego zbioru o nowe właściwości i zaprogramowanie tego w taki sposób, aby przeglądarka reagowała na nie w określony sposób. Nowych właściwości używamy na poziomie CSS-a, ale rejestrujemy je i odczytujemy w JS.
+
+### 24. Instagram wypuszcza nową aplikację - konkurenta Twittera?
+
+[https://liahaberman.substack.com/p/icymi-instagrams-new-app-could-be](https://liahaberman.substack.com/p/icymi-instagrams-new-app-could-be)
+
+INFO: Nie będzie to aplikacja do dzielenia się fotkami, ale podobnie jak Twitter, platforma skierowana mocniej w stronę wpisów tekstowych. Nazwa appki nie jest jeszcze znana. Obecnie funkcjonuje ona pod pseudonimem 'Projekt 92' lub 'Barcelona'.
+
+### 25. Kompletny i darmowy kurs Rusta od podstaw
+
+[https://uw7.org/un_b2a2d0b8ff3ae](https://uw7.org/un_b2a2d0b8ff3ae)
+
+INFO: Jeśli nigdy nie miałeś styczności z językiem Rust i planujesz uczyć się od zera, to ten kurs może być dobrym wstępem. Obejmuje on także temat tworzenia aplikacji w Rust na Androida i na systemy embeded.
+
+### 26. Modele AI bez cenzury - na użytek edukacyjny
+
+[https://uw7.org/un_97023d53bbcd1](https://uw7.org/un_97023d53bbcd1)
+
+INFO: Jeśli cenzura narzucona np. na ChatGPT, czy Binga w jakiś sposób ogranicza Twoją pracę jako np. pentestera, czy speca od cybersecurity, to podlinkowane modele pozbawione są wszelkich form cenzury. Aby je uruchomić (instrukcja jest w artykule) trzeba dysponować dostatecznie mocnym sprzętem.
+
+## 2023-05-19
+
+### 1. Pierwszy iPhone z 2007 roku - co było w nim wyjątkowego? (film, 6 minut)
+
+[https://www.youtube.com/watch?v=l_lWD4tF0DU](https://www.youtube.com/watch?v=l_lWD4tF0DU)
+
+INFO: Gdy z perspektywy czasu patrzy się na pierwszy model iPhone, to nie wygląda on zbyt imponująco. W tamtych czasach był jednak prawdopodobnie najbardziej rewolucyjnym smartfonem, jaki trafił na rynek. Co odróżniało go od konkurencji?
+
+### 2. Gandalf | Lakera - potrenuj prompt injection (gra)
+
+[https://gandalf.lakera.ai/](https://gandalf.lakera.ai/)
+
+INFO: Hit tego tygodnia, na który być może już natrafiłeś. To gra polegająca na namówieniu Gandalfa (bota AI) do zdradzenia hasła, którego zdradzić nie powinien. Zaczyna się banalnym zadaniem, w którym nawet najprostsze zapytanie działa poprawnie. Schody zaczynają się w okolicach levelu 4. Wszystkich poziomów jest 7. Podpowiem tylko, że w kolejnych etapach blokowane jest słowo 'password' (i jego odmiany) oraz blokowana jest możliwość wypisywania sekretnego słowa na ekran (trzeba kombinować, aby nie otrzymać go w czystej formie). Mam złą wiadomość: gra bardzo wciąga!
+
+### 3. Jak Booking przeszukuje miliony rekordów w mniej niż 6 milisekund?
+
+[https://blog.quastor.org/p/bookingcom-searches-millions-locations-milliseconds](https://blog.quastor.org/p/bookingcom-searches-millions-locations-milliseconds)
+
+INFO: Opis algorytmu, którym posługuje się Booking (i nie tylko oni), który pozwala im na znalezienie lokali z danego obszaru. Być może kiedyś Ci się przyda, więc warto rzucić okiem.
+
+### 4. Jak Javascript obsługuje asynchroniczność w jednowątkowej architekturze?
+
+[https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/](https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/)
+
+INFO: Javascript jest językiem jednowątkowym, ale też nieblokującym i wykonującym akcje asynchronicznie. Tylko co te trzy określenia tak naprawdę znaczą i jakie to ma dla programisty znaczenie?
+
+### 5. Jak zainstalować Ubuntu Touch na androidowym smartfonie?
+
+[https://blog.tomaszdunia.pl/ubuntu-touch/](https://blog.tomaszdunia.pl/ubuntu-touch/)
+
+INFO: Rynek smartfonów zasypany jest przez urządzenia z iOS i Androidem. A gdyby tak zaszaleć i zainstalować sobie w pełni funkcjonalny system od Ubuntu? Oczywiście potrzebujesz mieć kompatybilny smartfon. Instrukcję instalacji znajdziesz w artykule.
+
+### 6. Symulator moderatora treści - gra
+
+[https://moderatormayhem.engine.is/](https://moderatormayhem.engine.is/)
+
+INFO: Myślisz, że praca moderatora w sieciach społecznościowych jest łatwa? Spróbuj swoich sił w prostej grze polegającej na klasyfikacji, czy dany wpis łamie regulamin serwisu, czy też niekoniecznie. Niektóre z przykładów wymagają wczytania się w szerszy kontekst, ponieważ mogą mieć np. podwójne (zależne właśnie od kontekstu) znaczenie. Grasz na czas. Wymagana jest dobra znajomość angielskiego.
+
+### 7. Zadbaj o swoją cyber-higienę z Incogni [sponsorowane]
+
+[https://get.incogni.io/aff_c?offer_id=1151&aff_id=20000](https://get.incogni.io/aff_c?offer_id=1151&aff_id=20000)
+
+INFO: Incogni.com wyszuka Twoje personalne dane i usunie je z rąk brokerów danych. Informacje o Tobie takie jak adres zamieszkania, e-mail, numer telefonu, data urodzenia i wiele innych, mogą być przetwarzane przez firmy w celach marketingowych. Zredukuj spam, robocalle i potencjalne ryzyko narażenia na kradzież tożsamości, usuwając swoje dane z Incogni.
+
+### 8. Jak efektywnie przetrzymywać lajki w bazie danych?
+
+[https://dev.to/danielhe4rt/database-101-how-social-media-likes-are-stored-in-a-database-3oii](https://dev.to/danielhe4rt/database-101-how-social-media-likes-are-stored-in-a-database-3oii)
+
+INFO: Tworzysz usługę, w której istnieje możliwość lajkowania wpisów na wzór sieci społecznościowych? Tylko jak te lajki trzymać w bazie w efektywny sposób? Tradycyjne podejście skończy się tak, że im więcej akcji wykonanych zostanie na danym poście, tym wolniej będzie działał algorytm zliczający. Pamiętaj, że musisz zapisywać nie tylko liczbę akcji, ale także informację, kto ją wykonał (aby np. nie dało się głosować dwa razy lub aby dało się swój głos cofnąć). Artykuł omawia, jak można to zrobić sprytnie i wydajnie.
+
+### 9. Zrozum jak działa DNS... budując własny serwer przez weekend
+
+[https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
+
+INFO: Kolejny świetny tekst (a tym razem właściwie ebook) od Julii Evans, przedstawiający zasadę działania DNS-a i jego implementację krok po kroku. W pierwszym akapicie masz link do wspomnianego ebooka w wersji online.
+
+### 10. Jeszcze bardziej skomplikowane popupy z ciasteczkami?
+
+[https://www.internet-czas-dzialac.pl/uzasadniony-interes-zaslona-dymna-w-okienkach-rodo/](https://www.internet-czas-dzialac.pl/uzasadniony-interes-zaslona-dymna-w-okienkach-rodo/)
+
+INFO: Często okienka na stronach internetowych z ustawieniami cookies/danych osobowych zawierają obszerną listę celów przetwarzania danych i każdy z nich jest opatrzony dwoma suwakami: "zgoda" oraz "uzasadniony interes". Jaki one mają sens z prawnego punktu widzenia i czym się różnią? O co w tym chodzi?
+
+### 11. Typograficzny lifting strony - case study
+
+[https://pimpmytype.com/review-damjan/](https://pimpmytype.com/review-damjan/)
+
+INFO: Czy odbiór strony można poprawić, zmieniając jedynie typograficzne elementy? Oczywiście! Trzeba tylko wiedzieć, jak to zrobić. Artykuł omawia konkretny przykład implementacji takich ulepszeń.
+
+### 12. O co chodzi z formatem zapisu kolorów OKLCH w CSS?
+
+[https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
+
+INFO: Czym jest oklch() i dlaczego niektórzy odchodzą od rgb() i hsl() decydując się właśnie na OKLCH?
+
+### 13. Blog hostowany na... smarfonie z Androidem
+
+[https://androidblog.a.pinggy.io/](https://androidblog.a.pinggy.io/)
+
+INFO: Na blogu znajdziesz oczywiście artykuł o tym, jak przerobić swój stary telefon z androidem na prosty serwer do hostowania stron i jak wystawić go na świat nie posiadając publicznego adresu IP.
+
+### 14. A gdyby tak zimą podgrzewać chodniki, zamiast je odśnieżać? (film, 2 minuty)
+
+[https://www.youtube.com/watch?v=mq-1m-zvPus](https://www.youtube.com/watch?v=mq-1m-zvPus)
+
+INFO: To rozwiązanie brzmi jak szalony pomysł, ale jak się okazuje, w niektórych okolicznościach (np. bliskość elektrowni generującej nadmiarowe ilości ciepłej wody) jest dużo tańsze oraz wydajniejsze niż odśnieżanie chodników i posypywanie ich solą.
+
+### 15. Tunelowanie dowolnych usług przez Cloudflare
+
+[https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service)
+
+INFO: Platforma Cloudflare oferuje swoje bezpieczne tunele dla aplikacji webowych postawionych na maszynach bez publicznego IP. Niestety, natywnie wspierane są właśnie jedynie aplikacje działające po protokołach HTTP/HTTPS. Artykuł opisuje, jak za pomocą takiego tunelu wystawić na świat absolutnie dowolną aplikacje działającą po TCP (np. serwer SSH).
+
+### 16. Projekty ustawy o PIT trafił na... GitHuba
+
+[https://github.com/ProjektyUstaw/Ustawy-o-PIT](https://github.com/ProjektyUstaw/Ustawy-o-PIT)
+
+INFO: Bardzo innowacyjna metoda publikacji (jak na projekt ustawy). Uwagi zbierane są przez issues, propozycje poprawek przez pull-requesty. W repozytorium nie brakuje trolli, ale widać, że projekt fajnie się rozwija.
+
+### 17. Lista 302 najpopularniejszych artykułów na temat frontend developmentu od Hackernoon
+
+[https://hackernoon.com/302-stories-to-learn-about-front-end-development?source=rss](https://hackernoon.com/302-stories-to-learn-about-front-end-development?source=rss)
+
+INFO: Znany portal z poradnikami i tutorialami opublikował kompilację swoich najlepszych artykułów dla frontend developerów. Są posortowane od najczęściej czytanych, więc na początku znajdziesz te najbardziej docenione przez społeczność bloga.
+
+### 18. Mapa githuba z humorystycznymi nazwami krain
+
+[https://anvaka.github.io/map-of-github/](https://anvaka.github.io/map-of-github/)
+
+INFO: Jakie krainy są największe na GitHubie? Wygląda na to, że wyłania nam się wyspa AILandii, ale i Privatopia z Fronterrą ją doganiają rozmiarami. Pobaw się zoomem, a zrozumiesz, o co chodzi. Traktuj to raczej jako rozrywkową treść.
+
+### 19. Tworzenie rozszerzenia do przeglądarki z użyciem Copilota
+
+[https://github.blog/2023-05-12-how-i-used-github-copilot-to-build-a-browser-extension/](https://github.blog/2023-05-12-how-i-used-github-copilot-to-build-a-browser-extension/)
+
+INFO: Autor przedstawia metodę, jakiej użył do stworzenia swojego rozszerzenia (webextension działające na silniku Chromium), bez wiedzy na temat tworzenia rozszerzeń. Wszystkie podpowiedzi otrzymał od Copilota.
+
+### 20. Distrobox - prosty sposób na wypróbowanie różnych dystrybucji linuxa w swoim terminalu
+
+[https://github.com/89luca89/distrobox](https://github.com/89luca89/distrobox)
+
+INFO: Jednym poleceniem przełącz się między Ubuntu, Debianem, Alpine, Archiem i wieloma innymi dystrybucjami. Można to wykorzystać do testów aplikacji na różnych platformach, ale także do stworzenia małego laba do nauki obsługi tych dystrybucji.
+
+### 21. Co nowego w świecie animacji webowych? (film, 18 minut)
+
+[https://www.bram.us/2023/05/16/whats-new-in-web-animations/](https://www.bram.us/2023/05/16/whats-new-in-web-animations/)
+
+INFO: Prezentacja z konferencji Google I/O 2023 omawiająca, co ciekawego związanego z animacjami webowymi pojawiło się w Chrome.
+
+### 22. Powstały dwie nowe i dość niebezpieczne domeny TLD
+
+[https://financialstatement.zip/](https://financialstatement.zip/)
+
+INFO: Mowa o ZIP oraz MOV. Jedna sugeruje, że mamy do czynienia ze skompresowanym plikiem, a druga, że jednak z filmem. Problem polega na tym, że oba te rozszerzenia to obecnie pełnoprawne końcówki domen globalnych.
+
+### 23. Uważaj na funkcję 'undo copy' w Windowsie
+
+[https://mihai.fm/how-to-lose-your-work-using-undo-copy-in-windows/](https://mihai.fm/how-to-lose-your-work-using-undo-copy-in-windows/)
+
+INFO: Ktoś chyba nie do końca przemyślał jej działanie, a umieszczenie jej w bardzo łatwo dostępnym miejscu w menu i do tego bez konieczności potwierdzenia swojej decyzji, może doprowadzić do przypadkowej utraty danych.
+
+### 24. Zaawansowane sztuczki w repozytorium GIT-a (film, 40 minut)
+
+[https://www.youtube.com/watch?v=9TGdH7CrNyE](https://www.youtube.com/watch?v=9TGdH7CrNyE)
+
+INFO: Wystąpienie na temat GIT-a na konferencji FullStackEurope 2022. Nawet zaawansowani użytkownicy znajdą tam coś dla siebie. Warto rzucić okiem, aby usprawnić swoją pracę z tym systemem kontroli wersji.
+
+### 25. Nagłówki autoryzacyjne w HTTP - wszystko, co musisz wiedzieć
+
+[https://compile7.org/decompile/authorization-request-headers-explained/](https://compile7.org/decompile/authorization-request-headers-explained/)
+
+INFO: Uwierzytelnienie w aplikacji webowej przez protokół HTTP może nastąpić na kilka różnych sposobów. Przez token Bearer, przez Basic Auth, klucz API przesyłany na różne sposoby, przez Digest Auth, OAuth2 i jeszcze kilka innych. Jak one wszystkie działają? Oto skrótowy opis najpopularniejszych metod uwierzytelnienia się przez nagłówek HTTP.
+
+### 26. Aplikacja online do generowania estetycznego tła dla screenshotów
+
+[https://app.jellylade.com/](https://app.jellylade.com/)
+
+INFO: Chcesz udostępnić zrzut ekranu w social mediach, a może wrzucić go do ebooka, czy dokumentacji? Niestety, Twoja grafika nijak nie pasuje wymiarami do tego, czego potrzebujesz. Trzeba dodać jej jakiś 'wypełniacz' - jakieś tło pod Twój obrazek. Do tego służy ta aplikacja online. Jeśli pobawisz się trochę opcjami, to efekty będą bardzo estetyczne.
+
+### 27. Google usunie konta nieużywane od co najmniej 2 lat
+
+[https://techcrunch.com/2023/05/16/google-to-delete-accounts-inactive-for-two-years-in-security-push/](https://techcrunch.com/2023/05/16/google-to-delete-accounts-inactive-for-two-years-in-security-push/)
+
+INFO: O ile jest to normalna praktyka wśród dostawców poczty internetowej, z kontem Google są powiązane również inne usługi, gdzie przechowywane dane mogą mieć dużą wartość nie tylko dla samego użytkownika, ale również innych internautów. Przykładem jest YouTube, gdzie wiele starych filmów (np. od autorów, którzy już nie żyją?) i komentarzy prawdopodobnie zostanie usuniętych.
+
+### 28. Przestań stylować paski przewijania na stronach!
+
+[https://ericwbailey.website/published/dont-use-custom-css-scrollbars/](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
+
+INFO: Scrollbary idealnie zgrane z kolorystyką brandu być może i wyglądają atrakcyjnie, ale nie tylko o wygląd chodzi. One czemuś służą, a dodatkowe ich stylowanie może utrudnić, a nie ułatwić zadanie, jakie mają spełniać.
+
+### 29. Jak zdeployować projekt pisany w Golang na Kubernetes
+
+[https://medium.com/@kasthedeveloper/how-to-deploy-your-golang-project-on-kubernetes-d22d2b4c70c7](https://medium.com/@kasthedeveloper/how-to-deploy-your-golang-project-on-kubernetes-d22d2b4c70c7)
+
+INFO: Dobre wprowadzenie do deploymentu własnej aplikacji (tutaj na przykładzie języka GO) na infrastrukturze Kubernetes z dwoma replikami. Autor używa Minikube do implementacji lokalnie działającej wersji Kubernetes.
+
+### 30. &lrm;HackerNewt - przeglądarka do Hacker News (iOS)
+
+[https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
+
+INFO: Regularnie czytasz newsy z Hacker News? Ta aplikacja pozwoli Ci to robić w szybszy i bardziej wygodny sposób. Obecnie dostępna jest jedynie wersja na iOS.
+
+### 31. Nieoficjalna implementacja API dla Google Bard
+
+[https://uw7.org/un_e5485e6633dd2](https://uw7.org/un_e5485e6633dd2)
+
+INFO: Jeśli chcesz zautomatyzować zapytania do sztucznej inteligencji od Google, to ten projekt Ci to umożliwi. Oficjalnie Bard nie posiada jeszcze API, więc to rozwiązanie traktuj bardziej jako ciekawostkę, ponieważ za jakiś czas może przestać działać. Do eksperymentów programistycznych jednak powinno wystarczyć.
+
+### 32. Wyszukiwarka darmowych aplikacji i narzędzi online
+
+[https://uw7.org/un_f558e265e7bd5](https://uw7.org/un_f558e265e7bd5)
+
+INFO: Potrzebujesz darmowego narzędzia, które robi X? Wpisz słowo/słowa kluczowe opisujące to, czego szukasz i gotowe. Pokaźna kolekcja softu. Samych kategorii jest ponad pół tysiąca, więc raczej używaj wyszukiwarki.
+
+### 33. Przedpremierowy dostęp do kursu "GIT w godzinę"
+
+[https://uw7.org/un_0efdd610b48e2](https://uw7.org/un_0efdd610b48e2)
+
+INFO: Naucz się jak efektywnie korzystać z najpopularniejszego systemu kontroli wersji. Wprowadzenie do pracy zdalnej, lokalnej i rozwiązywania problemów.
+
+## 2023-05-12
+
+### 1. Jak działa DNS? - wykład (40 minut)
+
+[https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
+
+INFO: Ciekawy i sympatyczny wykład prowadzony przez Julię Evans. Autorka przedstawia jak nauczyła się zasad działania DNS-a w około 10 lat. Prezentacja przy okazji pokazuje jej podejście do nauki nowych zagadnień.
+
+### 2. Pełne nagranie Google Keynote z Google I/O '23 (film, 2h)
+
+[https://youtube.com/live/cNfINi5CNbY](https://youtube.com/live/cNfINi5CNbY)
+
+INFO: Nad czym pracuje Google, jakie produkty właśnie ujrzały światło dzienne i co czeka nas w niedalekiej przyszłości? Jeśli ostatnio irytują Cię materiały na temat sztucznej inteligencji, to może bezpieczniej będzie, jeśli pominiesz to nagranie ;)
+
+### 3. Co Google zaprezentowało na swojej konferencji Google I/O?
+
+[https://www.cnbc.com/2023/05/10/google-io-2023-live-updates.html](https://www.cnbc.com/2023/05/10/google-io-2023-live-updates.html)
+
+INFO: Podsumowanie wszystkich nowości dla ludzi, którzy nie chcą oglądać całej prezentacji, a szukają jedynie jej streszczenia.
+
+### 4. Zainteresowanie StackOverflow spadło o 13.9% - winny ChatGPT
+
+[https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/](https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/)
+
+INFO: Wygląda na to, że programiści oswoili się z technologiami AI i coraz częściej korzystają z ChatGPT i CoPilota, powoli porzucając Stack Overflow. Spadek zainteresowania serwisem jest stały, a w marcu osiągnął swój szczyt.
+
+### 5. Chcesz mieć inteligentny dom? Lepiej pomiń ekosystem Google
+
+[https://www.androidauthority.com/google-smart-home-3319869/](https://www.androidauthority.com/google-smart-home-3319869/)
+
+INFO: Przemyślenia autora na temat podejścia Google do urządzeń do smart home. Uśmiercanie projektów, niestabilność rozwiązań, utrudnianie pracy firmom trzecim... to tylko niektóre z przewinień ich platformy. Czy z takim podejściem można traktować Google jako bazę do budowy smart rozwiązań, które mają działać przez lata? Według autora zdecydowanie nie.
+
+### 6. LibRedirect - alternatywne frontendy dla znanych serwisów
+
+[https://libredirect.github.io/](https://libredirect.github.io/)
+
+INFO: Męczą Cię reklamy wstrzykiwane do większości dużych portali? A może nie lubisz skryptów śledzących? Istnieją dbające o prywatność alternatywne frontendy dla znanych usług. Trzeba tylko pamiętać, aby z nich korzystać. To rozszerzenie po dodaniu do przeglądarki samoczynnie przekieruje Cię na lżejszą (od reklam i skryptów śledzących) wersję strony.
+
+### 7. Bard (AI od Google) jest publicznie dostępny - nie ma listy oczekujących
+
+[https://bard.google.com/](https://bard.google.com/)
+
+INFO: Kilka miesięcy temu informowałem, że można zapisać się na testy nowej usługi, która miała być 'killerem chatGPT'. Zapisałem się, ale się nie doczekałem. Teraz Bard jest publicznie dostępny. Niestety nie działa w Polsce. Chyba że masz VPN-a ;) Jeśli korzystasz z Google Workspace, to w konsoli administratora musisz zezwolić użytkownikom na korzystanie z aplikacji eksperymentalnych, bo bez tego nie zadziała.
+
+### 8. Zamki szyfrowe są bezużyteczne? (film, 8 minut)
+
+[https://youtube.com/watch?v=BgNBZNE1PWY](https://youtube.com/watch?v=BgNBZNE1PWY)
+
+INFO: Youtuber postanowił nauczyć się otwierać różne mechaniczne zamki/blokady bazujące na kodzie dostępowym, chcąc przy okazji udowodnić, że ich bezpieczeństwo jest raczej niewielkie. Czy mu się udało? O tym w nagraniu.
+
+### 9. Niewidzialna technologia wokół nas? - TED (film, 14 minut)
+
+[https://www.ted.com/talks/imran_chaudhri_the_disappearing_computer_and_a_world_where_you_can_take_ai_everywhere](https://www.ted.com/talks/imran_chaudhri_the_disappearing_computer_and_a_world_where_you_can_take_ai_everywhere)
+
+INFO: Komputery stają się coraz mniejsze i w postaci smartwatchy, czy smartfonów mieszczą się już swobodnie w kieszeni. Czy któregoś dnia staną się dla nas niewidzialne i będą po prostu nas otaczać i komunikować się z nami bez konieczności trzymania ich w dłoni? Imran Chauidhri przedstawia implementację technologii, która pozwala na dostęp do AI w każdym możliwym momencie.
+
+### 10. Google odetnie od YouTube użytkowników AdBlocka?
+
+[https://www.ign.com/articles/google-responds-to-reports-of-ad-blockers-being-banned-on-youtube](https://www.ign.com/articles/google-responds-to-reports-of-ad-blockers-being-banned-on-youtube)
+
+INFO: Firma potwierdziła, że eksperymentuje z nowymi technikami wykrywania blockerów reklam. Użytkownicy Reddita już się natknęli na komunikaty z prośbą o wyłączenie adblocka. Wygląda na to, że YT stanie się bardziej uciążliwy do oglądania lub Google przekona więcej osób do kupna dostępu do płatnej wersji usługi.
+
+### 11. Prompt Engineering, czy może Blind Prompting?
+
+[https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
+
+INFO: Czy popularny ostatnio w świecie AI termin 'prompt engineering', to naprawdę 'engineering', czy może zwykłe generowanie promptów aż zadziałają? Autor stara się udowodnić, że projektowanie zapytań do AI to jednak umiejętność, której da się nauczyć i którą można szlifować.
+
+### 12. Kaiber - narzędzie do generowania artystycznych filmów z użyciem AI
+
+[https://kaiber.ai/portfolio](https://kaiber.ai/portfolio)
+
+INFO: Z pewnością natknąłeś się już na YouTube lub w social mediach na teledyski zrealizowane z użyciem AI. Za wieloma z nich stoi Kaiber. Uploadujesz własny film, mówisz, na jaki styl ma zostać przerobiony i w odpowiedzi otrzymujesz artystyczną wizję tego, jak AI wyobraża sobie to, o co poprosisz. Można aktywować konto testowe na 5 dni za darmo. Pozwoli ono na wygenerowanie do 4 minut wideo (można ten czas rozbić na wiele filmów).
+
+### 13. Try Galaxy - czyli przetestuj interfejs OS Samsunga na iPhone
+
+[https://trygalaxy.com/](https://trygalaxy.com/)
+
+INFO: Genialne podejście Samsunga do przekonania użytkowników iPhone do swojego systemu. Dodaj tę stronę na pulpit swojego iOS i poczuj się jak na Androidzie. Aplikacja działa w trybie pełnoekranowym i faktycznie zachowuje się jak natywny Android.
+
+### 14. Apple wyłapało źródła przecieków na temat iOS 17 za pomocą sprytnej zasadzki
+
+[https://www.cultofmac.com/815853/apple-busts-major-ios-17-leaker-tipster/](https://www.cultofmac.com/815853/apple-busts-major-ios-17-leaker-tipster/)
+
+INFO: O tym, że iOS 17 wniesie nowe i dość znaczące zmiany do ekosystemu Apple, słychać już od jakiegoś czasu. Pytanie jednak brzmi 'kiedy to będzie?'. Apple wykazało się sprytem i różnym pracownikom podało różne daty, sprawdzając później, która z dat trafi do mediów.
+
+### 15. RubberDuck - ChatGPT dla VS Code
+
+[https://github.com/rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode)
+
+INFO: Nie każdy programista chce korzystać z Copilota (albo po prostu nie chce za niego płacić). Jednocześnie, wielu korzysta z ChatGPT. RubberDuck pozwala na osadzenie czatu wprost w IDE. Potrzebujesz jedynie wrzucić w konfigurację klucz API od OpenAI. W przeciwieństwie do Copilota nie udostępniasz tam całego swojego kodu.
+
+### 16. Final Cut Pro oraz Logic Pro zawitały na iPada
+
+[https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/](https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/)
+
+INFO: Apple wypuściło edycje iPadowe swoich najpopularniejszych aplikacji do produkcji wideo i obróbki dźwięku. To podejście ma szansę przekonać do iPadów także twórców, którzy do tej pory byli przywiązani tylko do MacOS.
+
+### 17. Czy zapis/odczyt sekwencyjny ma jeszcze znaczenie na dyskach SSD NVMe?
+
+[https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
+
+INFO: Zapis losowy jest szybszy od sekwencyjnego. Niestety przy odczycie tak zapisanych danych mamy straty na wydajności. Tak przynajmniej uczono wszystkich w czasach powszechnego użycia dysków talerzowych. Czy najnowsze modele dysków SSD mają podobne problemy, czy termin zapisu i odczytu sekwencyjnego możemy już uznać za archaizm?
+
+### 18. Jak duże drzewo DOM wpływa na wydajność stron?
+
+[https://web.dev/dom-size-and-interactivity/](https://web.dev/dom-size-and-interactivity/)
+
+INFO: To, że DOM powinien być możliwie mały, to słyszał już prawie każdy, kto zajmuje się frontendem. Jednak ile to jest mało, a ile dużo? Na co to realnie wpływa, jak to policzyć i jak zredukować liczbę nodów w DOM-ie?
+
+### 19. Unlighthouse - googlowy Lighthouse uwzględniający podstrony
+
+[https://unlighthouse.dev/](https://unlighthouse.dev/)
+
+INFO: Twój serwis składa się z dziesiątek różnego rodzaju podstron, a Ty masz je wszystkie zoptymalizować? Uruchomienie Lighthouse na każdej z nich może zająć niezwykle dużo czasu. Ta aplikacja przejdzie po wszystkich podstronach, uruchomi skanowanie, a następnie zaprezentuje Ci wyniki w przystępnej formie. Fajne!
+
+### 20. Transformers Agents od Hugging Face
+
+[https://huggingface.co/docs/transformers/transformers_agents](https://huggingface.co/docs/transformers/transformers_agents)
+
+INFO: Platforma Hugging Face opublikowała swoje nowe API do odpytywania o akcje za pomocą naturalnego języka. Generowanie głosu, opisywanie obrazków, generowanie grafik, a wszystko to za pomocą jednej biblioteki.
+
+### 21. Warunkowe zaciąganie CSS-a w zależności od urządzenia/rozdzielczości
+
+[https://pepelsbey.dev/articles/conditionally-adaptive/](https://pepelsbey.dev/articles/conditionally-adaptive/)
+
+INFO: O istnieniu media query raczej nie muszę nikomu przypominać. Nie każdy jednak wie, że taką konstrukcję można stosować nie tylko na poziomie treści samego arkusza CSS, ale już w momencie jego ładowania. Dzięki takiemu podejściu możemy np. pominąć zaciąganie danego CSS-a, gdy np. niespełnione są pewne warunki (np. rozdzielczość jest za mała).
+
+### 22. Cala - głosowanie na meetingi w stylu Tinderowym
+
+[https://meetcala.com/](https://meetcala.com/)
+
+INFO: Masz w kalendarzu zaplanowane dziesiątki spotkań, ale myślisz, że większość z nich jest zbyteczna? Jest szansa, że Twoi koledzy myślą podobnie. Ta aplikacja importuje Twoje spotkania i pozwala na nie głosować niczym na osoby na Tinderze. Swipe w lewo to odrzucony meeting, a w prawo to zatwierdzony. Jeśli 100% Twojego teamu odrzuci meeting, to zostanie on odwołany, bo znaczy to, że nikt go nie potrzebuje. Aplikacja nie ujawnia, kto jak głosował.
+
+### 23. Sprawdź, czy nazwa Twojego projektu nie jest już zajęta
+
+[https://namae.dev/](https://namae.dev/)
+
+INFO: Wpadłeś na pomysł super aplikacji i wymyśliłeś nawet świetną nazwę dla niej? Ten serwis pozwoli Ci sprawdzić, czy przypadkiem nie jest to już nazwa wykorzystywana przez kogoś innego np. w popularnych nazwach domen, czy w świecie OpenSource (GitHub/GitLab).
+
+### 24. Kalkulator SLA dla usług
+
+[https://uptime.is/](https://uptime.is/)
+
+INFO: Jeśli serwis gwarantuje 99% dostępności, to jak długie awarie są akceptowalne i ile to jest średnio dziennie? Podawane przez dostawców usług wartości SLA często nic nam nie mówią, więc ten kalkulator pozwoli przedstawić te tajemnicze liczby w bardziej przystępnych jednostkach (np. w godzinach).
+
+### 25. INK - React dla aplikacji działających w terminalu
+
+[https://github.com/vadimdemedes/ink](https://github.com/vadimdemedes/ink)
+
+INFO: React jest fajny dla aplikacji przeglądarkowych. A gdyby tak zaimplementować dokładnie takie samo podejście dla narzędzi CLI? Okazuje się, że INK właśnie to robi i idzie mu to całkiem nieźle. To rozwiązanie jest już stosowane w wielu aplikacjach.
+
+### 26. Prostsze powiadomienia o ciasteczkach - nowe API do Cookie
+
+[https://www.thomasvantuycom.com/writing/simpler-cookie-notices/](https://www.thomasvantuycom.com/writing/simpler-cookie-notices/)
+
+INFO: O temacie 'Cookie Store API' wspominałem już kilka wydań newslettera temu. Autor tego artykułu przedstawia, w jaki sposób można użyć tego mechanizmu w celu łatwiejszej implementacji powiadomień o ciasteczkach. Niestety, przez to, że nowe API nie jest jeszcze obsługiwane przez wszystkie przeglądarki, w kodzie jest sporo fallbacków do starego kodu.
+
+### 27. Atuin - historia shella w bazie SQLite
+
+[https://github.com/ellie/atuin](https://github.com/ellie/atuin)
+
+INFO: Interesujące rozwiązanie pozwalające bardzo dokładnie przeszukiwać historię wydawanych w terminalu poleceń. Chcesz wiedzieć, jakie polecenia zawierające komendę 'rm' wydawałeś np. 2 tygodnie temu po 20:15? Dałoby się to osiągnąć rozbudowanym grepem (o ile trzymasz timestampy w historii), ale po co kombinować, gdy jest Atuin?
+
+### 28. The 10 najszybciej rozwijających się aplikacji w 2023 roku
+
+[https://blog.curiosity.ai/the-10-fastest-growing-apps-in-2023-some-will-certainly-surprise-you-95b62f8ba83b](https://blog.curiosity.ai/the-10-fastest-growing-apps-in-2023-some-will-certainly-surprise-you-95b62f8ba83b)
+
+INFO: Ranking został przygotowany rzez analityków z firmy Okta i uwzględnia wzrost liczby użytkowników z roku na rok (YoY). Przyznam, że nigdy nie słyszałem o niektórych z tych produktów, a numer pierwszy mnie zaskoczył.
+
+### 29. Flexbox Froggy - prosta gra do nauki Flexboxa
+
+[https://flexboxfroggy.com/#pl](https://flexboxfroggy.com/#pl)
+
+INFO: Kilka lat temu już wrzucałem tego linka do zestawienia, ale myślę, że warto go przypomnieć. Aplikacja w prosty i sympatyczny sposób uczy podstaw obsługi flexboxa w CSS.
+
+### 30. Lista aplikacji w których działają skróty z VIM-a
+
+[https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
+
+INFO: Po co się uczyć skrótów klawiszowych z edytora VIM? A no po to, że mnóstwo współczesnych aplikacji korzystają dokładnie takich samych skrótów. W części z tych programów binding klawiszy działa z automatu, a w części można go uruchomić.
+
+### 31. Wprowadzenie do Reduxa dla początkujących
+
+[https://www.freecodecamp.org/news/redux-and-redux-toolkit-for-beginners/](https://www.freecodecamp.org/news/redux-and-redux-toolkit-for-beginners/)
+
+INFO: Bardzo przystępne przedstawienie podstawowych koncepcji i idei stojącymi za tą technologią.
+
+### 32. Dobra praktyki dla programistów nodeJS - aktualizacja z maja 2023
+
+[https://github.com/goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+
+INFO: Kompilacja najlepszych praktyk - architektonicznych i programistycznych - dla developerów NodeJS
+
+### 33. Co nowego w AutoHotKey (AHK)?
+
+[https://www.hillelwayne.com/post/ahk-v2/](https://www.hillelwayne.com/post/ahk-v2/)
+
+INFO: Fani automatyzacji zadań korzystający z Windowsa, prawdopodobnie wcześniej, czy później natrafią na królujący na tym systemie AHK. Chwilę później zorientują się, jak bardzo złe jest programowanie w jego wewnętrznym języku. Okazuje się jednak, że wiele z koszmarków AutoHotKey zostało naprawionych w edycji v2, która wyszła pod koniec stycznia tego roku.
+
+### 34. Jak przygotować się do rozmowy o pracę będąc developerem
+
+[https://uw7.org/un_bddf1ce823bab](https://uw7.org/un_bddf1ce823bab)
+
+INFO: Zbiór porad, lista zagadnień i materiałów, które niewielkim nakładem pracy pozwolą Ci lepiej przygotować się do technicznej rozmowy podczas rekrutacji na nowe stanowisko pracy. Przy okazji na stronie masz linka do poradnika przeznaczonego dla frontendowców.
+
+## 2023-05-05
+
+### 1. Polskie Piksele - archiwum polskich retro gier
+
+[https://polskiepiksele.pl/](https://polskiepiksele.pl/)
+
+INFO: Gry z bardzo dawnych czasów na platformy takie jak Commodore 64, Atari, Amiga, ZX Spectrum itp. Do wielu z nich dołączone są screeny, a nawet gameplaye.
+
+### 2. Jak radzić sobie ze stresem jako software developer?
+
+[https://andreizgirvaci.com/blog/how-to-reduce-stress-and-overcome-anxiety-as-a-software-developer](https://andreizgirvaci.com/blog/how-to-reduce-stress-and-overcome-anxiety-as-a-software-developer)
+
+INFO: Kolekcja porad, aplikacji i narzędzi, które pomogą Ci zredukować stres i niepokój w pracy. Autor pisze to z perspektywy programisty, ale myślę, że porady są zdatne do zastosowania dla każdego pracownika biurowego.
+
+### 3. A gdyby tak zasilić laptopa baterią z hulajnogi?
+
+[https://transistor-man.com/lenovo_ebike_adapter.html](https://transistor-man.com/lenovo_ebike_adapter.html)
+
+INFO: Ciekawy projekt DIY (ale może nie rób tego w domu OK?) polegający na przerobieniu baterii z hulajnogi elektrycznej w powerbank zdatny do ładowania laptopa. Nie jest to może najbezpieczniejszy projekt do samodzielnego zbudowania, ale działa. Wrzucam jedynie jako ciekawostkę.
+
+### 4. Uruchommy webcama z 1999 roku - sterowniki na Linuksie
+
+[https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
+
+INFO: Ciekawa historia uruchomienia na Linuksie starej, ponad 24-letniej kamerki Logitecha, na którą ostatnie sterowniki wyszły pod Windowsa XP.
+
+### 5. Atakowanie modeli językowych (film, 12 minut)
+
+[https://www.youtube.com/watch?v=h74oXb4Kk8k](https://www.youtube.com/watch?v=h74oXb4Kk8k)
+
+INFO: Autor przedstawia kilka metod na sprawienie, aby model językowy (LLM, np. GPT-4) wykonał nasze instrukcje lub zdradził treść prompta.
+
+### 6. Gwartancja uptime, czyli walka o SLA
+
+[https://world.hey.com/itzy/uptime-guarantees-a-pragmatic-perspective-736d7ea4](https://world.hey.com/itzy/uptime-guarantees-a-pragmatic-perspective-736d7ea4)
+
+INFO: Platformy w necie szczycą się SLA na poziomie 99.999%, ale są i takie, które dają zaledwie 99,5% gwarancji. Jaki poziom uptime powinna gwarantować Twoja aplikacja? Czy jest sens walczyć o każdą tysięczną część punktu procentowego uptime? Ciekawe przemyślenia.
+
+### 7. Dlaczego modele językowe mają halucynacje?
+
+[https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
+
+INFO: ChatGPT zaczyna robić wywody o wielkich ludziach, którzy nigdy nie istnieli, cytując przy tym dzieła, których nigdy nie napisano? To niestety możliwe. Zwie się to halucynacjami. Skąd się biorą, tego dowiesz się z artykułu.
+
+### 8. Chatboty to przyszłość interfejsów webowych? Niekoniecznie...
+
+[https://wattenberger.com/thoughts/boo-chatbots](https://wattenberger.com/thoughts/boo-chatbots)
+
+INFO: Autor tłumaczy, dlaczego jego zdaniem zyskujące ostatnio na popularności chatboty nie są dobrymi zamiennikami dla typowych interfejsów do wprowadzania danych.
+
+### 9. Sparkmesh - śledź swojego ulubionego artystę... wszędzie
+
+[https://www.sparkmesh.com/welcome](https://www.sparkmesh.com/welcome)
+
+INFO: Wrzucasz nazwę artysty muzycznego, a automat zwraca Ci listę jego utworów z najpopularniejszych serwisów muzycznych. Do tego wyszukuje amatorskie wykonania jego utworów (np. z YouTube) oraz daty zbliżających się koncertów. Można dodać wielu artystów do obserwowanych i otrzymywać wieści na ich temat wprost na maila.
+
+### 10. Historia kursorów na klawiaturze (film, 16 minut)
+
+[https://youtube.com/watch?v=BytowtVycc0](https://youtube.com/watch?v=BytowtVycc0)
+
+INFO: Kursory to coś, do czego przywykliśmy. Kiedyś jednak ich nie było, a gdy się pojawiły, nie zawsze wyglądały tak, jak obecnie. Interesujące omówienie historii "klawiszy strzałek" na klawiaturze.
+
+### 11. Inżynieria produktywności deweloperów (film, 43 min)
+
+[https://www.youtube.com/watch?v=fJgWzCIeeWE](https://www.youtube.com/watch?v=fJgWzCIeeWE)
+
+INFO: Developer Productivity Engineering to koncept optymalizacji procesów programistycznych, szczególnie ważny w większych firmach. Dzięki niemu programiści unikają marnowania czasu na nieproduktywne działania, takie jak oczekiwanie na build lub niestabilne testy, co pozwala im skupić się na ważniejszych zadaniach. Tworzenie zespołu zajmującego się tym zagadnieniem może być opłacalne, ponieważ wprowadzenie niewielkich zmian może zaoszczędzić tysiące roboczogodzin każdego dnia.
+
+### 12. Zaawansowany lazy-loading obrazków na stronie (CSS+JS)
+
+[https://blog.webdevsimplified.com/2023-05/lazy-load-images/](https://blog.webdevsimplified.com/2023-05/lazy-load-images/)
+
+INFO: Lazy loading to technika, która niewątpliwie przyspieszy ładowania aplikacji webowej. We współczesnych przeglądarkach jej implementacja ogranicza się do dodania jednego dodatkowego atrybutu do tagu IMG. Da się to jednak zrobić lepiej i znacznie bardziej estetycznie.
+
+### 13. Lazyweb - zasoby dla webdeveloperów
+
+[https://app.lazyweb.rocks/](https://app.lazyweb.rocks/)
+
+INFO: Bardzo rozbudowana i dobrze posortowana kolekcja zasobów (narzędzi, generatorów, bibliotek itp.) dla osób z branży WebDev.
+
+### 14. PGROK, czyli ngrok dla ubogich
+
+[https://github.com/pgrok/pgrok](https://github.com/pgrok/pgrok)
+
+INFO: Ngrok to narzędzie do wystawiania na zewnątrz aplikacji uruchomionych na maszynach bez publicznego adresu IP (np. Twój serwer w sieci LAN). Niestety usługi ngroka są płatne, a pakiet darmowy nie każdemu wystarczy do pracy. Jeśli masz własną domenę i własny serwer, to pgrok zapewnia Ci to samo co ngrok, ale bez opłat.
+
+### 15. Twórz lepsze arkusze CSS implementując pomysły z JavaScriptu
+
+[https://www.smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/](https://www.smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/)
+
+INFO: W przypadku tworzenia funkcji w JavaScript mamy pewne wytyczne, które poprawiają czytelność kodu, ułatwiają rozbudowę aplikacji i zmniejszają poziom skomplikowania programu. A gdyby tak zastosować te same zasady do CSS-a?
+
+### 16. Przegląd typów mieszania warstw w CSS (blending modes)
+
+[https://garden.bradwoods.io/notes/css/blend-modes](https://garden.bradwoods.io/notes/css/blend-modes)
+
+INFO: Czym są tryby mieszania w CSS i jak używać background-blend-mode u mix-blend-mode? Artykuł zawiera interaktywne przykłady zastosowania tych rozwiązań.
+
+### 17. Jak dostosować ikony do towarzyszących im fontów?
+
+[https://evilmartians.com/chronicles/icon-transcendence-customizing-icons-to-complement-fonts](https://evilmartians.com/chronicles/icon-transcendence-customizing-icons-to-complement-fonts)
+
+INFO: Dobry tekst dla designerów. Masz np. pozycję w menu na stronie napisaną wyjątkowo ozdobnym fontem. Obok niej znajduje się ikona. Jak sprawić, aby oba te obiekty współgrały ze sobą? Tego dowiesz się z artykułu.
+
+### 18. Zbiór narzędzi wspomagających prywatność i anonimowość online
+
+[https://prism-break.org/en/](https://prism-break.org/en/)
+
+INFO: Jak uciec od klasycznych, chmurowych narzędzi zarządzanych przez duże korporacje i podnieść poziom swojej prywatności, a może i niekiedy zyskać anonimowość w sieci? Rzuć okiem na to zestawienie. Na początku musisz jedynie wybrać platformę, na której pracujesz.
+
+### 19. Wzorce projektowe dla mikroserwisów
+
+[https://dzone.com/articles/design-patterns-for-microservices-ambassador-anti](https://dzone.com/articles/design-patterns-for-microservices-ambassador-anti)
+
+INFO: Wiesz, czym jest wzorzec ambasadora, czym jest 'warstwa antykorupcyjna', wzorzec wyłącznika, czym jest api gateway, Saga, Event Sourcing itp? Tego dowiesz się z artykułu.
+
+### 20. Zostań WebDeveloperem w 12 tygodni - kurs online
+
+[https://github.com/microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
+INFO: Lubisz uczyć się w sposób uporządkowany z podzieleniem materiału na porcje i w mierzalny sposób śledzić swoje postępy? Znajdziesz tutaj 12-tygodniowy program nauki JavaScriptu, HTML-a, CSS-a i narzędzi używanych w świecie programistycznym jak np. GIT. Każda lekcja posiada teoretyczne wprowadzenie, quizy, projekty tworzone przez nauczyciela i zadanie do wykonania.
+
+### 21. Webowe narzędzie do izolowania dźwięków ze spektrogramów
+
+[https://webfft.net/dft/](https://webfft.net/dft/)
+
+INFO: Coś dla fanów informatyki śledczej. Masz nagranie, na którym są szumy i inne dźwięki otoczenia, a chcesz mieć np. tylko zarejestrowany głos rozmówcy. Wystarczy załadować plik z nagraniem i zaznaczyć interesujący Cię fragment spektrogramu.
+
+### 22. Jak z użyciem nowoczesnego CSS-a zbudować stronę "Vox news"?
+
+[https://ishadeed.com/article/rebuild-featured-news-modern-css/](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
+
+INFO: Autor pokazuje krok po kroku jak zbudować stronę główną jednego ze znanych portali newsowych. Używa przy tym nowoczesnych technik dostępnych w CSS.
+
+### 23. Interfejs webowy do narzędzia DIG
+
+[https://digwebinterface.com/](https://digwebinterface.com/)
+
+INFO: Pozwala odpytywać (także hurtowo) domeny za pomocą protokołu DNS. Można zdefiniować własne DNS-y do użycia przy zapytaniach.
+
+### 24. Czym jest hoisting w JavaScript?
+
+[https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/)
+
+INFO: Jest to dość specyficzne zachowanie języka w stosunku do zmiennych, obiektów, czy klas. W uproszczeniu polega na odwołaniu się do czegoś, co dopiero później zostanie zdefiniowane w kodzie. Być może nie przyda Ci się ta wiedza w codziennym życiu, ale rekruterzy uwielbiają tą wiedzą katować kandydatów na rozmowach o pracę, więc warto przynajmniej wiedzieć, o co chodzi.
+
+### 25. Który język programowania jest najłatwiejszy, a który najtrudniejszy do nauczenia?
+
+[https://hackernoon.com/the-easiest-and-hardest-programming-languages-to-learn?source=rss](https://hackernoon.com/the-easiest-and-hardest-programming-languages-to-learn?source=rss)
+
+INFO: Subiektywny ranking najłatwiejszych i najtrudniejszych języków programowania do nauki. Wraz z przykładowymi materiałami do nauki, takimi jak kursy na Udemy, Coursera itd. Wybaczcie autorom wpisanie HTML-a na listę języków programowania ;)
+
+### 26. Wiele sposobów na zapis adresu IPv4
+
+[https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
+
+INFO: Wiedziałeś, że zera w adresie są opcjonalne, adres IP może być jednocyfrowy, części adresu mogą przekroczyć dopuszczalny zakres liczb, a sam adres można zapisać w formie ósemkowej?
+
+### 27. Zamontuj Google Cloud Storage jako dysk w Linuksie
+
+[https://cloud.google.com/storage/docs/gcs-fuse](https://cloud.google.com/storage/docs/gcs-fuse)
+
+INFO: Mowa o storage w chmurze Google, a nie o Google Drive. Można go teraz zamontować jako zwykły katalog w filesystemie (przez rozszerzenie FUSE), co sprawi, że jego użycie będzie możliwe także przez aplikacje, które nie wspierają tego rozwiązania.
+
+### 28. TEA - graficzny instalator pakietów dla MacOS
+
+[https://tea.xyz/gui/](https://tea.xyz/gui/)
+
+INFO: Zamiennik dla znanego z MacOS menadżera pakietów homebrew w wersji z GUI. Obecnie jest to wersja testowa obsługująca niewiele pakietów, ale już można się nią pobawić.
+
+### 29. Wielka kolekcja narzędzi bazujących na AI
+
+[https://uw7.org/un_a7dbefc57da17](https://uw7.org/un_a7dbefc57da17)
+
+INFO: Łącznie ponad 4500 projektów, które pośrednio lub bezpośrednio opierają swoje działanie na sztucznej inteligencji. Projekty są posegregowane na kategorie.
+
+### 30. Podstawy AI w 12 tygodni - darmowy kurs online
+
+[https://uw7.org/un_5dc4acb67b831](https://uw7.org/un_5dc4acb67b831)
+
+INFO: Kolekcja 24 lekcji na temat AI, rozpisanych na 12 tygodni nauki. Agenda obejmuje zagadnienia związane z Pythonem (PyTorch), Tensorflow i Kerasem. Do kursu dołączono sporo gotowych notatek z Jupyter Notebooks.
+
+### 31. Automatyzacja zadań w Internecie - mini wideo kurs
+
+[https://uw7.org/un_8d81f3703017c](https://uw7.org/un_8d81f3703017c)
+
+INFO: Kurs mojego autorstwa składający się z dwóch lekcji. Przedstawia on podstawy obsługi narzędzia Make (dawniej Integromat) oraz N8N.
+
+## 2023-04-28
+
+### 1. Street View z ukraińskich miast - zniszczenia wojenne
+
+[https://theundeniablestreetview.com/](https://theundeniablestreetview.com/)
+
+INFO: W czasach licznych fake newsów i dezinformacji, może to być ciekawym punktem odniesienia. Przejdź się ulicami ukraińskich miast i zobacz, jak wyglądają obecnie. W niektórych lokalizacjach dostępna jest także opcja podglądu poprzednich ujęć (before/after).
+
+### 2. Jak działa Deep Learning? - wyjaśnienie dla osób nietechnicznych
+
+[https://www.parand.com/a-completely-non-technical-explanation-of-ai.html](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
+
+INFO: Autor w ciekawy i przystępny sposób tłumaczy, jak działają metody używane w uczeniu maszynowym.
+
+### 3. Prompt Injection w praktyce - gra online
+
+[https://gpa.43z.one/](https://gpa.43z.one/)
+
+INFO: Spróbuj namówić sztuczną inteligencję (dostarczając jej odpowiedni prompt), aby zdradziła sekretne słowo, którego nie wolno jej zdradzać. Przyjemna gierka ucząca przy okazji podstaw ataków na prompty.
+
+### 4. Lista 69 sposobów na zepsucie deploya
+
+[https://kellyshortridge.com/blog/posts/69-ways-to-mess-up-your-deploy/](https://kellyshortridge.com/blog/posts/69-ways-to-mess-up-your-deploy/)
+
+INFO: Ciekawa aInteresująca kompilacja zdecydowanie niewartych naśladowania praktyk stosowanych przez developerów, które mogą prowadzić do tragedii. Warto przeczytać.
+
+### 5. Zbiór statystyk i trendów związanych ze sztuczną inteligencją
+
+[https://epochai.org/trends](https://epochai.org/trends)
+
+INFO: Jak szybko rozwijają się modele AI? Na jak wielkich zbiorach danych są trenowane? Jak szybko wzrastają ceny uczenia modeli? Coś dla wielbicieli dużej porcji danych liczbowych i wykresów :)
+
+### 6. SlashEscape - gra przygodowa bazująca na RegExpach
+
+[https://www.therobinlord.com/projects/slash-escape](https://www.therobinlord.com/projects/slash-escape)
+
+INFO: Dość prosta gra, w której przechodzisz do kolejnych etapów, wyciągając z tekstu za pomocą wyrażeń regularnych ciągi znaków, o których wspomina scenariusz gry.
+
+### 7. Czym jest i jak działa Load Balancing?
+
+[https://samwho.dev/load-balancing/](https://samwho.dev/load-balancing/)
+
+INFO: Bardzo przystępnie wyjaśnione zagadnienie loadbalancingu na przykładzie serwerów HTTP. Załączone animacje świetnie tłumaczą różne algorytmy stosowane w tym procesie.
+
+### 8. Spraw, aby spotkania w pracy były bardziej produktywne
+
+[https://www.linkedin.com/feed/update/urn:li:activity:7032315724723298304/](https://www.linkedin.com/feed/update/urn:li:activity:7032315724723298304/)
+
+INFO: Spotkania mogą być (i często są) tą najmniej produktywną częścią dnia, której ludzie z IT nie lubią. Oto garść porad, które można wprowadzić, aby nieco ulepszyć formułę spotkań i podnieść zarazem ich wpływ na produktywność.
+
+### 9. Klaster Raspberry Pi bazujący na Turing Pi 2
+
+[https://www.milanvit.net/post/gallery-building-my-own-home-server/](https://www.milanvit.net/post/gallery-building-my-own-home-server/)
+
+INFO: Ciekawa konstrukcja złożona z czterech malinek robiących za domowy serwer/klaster. Całość bazuje na płycie głównej z Kickstartera, dedykowanej do obsługi takiej konstrukcji. Trzeba przyznać, że ciekawe rozwiązanie.
+
+### 10. WebSecurity. Jak zrobić to... ŹLE - wykład z 'I love Dev 2022' (film, 55 minut)
+
+[https://www.youtube.com/watch?v=IBSMbKQiNJw](https://www.youtube.com/watch?v=IBSMbKQiNJw)
+
+INFO: Nagranie wykładu na tematy luźno powiązane z websecurity. Jest coś o SPF, jest o certyfikatach SSL, trochę o cachowaniu danych, o wysyłaniu maili z własnej domeny itp.
+
+### 11. Zbiór snippetów do poprawy wydajności stron WWW
+
+[https://github.com/nucliweb/webperf-snippets](https://github.com/nucliweb/webperf-snippets)
+
+INFO: Repozytorium zbierające krótkie kody JS mogące pomóc Ci w poprawie szybkości ładowania stron internetowych, które tworzysz oraz w znalezieniu elementów, które je spowalniają.
+
+### 12. Zrozum matematykę za pomocą animacji
+
+[https://www.3blue1brown.com/](https://www.3blue1brown.com/)
+
+INFO: Kolekcja filmów tłumaczących trudne zagadnienia matematyczne z użyciem estetycznych animacji.
+
+### 13. Jak zainstalować AutoGPT na własnym komputerze? Poradnik
+
+[https://scribe.rip/complete-guide-to-setup-autogpt-revolutionize-your-task-automation-with-gpt-4-39eda5a85821](https://scribe.rip/complete-guide-to-setup-autogpt-revolutionize-your-task-automation-with-gpt-4-39eda5a85821)
+
+INFO: O AutoGPT jest ostatnio głośno, ale niestety w przeciwieństwie do ChatGPT, nie ma do tej aplikacji interfejsu webowego, a trzeba samodzielnie zainstalować kilka paczek pythonowych, co sprawia, że projekt jest popularny głównie u osób technicznych. Okazuje się, że instalacja jest jednak dziecinnie prosta i ogranicza się do wydania zaledwie kilku poleceń w terminalu.
+
+### 14. Czy można uruchomić Podmana w kontenerze?
+
+[https://www.redhat.com/sysadmin/podman-inside-container](https://www.redhat.com/sysadmin/podman-inside-container)
+
+INFO: Technologia do konteneryzacji uruchomiona wewnątrz innej technologii do konteneryzacji? Podman w Podmanie, Podman w Dockerze, Podman w Kubernetes... tak, to możliwe. Nie jest to łatwe, ale wykonalne.
+
+### 15. Lost at SQL - gra ucząca składni SQL-a
+
+[https://lost-at-sql.therobinlord.com/](https://lost-at-sql.therobinlord.com/)
+
+INFO: Tekstowa gra przygodowa, w której rozwiązujesz kolejne problemy bohaterów z użyciem zapytań SQL. Zapytania piszesz w edytorze z podpowiadaniem składni, więc jest trochę łatwiej. Fajne!
+
+### 16. PotatoP - laptop, którego bateria trzyma... 2 lata
+
+[https://hackaday.io/project/184340-potatop](https://hackaday.io/project/184340-potatop)
+
+INFO: Nie jest to oczywiście pełnoprawny laptop uruchamiający któryś z najpopularniejszych systemów operacyjnych, ale jest programowalny, posiada klawiaturę i wyświetlacz i uruchamia nawet Lispa.
+
+### 17. Jak tworzyć strony przystępne dla osób z różnego rodzaju ograniczeniami?
+
+[https://stackdiary.com/web-accessibility/](https://stackdiary.com/web-accessibility/)
+
+INFO: Bardzo rozbudowany poradnik opisujący udogodnienia, które można zaimplementować na stronach WWW, a które w znaczący sposób mogą podnieść komfort korzystania z nich przez osoby z ograniczeniami (problemy z postrzeganiem barw, zły kontrast, sterowanie klawiaturą, używanie czytników ekranu itp.).
+
+### 18. Ściezki do plików w Windowsie są dziwniejsze, niż myślisz
+
+[https://www.fileside.app/blog/2023-03-17_windows-file-paths/](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
+
+INFO: Na ile różnych sposobów umiesz zapisać ścieżkę do pliku w Windowsie? 1-2? No to poznaj kilkanaście kolejnych. Czy jest to wiedza użyteczna? Oczywiście! Zabłyśniesz dzięki niej na spotkaniu z kolegami nerdami ;)
+
+### 19. Przegląd typów baz danych
+
+[https://blog.bytebytego.com/p/understanding-database-types](https://blog.bytebytego.com/p/understanding-database-types)
+
+INFO: Nie do końca rozumiesz różnice pomiędzy bazami NoSQL/SQL lub nie wiesz, która baza od AWS czy Azure spełni Twoje potrzeby? Zajrzyj do artykułu.
+
+### 20. Pułapki związane z 'const' w JavaScript
+
+[https://www.joshwcomeau.com/javascript/the-const-deception/](https://www.joshwcomeau.com/javascript/the-const-deception/)
+
+INFO: W JavaScript bardzo łatwo można stworzyć 'stałą', czyli definicję czegoś, co w teorii nigdy nie powinno się zmieniać. Jak to zwykle w JS bywa, działanie tego ficzera dalekie jest od logiki ;)
+
+### 21. EWW - stwórz sobie kolekcję widgetów dla Linuksa
+
+[https://github.com/elkowar/eww](https://github.com/elkowar/eww)
+
+INFO: Framework do tworzenia widgetów na Linuxa, działa z każdym środowiskiem graficznym. W repozytorium znajdziesz linki do gotowych szablonów konfiguracji.
+
+### 22. Kanały IPTV z całego świata
+
+[https://github.com/iptv-org/iptv](https://github.com/iptv-org/iptv)
+
+INFO: Playlista z kolekcją kanałów IPTV (Internet Protocol Television) z całego świata. Można je wrzucić np. do odtwarzacza VLC i oglądać.
+
+### 23. Ataki na paczki pythonowe (film, 36 minut)
+
+[https://www.youtube.com/watch?v=qcRLEtln-ZY](https://www.youtube.com/watch?v=qcRLEtln-ZY)
+
+INFO: Prelekcja Mateusza Chroboka, gościa specjalnego 57 edycji PyStok. Przegląd popularnych ostatnio form ataku. Mateusz wspomina także jak przeprowadzić przykładowy atak na ekosystemie Pythona i jak się przed nim chronić.
+
+### 24. Czy ChatGPT potrafi napisać bezpieczny soft dla pentesterów? Sekurak sprawdził
+
+[https://sekurak.pl/poprosilismy-chatgpt-zeby-przygotowal-narzedzie-przydatne-w-audycie-bezpieczenstwa-przygotowal-tyle-ze-z-krytyczna-podatnoscia-umozliwiajaca-przejecie-komputera-pentestera/](https://sekurak.pl/poprosilismy-chatgpt-zeby-przygotowal-narzedzie-przydatne-w-audycie-bezpieczenstwa-przygotowal-tyle-ze-z-krytyczna-podatnoscia-umozliwiajaca-przejecie-komputera-pentestera/)
+
+INFO: Autorzy artykułu poprosili ChatGPT o przygotowanie narzędzia, przydatnego przy audycie bezpieczeństwa. Udało się, ale... wraz z dziurą, która umożliwia przejęcie kontroli nad komputerem używającego.
+
+### 25. FiraCode - darmowy font o stałej szerokości z ligaturami dla programistów
+
+[https://github.com/tonsky/FiraCode](https://github.com/tonsky/FiraCode)
+
+INFO: Szukasz fonta, który sprawi, że Twój IDE będzie bardziej czytelny, a także zwróci uwagę na subtelne różnice w zapisie różnych ciągów znaków i ich kombinacji? Ten font może Ci się przydać
+
+### 26. Porozmawiaj ze zmarłym dzięki AI?
+
+[https://futurism.com/ai-dead-woman-talk-people-funeral](https://futurism.com/ai-dead-woman-talk-people-funeral)
+
+INFO: Ciekawe zastosowanie sztucznej inteligencji w celu utworzenia wirtualnej kopii zmarłej osoby. Trochę zaczyna to przypominać sceny z filmu Black Mirror, ale z drugiej strony cel, w jakim powstał ten projekt (zachowanie wspomnień ludzi, którzy przeżyli holocaust) może być dobrym zastosowaniem dla AI.
+
+### 27. Nowe opcje prywatności na ChatGPT
+
+[https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt)
+
+INFO: Od 25 kwietnia można już ustawień na ChatGPT opcję, która dezaktywuje historię chatu i zarazem sprawia, że dane wysyłane do okna chatu nie będą używane do trenowania modeli od OpenAI
+
+### 28. Lista najciekawszych repozytoriów AI na GitHubie
+
+[https://uw7.org/un_3919a80b0a0d7](https://uw7.org/un_3919a80b0a0d7)
+
+INFO: Zestawienie repozytoriów z dziedziny AI, którymi warto się zainteresować.
+
+## 2023-04-21
+
+### 1. Niesamowity potencjał ChatGPT - Greg Brockman na scenie TED-a
+
+[https://www.ted.com/talks/greg_brockman_the_inside_story_of_chatgpt_s_astonishing_potential/comments](https://www.ted.com/talks/greg_brockman_the_inside_story_of_chatgpt_s_astonishing_potential/comments)
+
+INFO: Współzałożyciel OpenAI przedstawia ciekawe możliwości, które dają nieopublikowane jeszcze pluginy do ChatGPT, które rozszerzają jego możliwości. Prezentuje się to imponująco.
+
+### 2. Klaster K8s na Raspberry Pi - zrób to sam
+
+[https://kaluzny.io/klaster-k8s-na-raspberry-pi-czyli-k3s-na-nowo/](https://kaluzny.io/klaster-k8s-na-raspberry-pi-czyli-k3s-na-nowo/)
+
+INFO: Instrukcja postawienia klastra K8S na kilku Raspberry PI w ładnie wyglądającym wydaniu (artykuł po polsku). Ciekawe i dość tanie rozwiązanie, które z pewnością pozwoli Ci zgłębić wiedzę na temat zarządzania podami Kubernetesa.
+
+### 3. Jak działa Enigma (film, 19 min)
+
+[https://www.youtube.com/watch?v=ybkkiGtJmkM](https://www.youtube.com/watch?v=ybkkiGtJmkM)
+
+INFO: Szczegółowe omówienie działania Enigmy w przystępny sposób z animacjami. Trzeba przyznać, że zasada działania jest dość skomplikowana, ale myślę, że może to zainteresować fanów kryptografii, matematyki i bezpieczeństwa.
+
+### 4. Jak to jest prowadzić bloga zasilanego... energią słoneczną?
+
+[https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
+
+INFO: Autor, inspirując się projektem realizowanym przez Low-Tech Magazine (oni też mają 'solarnego bloga') postanowił w ramach eksperymentu zasilać swojego bloga z paneli PV. Interesujące jest to, jak wiele energii potrzeba do utrzymania zwykłego Raspberry Pi działającego 24h/dobę przez cały rok.
+
+### 5. Algorytm przechodzenia labiryntu z użyciem... wody? (film, 9 minut)
+
+[https://www.youtube.com/watch?v=81ebWToAnvA](https://www.youtube.com/watch?v=81ebWToAnvA)
+
+INFO: W internecie jakiś czas temu pojawił się film pokazujący, jak w łatwy sposób można znaleźć wyjście z każdego labiryntu z użyciem zwykłej wody, która podążając po tunelach, wcześniej czy później znajdzie z niego wyjście. Na animacji wygląda to imponująco, ale czy taka metoda ma prawo działać? Jeden z youtuberów postanowił to sprawdzić.
+
+### 6. Tegoroczny raport bezpieczeństwa od CERT Orange Polska
+
+[https://cert.orange.pl/aktualnosci/raport-cert-orange-polska-2022-juz-jest](https://cert.orange.pl/aktualnosci/raport-cert-orange-polska-2022-juz-jest)
+
+INFO: Computer Emergency Response Team to specjalistyczna jednostka w strukturach Orange Polska, odpowiedzialna za bezpieczeństwo użytkowników internetu, korzystających z sieci tego operatora. Co roku (już od 9 lat) publikują ciekawe raporty na temat zagrożeń, z jakimi zmagali się w roku ubiegłym. Fajnie wydana i niezwykle interesująca lektura. Raport jest w formacie PDF. Nie trzeba się nigdzie rejestrować, aby go pobrać.
+
+### 7. Jak postawić własny, offlinowy model AI podobny do ChatGPT
+
+[https://readmultiplex.com/2023/04/11/how-you-can-install-a-chatgpt-like-personal-ai-on-your-own-computer-and-run-it-with-no-internet/](https://readmultiplex.com/2023/04/11/how-you-can-install-a-chatgpt-like-personal-ai-on-your-own-computer-and-run-it-with-no-internet/)
+
+INFO: Boisz się używać produktów od OpenAI, bo nie wiadomo co dzieje się z Twoimi danymi, a jednocześnie jesteś fanem rozwiązań selfhosted? Ten poradnik podpowie Ci, jak uruchomić własną instancję gpt4all na własnym komputerze. Krok po kroku.
+
+### 8. Naucz się podstaw Linuksa grając w gry
+
+[https://blog.joberty.de/games-to-learn-linux/](https://blog.joberty.de/games-to-learn-linux/)
+
+INFO: Lista gier, które pomogą Ci w lepszym opanowaniu linuksowych narzędzi. Z całej listy najbardziej wciągnęła mnie gra 'Command line mystery'. Grałem w nią wiele lat temu, ale ona moim zdaniem wymagała największego skilla (z podanej listy) w pracy z CLI.
+
+### 9. Twój hosting NIE produkuje stu kilogramów CO2 rocznie?
+
+[https://informatykzakladowy.pl/twoj-hosting-nie-produkuje-stu-kilogramow-co2/](https://informatykzakladowy.pl/twoj-hosting-nie-produkuje-stu-kilogramow-co2/)
+
+INFO: Czy zaparkowana domena może wygenerować emisję ponad 100 kg CO2 rocznie? Autor artykułu postanowił kupić nową domenę, przetestować ją wspomnianym narzędziem i sprawdził, czy wyliczenia serwisu mają szansę pokrywać się z rzeczywistością.
+
+### 10. Backupowanie serwerów - ebook (60 stron)
+
+[https://f001.backblazeb2.com/file/backblaze-b2-collateral/Server+Backup+Ebook.pdf](https://f001.backblazeb2.com/file/backblaze-b2-collateral/Server+Backup+Ebook.pdf)
+
+INFO: Darmowa publikacja od Backblaze opisująca różne metody backupowania serwerów oraz ich wady i zalety. Czym się różni backup od archiwum, a czym backup od synchronizacji międzyserwerowej? Jak przygotować strategię backupowania danych, jak często wykonywać backup, jak długo trzymać stare kopie... na te i wiele innych pytań odpowiedź znajdziesz w e-booku.
+
+### 11. Nagranie z webinaru na temat ChatGPT u Mateusza Chroboka (film, 2h i 20 minut)
+
+[https://www.youtube.com/watch?v=SQEJBJVGVo0](https://www.youtube.com/watch?v=SQEJBJVGVo0)
+
+INFO: Rozbudowane, ponad dwugodzinne wystąpienie składające się w 100% z pytań od widzów. Sporo przemyśleń na temat działania modeli AI, ich możliwości, zastosowań oraz zagrożeń, jakie ze sobą niosą. Mnie się podobało... może dlatego, że byłem zaproszonym gościem ;)
+
+### 12. Wybierz książke do przeczytania na podstawie... pierwszego akapitu
+
+[https://www.loveatfirstline.org/](https://www.loveatfirstline.org/)
+
+INFO: Przeczytaj pierwszy akapit otwierający książkę i zdecyduj, czy brzmi intrygująco i czy to jest styl pisania, który Ci się podoba. Jeśli tak, dodaj książkę od koszyka i poznaj jej tytuł. Pamiętaj tylko, aby wybrać odpowiedni przedział wiekowy (dziecko/nastolatek/dorosły). Bardzo niekonwencjonalna metoda na poszukiwanie lektury do czytania ;)
+
+### 13. Lista incydentów związanych z AI - stale aktualizowana
+
+[https://incidentdatabase.ai/](https://incidentdatabase.ai/)
+
+INFO: Serwis agreguje wpadki znanych marek (Facebook, Google, Tesla itp.) przy używaniu sztucznej inteligencji. Wycieki informacji, błędna klasyfikacja danych, a niekiedy nawet zabici ludzie i inne tego rodzaju wpadki. Najprościej przeglądać przez menu 'Table View' i później 'View All'.
+
+### 14. Jak pomóc sobie w rozwiązywaniu CTF-ów używając ChatGPT (film, 12 minut)
+
+[https://www.youtube.com/watch?v=mT8Zsl8orM0](https://www.youtube.com/watch?v=mT8Zsl8orM0)
+
+INFO: Wyszukiwanie podatności realizowane jest tutaj w pełni ręcznie, ale autor wykorzystuje AI do wygenerowania exploita, dzięki któremu może zaliczyć zadanie. Film prezentuję metodę na używanie tzw. jailbreaków do ChatGPT, które obchodzą cenzurę i pozwalają na wykonywanie akcji w teorii zablokowanych przez model.
+
+### 15. Używaj Midjourney jak profesjonalista - zbiór porad
+
+[https://scribe.rip/youre-using-midjourney-wrong-here-s-how-to-create-better-images-than-99-of-midjourney-users-c876fbe7915e](https://scribe.rip/youre-using-midjourney-wrong-here-s-how-to-create-better-images-than-99-of-midjourney-users-c876fbe7915e)
+
+INFO: Midjourney słynie z tego, że nawet najgorzej napisany prompt daje naprawdę dobre efekty w postaci niesamowitych grafik. Jeśli jednak poznasz kilka prostych sztuczek związanych z budowaniem zapytań, efekty Twojej pracy będą znacznie bardziej przypominać to, co wytwarzają dzięki temu narzędziu profesjonaliści.
+
+### 16. Nieetyczny eksperyment startupu na nastolatkach z depresją
+
+[https://www.vice.com/en/article/5d9m3a/horribly-unethical-startup-experimented-on-suicidal-teens-on-facebook-tumblr-with-chatbot](https://www.vice.com/en/article/5d9m3a/horribly-unethical-startup-experimented-on-suicidal-teens-on-facebook-tumblr-with-chatbot)
+
+INFO: Startup "Koko" automatycznie wyszukiwał na Facebooku i Tumblerze wpisy mogące świadczyć o depresji lub mocnym zagrożeniu zrobieniem sobie krzywdy przez nastolatki, a następnie starał się im pomóc w ramach eksperymentu. Zbierał feedback na temat samopoczucia, niekiedy coś doradzał, a czasami wysyłał zdjęcia kotków. Działanie to uznano za mocno nieetyczne i nieodpowiedzialne.
+
+### 17. ChatPDF - odpytaj AI o dowolnego PDFa
+
+[https://www.chatpdf.com/](https://www.chatpdf.com/)
+
+INFO: Uploadujesz dowolny dokument tekstowy (nie np. skany obrazków) w PDF, a następnie odpytujesz o jego zawartość przez ChatGPT. Pamiętaj jednak, aby nie wrzucać tam wrażliwych danych, a jedynie to, co uznajesz za publiczne. Na darmowym koncie można przetwarzać pliki mające do 120 stron i można zadać do 50 pytań dziennie na ich temat.
+
+### 18. Nowa, lepsza metoda na obsługę ciasteczek w JavaScript
+
+[https://www.raymondcamden.com/2023/04/12/using-the-cookie-store-api](https://www.raymondcamden.com/2023/04/12/using-the-cookie-store-api)
+
+INFO: Dawne metody polegające na dobieraniu się do ciasteczek przez obiekt 'document' odchodzą powoli w niepamięć, a ich miejsce zajmuje obiektowe, asynchroniczne API o całkiem ciekawych możliwościach. CookieStore - mówi Ci to coś? :)
+
+### 19. Wyszukiwarka modeli 3D do wydrukowania
+
+[https://www.printablesearch.com/](https://www.printablesearch.com/)
+
+INFO: Kupiłeś sobie upragnioną drukarkę 3D, która teraz stoi i się kurzy, a Ty nie masz pomysłu, co drukować? Użyj tej wyszukiwarki lub przeglądnij najczęściej ściągane modele i drukuj.
+
+### 20. Sony World Photography Award 2023 wygrała... sztuczna inteligencja?
+
+[https://www.bbc.com/news/entertainment-arts-65296763](https://www.bbc.com/news/entertainment-arts-65296763)
+
+INFO: Nagroda najlepszego zdjęcia 2023 roku została przyznana... zdjęciu (obrazkowi) wygenerowanemu przy pomocy AI (jurorzy nie wiedzieli o tym). Autor na szczęście przyznał się, skąd naprawdę wziął fotkę i zrezygnował z przyjęcia nagrody.
+
+### 21. Firefox pozbędzie się informacji o ciasteczkach ze stron?
+
+[https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
+
+INFO: Wkurzają Cię wszędobylskie informacje o ciasteczkach, które trzeba akceptować? Firefox już niebawem będzie je zamykać za Ciebie. Obecnie jest to funkcja eksperymentalna, ale już można ją ręcznie aktywować w wydaniu Firefox Nightly.
+
+### 22. Aplikacja poprawiająca kontrast na stronie wg. standardów WCAG 2.0
+
+[https://accessible-colors.com/](https://accessible-colors.com/)
+
+INFO: Niektóre z kompozycji kolorów na stronie mogą być skrajnie trudne do odczytania dla zdrowego człowieka, a co dopiero dla ludzi np. z zaburzeniami postrzegania barw, czy kiepsko widzącymi. Podaj jakiego rozmiaru jest Twój font, jakiego jest koloru i na jakim tle go prezentujesz, a otrzymasz porady jak nieznaczna zmiana koloru fonta/tła może poprawić Twoją ocenę w teście WCAG.
+
+### 23. Prompt injection - czy naprawdę mamy się czego bać?
+
+[https://simonwillison.net/2023/Apr/14/worst-that-can-happen/](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
+
+INFO: Ostatnio coraz więcej mówi się o atakowaniu promptów przekazywanych do AI. Najczęściej jednak jako przykład ataku pokazuje się różne formy trollingu. Czy to faktycznie wszystko, co nam grozi? Niekoniecznie.
+
+### 24. WikiIndex - wielki spis stron typu Wiki
+
+[https://wikiindex.org/Welcome](https://wikiindex.org/Welcome)
+
+INFO: WIkipedię zna każdy, ale istnieje całkiem sporo stron bazujących na koncepcji wiki, które skupiają się na jednym, konkretnym temacie. Ten serwis je agreguje. Jest też sporo polskich pozycji, ale nie szukaj ich w kategorii "Poland", tylko w "Wiki by... Language".
+
+### 25. Myślnik, pauza i półpauza - jak tego używać w typografii?
+
+[https://www.punctuationmatters.com/en-dash-em-dash-hyphen/](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/)
+
+INFO: Oczywiście możesz każde słowo i zdanie zapisywać z minusem w środku, jednak jeśli jesteś fanem typografii i chcesz, aby Twój tekst np. na firmowej stronie był poprawnie sformatowany i wyglądał profesjonalnie, to wypada wiedzieć, w jakich okolicznościach używa się danego znaku.
+
+### 26. Zestawienie aktualności ze świata AI z ostatniego tygodnia
+
+[https://www.reddit.com/r/ChatGPT/comments/12o29gl/gpt4_week_4_the_rise_of_agents_and_the_beginning](https://www.reddit.com/r/ChatGPT/comments/12o29gl/gpt4_week_4_the_rise_of_agents_and_the_beginning)
+
+INFO: Ciekawy wątek na Reddicie. Nie tylko podlinkowane materiały są ciekawe, ale także ich liczba. Jeśli ktoś ma wątpliwości, że w świecie AI dużo się dzieje, to wystarczy rzucić okiem na ten tygodniowy raport ;)
+
+### 27. Sprzeciw komunikatorów przeciwko ustawie o bezpieczeństwie online
+
+[https://www.bbc.com/news/technology-65301510](https://www.bbc.com/news/technology-65301510)
+
+INFO: Nowe prawo UK mające chronić dzieci przed wiadomościami i zdjęciami dla nich nieprzeznaczonymi sprawiło, że WhatsApp, Signal, Viber i kilkoro innych gigantów z branży zjednoczyło się, aby bronić dostępu do prywatności i jawnego monitorowania aktywności użytkowników. Brytyjczycy będą mieć swoją definicję 'end-to-end encryption', czy jednak uda się coś z tym zrobić?
+
+### 28. DuckDuckGo także będzie wspierany przez AI.
+
+[https://www.theverge.com/2023/3/8/23629095/duckduckgo-ai-answers-browser-app-extension-search](https://www.theverge.com/2023/3/8/23629095/duckduckgo-ai-answers-browser-app-extension-search)
+
+INFO: DuckDuckGo (mowa o ich przeglądarce, a nie wyszukiwarce) podąża śladem Microsoft Edge i integruje swojego asystenta zwanego 'DuckAssist', który generujące odpowiedzi na wyszukiwanie z użyciem sztucznej inteligencji.
+
+### 29. Kolekcja kursów programowania online i zadań programistycznych
+
+[https://uw7.org/un_80c0f1e7350a3](https://uw7.org/un_80c0f1e7350a3)
+
+INFO: Łącznie niemal 70 różnych języków i technologii. Trzeba założyć konto, aby z nich korzystać, jednak jest to serwis w pełni bezpłatny.
+
+### 30. Kompletny poradnik na temat tworzenia nowoczesnych aplikacji w React.
+
+[https://uw7.org/un_8da05e5426d4e](https://uw7.org/un_8da05e5426d4e)
+
+INFO: Chcesz napisać własną aplikację w React, używając najnowszych technologii bez przerabiania wideo kursów? Podążaj za autorem artykułu, a będziesz cieszył się aplikacją napisaną z użyciem takich technologii jak: React, MongoDB czy narzędzi: Docker, Storybook.js pokrytą testami z najpopularniejszych bibliotek.
+
+## 2023-04-14
+
+### 1. CAN Injection - jak kradnie się samochody z systemem keyless?
+
+[https://kentindell.github.io/2023/04/03/can-injection/](https://kentindell.github.io/2023/04/03/can-injection/)
+
+INFO: Ciekawa historia kradzieży nowoczesnego samochodu. Dowiemy się z niej między innymi tego, czym jest protokół 'CAN', jak działa wstrzykiwanie do niego własnych komunikatów i dlaczego jest to takie proste i niebezpieczne zarazem.
+
+### 2. Transportoid - historia powstania i rozwoju znanej (niegdyś) aplikacji
+
+[https://informatykzakladowy.pl/transkrypcja-gawedy-o-transportoidzie/](https://informatykzakladowy.pl/transkrypcja-gawedy-o-transportoidzie/)
+
+INFO: Tekstowy zapis gawędy o Transportoidzie, mobilnym rozkładzie jazdy komunikacji miejskiej wydanej na Androida i Windows Phone w roku 2010. Autor dzieli się nie tylko historią powstania, ciekawostkami technologicznymi, ale i problemami, które pojawiły się na drodze rozwoju aplikacji.
+
+### 3. Jak wykonać filmy znane z memów z 'Balenciaga' - krok po kroku (film, 7 minut)
+
+[https://youtube.com/watch?v=TGD8zKvRxc4](https://youtube.com/watch?v=TGD8zKvRxc4)
+
+INFO: Jest szansa, że natrafiłeś na YouTube, czy TikToku na zabawne filmy tego typu. W przeciwieństwie do innych, typowych 'zabawnych filmików' mają one całkiem przyzwoitą grafikę i dobrej jakości dźwięk. Jak się pewnie domyślasz, to sztuczna inteligencja odegrała znaczącą rolę w ich powstawaniu. Ten poradnik wyjaśnia, jak samodzielnie z użyciem darmowych narzędzi (a w zasadzie z użyciem darmowych pakietów w płatnych narzędziach) samodzielnie wygenerować takie przeróbki.
+
+### 4. Cyfrowa wersja przyjaciół bazująca na AI?
+
+[https://www.izzy.co/blogs/robo-boys.html](https://www.izzy.co/blogs/robo-boys.html)
+
+INFO: Autor artykułu wytrenował model AI za pomocą historii czatu zawierającego ponad pół miliona cytatów z rozmów z jego znajomymi. W ten sposób otrzymał cyfrową wersję każdego z nich. Mógł dzięki temu symulować (z użyciem softu Alpaca) dość wiarygodnie wyglądającą rozmowę między nimi. Czy to nie przypomina Ci trochę jednego z odcinków Black Mirror? ;)
+
+### 5. Aplikacja "schrony" - znajdź miejsce doraźnego schronienia
+
+[https://strazpozarna.maps.arcgis.com/apps/instant/nearby/index.html?appid=ec00a2b879424296b6dcc400393c6c1e&sliderDistance=100](https://strazpozarna.maps.arcgis.com/apps/instant/nearby/index.html?appid=ec00a2b879424296b6dcc400393c6c1e&sliderDistance=100)
+
+INFO: Kliknij ikonę namierzania Twojej lokalizacji (lub wpisz adres) i zobacz, gdzie wokół Ciebie znajdują się miejsca, w których w razie zagrożenia możesz się ukryć. Ta mapa służy oczywiście, aby poznać lokalizację takich miejsc zawczasu, a nie w momencie, gdy zdarzy się jakaś tragedia.
+
+### 6. Jak to się dzieje, że gra Slow Roads działa tak płynnie w przeglądarce?
+
+[https://web.dev/slow-roads/](https://web.dev/slow-roads/)
+
+INFO: Jest piątek, więc śmiało kliknij pierwszego linka w artykule, a jeśli interesują Cię technikalia, to czytaj dalej. Krótko mówiąc, gra wykorzystuje WebGL i sprytny algorytm generowania terenu.
+
+### 7. AI generujące głos zostało użyte do wymuszenia okupu?
+
+[https://nypost.com/2023/04/12/ai-clones-teen-girls-voice-in-1m-kidnapping-scam/](https://nypost.com/2023/04/12/ai-clones-teen-girls-voice-in-1m-kidnapping-scam/)
+
+INFO: Ciekawy rodzaj SCAM-u. Odbierasz telefon od 'porywacza', który podobno przetrzymuje teraz Twoje dziecko. Dzwoniący numer telefonu należy do Twojego dziecka (metoda podszywania się jak w przypadku telefonów z banku). Poza głosem porywacza słyszysz także głos swojego dziecka wołającego o pomoc. Co robisz?
+
+### 8. Czy łatwo jest znaleźć pracę, mając 23 lata doświadczenia? - eksperyment
+
+[https://blog.alexewerlof.com/p/3-job-applications](https://blog.alexewerlof.com/p/3-job-applications)
+
+INFO: Developer z 23-letnim doświadczeniem, postanowił odświeżyć swoje skille związane z rozmowami rekrutacyjnymi. Zaaplikował do kilku znanych firm, takich jak: Datadog, Spotify i Shopify. Nie dostał się do żadnej z nich. W artykule dzieli się tym, czego się nauczył, jakie błędy popełnił i wspomina o trudach bycia introwertykiem.
+
+### 9. Historia człowieka, który przepracował w Google ujemną liczbę dni
+
+[https://andgein.ru/blog/all/20-i-worked-at-google-for-10-days/](https://andgein.ru/blog/all/20-i-worked-at-google-for-10-days/)
+
+INFO: Czy da się być zwolnionym z pracy na 10 dni przed oficjalnym jej rozpoczęciem? Oczywiście! W Google wszystko jest możliwe :)
+
+### 10. Dlaczego używamy GitHuba jako CMS-a?
+
+[https://posthog.com/blog/github-cms](https://posthog.com/blog/github-cms)
+
+INFO: Firmowego bloga zarządzanego przez wielu autorów najczęściej stawia się na Wordpressie, Drupalu czy jakimś systemie blogowym typu SaaS. Dlaczego ktoś miałby się zdecydować na repozytorium GitHuba jako backend? Ten wpis stara się odpowiedzieć na to pytanie.
+
+### 11. AgentGPT - robot opracowujący "w tle" zadane przez Ciebie tematy
+
+[https://agentgpt.reworkd.ai/](https://agentgpt.reworkd.ai/)
+
+INFO: Opisujesz, co robot ma zrobić (np. "Przygotować plan wycieczki do San Francisco"), a następnie uruchamiasz deploy. AI rozbije to zadanie na mniejsze zadania. Następnie każde podzadanie rozbije na jeszcze mniejsze zadania. Na końcu opisze jak wykonać każde z tych zadań, a jeśli to możliwe samodzielnie je wykona (jakiś prosty research). Proces trwa dość długo, ale trzeba przyznać, że wyniki momentami są imponujące. W wersji demo 'agent' może działać tylko przez kilkadziesiąt sekund. Jeśli w ustawieniach aplikacji wkleisz swój klucz API, to wszelkie ograniczenia znikną (ale wtedy będziesz już samodzielnie płacić za zapytania).
+
+### 12. Dlaczego GPT-3 potrafi być ponad 15x droższy dla niektórych języków?
+
+[https://scribe.rip/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc](https://scribe.rip/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc)
+
+INFO: Cennik GPT jest niezależny od używanego języka. Płaci się za liczbę zużytych tokenów. Dlaczego jednak niektóre z języków zużywają tych tokenów tak ogromne ilości w stosunku do np. języka angielskiego, który zazwyczaj wychodzi w takich porównaniach najlepiej?
+
+### 13. Najprostszy sposób na wspieranie projektów Open Source
+
+[https://thanks.dev/](https://thanks.dev/)
+
+INFO: Dodajesz swoje konto na GitHub/GitLab. Aplikacja analizuje Twoje kody źródłowe i sprawdza ich zależności. Następnie możesz ustawić kwotę miesięcznego wsparcia (np. $5/msc), która zostanie sprawiedliwie rozdysponowana pomiędzy projekty, na których polegasz. Sprytne.
+
+### 14. Twitch - to tam zrobisz swój następny webinar? (film, 28 minut + transkrypcja)
+
+[https://github.com/readme/guides/twitch-for-developers](https://github.com/readme/guides/twitch-for-developers)
+
+INFO: Przemyślenia na temat używania platformy streamingowej Twitch jako zamiennika dla Zooma/Teams/Google Meet/Youtube do prowadzenia wykładów i webinarów online. Autorka zwraca uwagę, że zmiana platformy do streamingu spowodowała niemal trzykrotny wzrost liczby widzów.
+
+### 15. Przypadki "cytogenezy" na Wikipedii (żartobliwa nazwa zjawiska z komiksu XKCD)
+
+[https://en.wikipedia.org/wiki/Wikipedia:List_of_citogenesis_incidents](https://en.wikipedia.org/wiki/Wikipedia:List_of_citogenesis_incidents)
+
+INFO: Do "citogenesis" dochodzi, gdy wikipedysta popełnia błąd, który jest cytowany w np. prasie, czy książce, które podają Wikipedię jako źródło. Następnie błąd jest usuwany z Wikipedii, ale ktoś ponownie go dodaje, podając wcześniej wspomnianą prasę lub książkę jako źródło. Tworzy się pętla cytatów. Ten artykuł zawiera kompilację takich pętli, które udało się namierzyć.
+
+### 16. Librarian AI - jaką książkę powinienem przeczytać jako następną?
+
+[https://www.librarian-ai.com/](https://www.librarian-ai.com/)
+
+INFO: Systemów rekomendacji istnieje już naprawdę wiele. To kolejny z nich. Tym razem nie bazuje on bezpośrednio na ocenach innych ludzi, a na sztucznej inteligencji (zapewne wytrenowanej na tych ocenach :D). Podajesz trzy książki, które Ci się podobały, a w odpowiedzi otrzymujesz kolejne, które są podobne gatunkiem, klimatem, czy głównym wątkiem do tych wymienionych. Czy dobrze to działa? Ja jestem zadowolony, ale wyniki zależą od tego, jak bardzo popularne/niszowe książki czytasz.
+
+### 17. Czy ChatGPT potrafi napisać grę Flappy Bird? (film, 7 minut)
+
+[https://youtube.com/watch?v=8y7GRYaYYQg](https://youtube.com/watch?v=8y7GRYaYYQg)
+
+INFO: Autor filmu poprosił GPT-4 o stworzenie gry podobnej do Flappy Bird z użyciem frameworka Unity, ale bez własnoręcznego napisania ani jednej linii kodu. Nie było to tak łatwe zadanie, jak mogłoby się wydawać. Tworzenie gier w GPT-4 jest oczywiście możliwe, ale może zająć naprawdę sporo czasu. Zupełnie tak, jak własnoręczne tworzenie kodu.
+
+### 18. Kim jest DevOps, jak nim zostać i czy trzeba umieć programować? (podcast, 51 minut)
+
+[https://open.spotify.com/episode/1efTdSGerwqkvdaDdQcrB5](https://open.spotify.com/episode/1efTdSGerwqkvdaDdQcrB5)
+
+INFO: Droga "gościa od naprawiania komputerów" do Junior DevOps Engineera. Gościem tego odcinka podcastu "Więcej niż konteneryzacja" jest Szymon Słowicki.
+
+### 19. Różne rodzaje cache, czyli co może przyspieszyć naszą aplikację (film, 6 minut)
+
+[https://www.youtube.com/watch?v=dGAgxozNWFE](https://www.youtube.com/watch?v=dGAgxozNWFE)
+
+INFO: Przegląd różnych warstw cachujących, z którymi może zetknąć się programista. Bardzo skondensowane przedstawienie tematu.
+
+### 20. Historia sztucznej inteligencji - od lat 50-tych do dziś
+
+[https://www.freecodecamp.org/news/the-history-of-ai/](https://www.freecodecamp.org/news/the-history-of-ai/)
+
+INFO: AI to nie jest jak niektórzy twierdzą wymysł naszych czasów. Początki tej idei (zwanej ówcześnie 'inteligencją syntetyczną') zaczęły się już ponad 70 lat temu.
+
+### 21. Co zmieniło się w technologiach webowych w marcu?
+
+[https://web.dev/web-platform-03-2023/](https://web.dev/web-platform-03-2023/)
+
+INFO: Może się wydawać, że zmiany w HTML, CSS i JavaScriptowym API nie pojawiają się zbyt często. To jednak tylko złudzenie. Zobacz spis 12 interesujących zmian, które pojawiły się w samym tylko marcu.
+
+### 22. Jak naprawdę działa pętla FOR w JavaScript?
+
+[https://emnudge.dev/blog/for-loops/](https://emnudge.dev/blog/for-loops/)
+
+INFO: Działanie tej pętli rozumieją nawet bardzo początkujący programiści. Co jednak naprawdę dzieje się w jej wnętrzu? Już pierwszy przykład kodu na stronie może Cię zaskoczyć np. na rozmowie o pracę.
+
+### 23. Phind - bazująca na AI wyszukiwarka dla developerów
+
+[https://www.phind.com/](https://www.phind.com/)
+
+INFO: Nie korzysta ona ze swojej bazy wiedzy, a z wyszukiwarki. Aplikacja czyta znalezione wyniki i na ich podstawie generuje rozwiązanie. Jak skuteczna ona jest? Tak skuteczna jak np. Google w wyszukiwaniu rozwiązania. Po prostu oszczędzasz czas na samodzielnym czytaniu artykułów. Do udzielanej odpowiedzi doklejane są linki do źródła, skąd ta wiedza pochodzi. Nazwano to 'wyszukiwarką dla developerów', ale działa z absolutnie każdym zapytaniem (także po polsku!), więc równie dobrze możesz zapytać np. 'jak zrobić pizzę hawajską?'. Świetna jest możliwość dopytywania o więcej szczegółów (pole pod wynikami).
+
+### 24. Firefox aktywuje "Total Cookie Protection" jako domyślne ustawienie w przeglądarce
+
+[https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
+
+INFO: Wiele miesięcy temu wspominałem o tej technologii. W praktyce polega ona na pełnej izolacji ciasteczek i przywiązaniu ich do strony je tworzącej. Oznacza to w praktyce brak możliwości bycia śledzonym przez tzw. 'third party cookies'. Kilka dni temu Mozilla postanowiła aktywować tę opcję domyślnie dla szerszej grupy użytkowników. Może to trochę namieszać w świecie systemów reklamowych, w marketingu afiliacyjnym itp. Obecnie wprowadził to jednak tylko Firefox, a większość webowego świata i tak używa silnika Chromium.
+
+### 25. Nowoczesne maile tworzone w HTML
+
+[https://fullystacked.net/posts/modern-html-email/](https://fullystacked.net/posts/modern-html-email/)
+
+INFO: Mamy 2023 rok. Używanie np. tabeli zagnieżdżonej w tabeli w celu wyrównania treści w ładnie sformatowanym mailu już nie musi być standardem. Nowoczesne czytniki mailowe akceptują już całkiem sporą część specyfikacji CSS-a, więc można próbować tworzyć lekkie (w sensie kilobajtów) i łatwiej zarządzalne szablony mailowe.
+
+### 26. Czy Powershell może zastąpić Basha?
+
+[https://buttondown.email/hillelwayne/archive/i-really-like-powershell/](https://buttondown.email/hillelwayne/archive/i-really-like-powershell/)
+
+INFO: Użytkownicy Windowsa przywykli już do używania Basha za pośrednictwem WSL. Autor tego artykułu kilka lat temu postanowił jednak nauczyć się podstaw Powershella i zachęca do tego także innych użytkowników Windowsa. Oto zbiór jego przemyśleń.
+
+### 27. Strona zwracająca w odpowiedzi kody błędów HTTP
+
+[https://httpstat.us/](https://httpstat.us/)
+
+INFO: Po slashu podajesz numer błędu, który chcesz otrzymać. Niesamowicie proste narzędzie do testowania reakcji swojego kodu na różnego rodzaju błędu. Przykładowo, możesz zobaczyć, jak zareaguje Twoja aplikacja wczytująca zewnętrzne dane, gdy otrzyma linka z przekierowaniem, z błędem serwera, czy... z informacją, że serwer to czajnik (error 418).
+
+### 28. Czym są warstwy kaskadowe w CSS?
+
+[https://chriscoyier.net/2023/04/10/whats-a-basic-use-case-for-cascade-layers-in-css/](https://chriscoyier.net/2023/04/10/whats-a-basic-use-case-for-cascade-layers-in-css/)
+
+INFO: Próbowałeś kiedyś nadpisać lokalnym CSS-em coś, co zostało wcześniej zdefiniowane w zewnętrznym arkuszu? Jest na to wiele metod. Można po prostu nadpisać starą definicję selektora, można wzmocnić swój selektor (zdefiniować go dokładniej), a w ostateczności pomoże nam "!important". Wiesz, że każdą z tych metod można zastąpić jedną linijką kodu, która zawsze działa i nie wymaga kombinowania?
+
+### 29. Czy jest sens uczyć się Angulara w 2023 roku?
+
+[https://scribe.rip/should-you-use-angular-in-2023-e85221071712](https://scribe.rip/should-you-use-angular-in-2023-e85221071712)
+
+INFO: Świat JavaScriptu rozwija się w zastraszającym tempie i to, co rok, czy dwa lata temu było na topie, dziś już może być przestarzałą technologią. Jak to wygląda w przypadku Angulara? Ciekawa analiza jego popularności, zapotrzebowania na rynku pracy i benefitów, jakie daje.
+
+### 30. Jak działają maski w CSS?
+
+[https://ishadeed.com/article/css-masking/](https://ishadeed.com/article/css-masking/)
+
+INFO: Maski służą do ukrywania/odsłaniania fragmentu grafiki. Działają one mniej więcej tak jak maski znane np. z Photoshopa, czy GIMP-a. Artykuł wyjaśnia, jak używać ich w CSS z użyciem właściwości 'mask' i 'clip-path'. Nie używałem tego nigdy wcześniej, więc nawet pierwszy przykład z użyciem pliku PNG jako maski mnie zaskoczył.
+
+### 31. Czy warto korzystać z AWS Amplify?
+
+[https://samthor.au/2023/aws-amplify-is-a-grift/](https://samthor.au/2023/aws-amplify-is-a-grift/)
+
+INFO: Platforma do tworzenia i hostingu aplikacji full stack od Amazona ma według autora tego tekstu wiele wad, przez które warto mocno przemyśleć jej zastosowanie w swoim projekcie.
+
+### 32. W specyfikacji HTML-a pojawił się nowy element: SEARCH
+
+[https://www.scottohara.me/blog/2023/03/24/search-element.html](https://www.scottohara.me/blog/2023/03/24/search-element.html)
+
+INFO: Jest to element grupujący, służący do wydzielenia części strony będącej wyszukiwarką. Ma to (a właściwie to niebawem będzie miało) duży wpływ na dostępność stron internetowych.
+
+### 33. Nutshell - narzędzie do streszczania nagrań na YouTube
+
+[https://nutshell.proximoai.com/](https://nutshell.proximoai.com/)
+
+INFO: Jeśli tylko znalazłeś ciekawy podcast, zapis konferencji, czy wywiad na Youtube, a jednocześnie to nagranie posiada transkrypcję (napisy), to wystarczy jedynie wkleić do niego linka, aby otrzymać bardzo dokładne podsumowanie najważniejszych elementów z tego nagrania. Tego typu narzędzi jest sporo, ale to obsługuje także język polski, a do tego oferuje darmowy pakiet streszczeń (20 filmów na miesiąc). Wersja bez limitów jest płatna, ale trzeba przyznać, że bardzo tania.
+
+### 34. Little Snitch Mini - uproszczona wersja firewalla na Maca
+
+[https://obdev.at/products/littlesnitch-mini/index.html](https://obdev.at/products/littlesnitch-mini/index.html)
+
+INFO: Użytkownicy MacOS z pewnością słyszeli o aplikacji 'Little Snitch' (popularny, zaawansowany firewall). Jest dość rozbudowana, niezbyt łatwa w obsłudze oraz... droga. Istnieje jednak jej uproszczona wersja, która nasłuchuje połączeń sieciowych z uruchomionych aplikacji i pokazuje (oraz umożliwia założenie stosownych blokad), gdzie dane wysyła wybrana aplikacja. Wersja Mini kosztuje niecałe 7zł/msc.
+
+### 35. Algorytmy i struktury danych zaimplementowane w JavaScript
+
+[https://uw7.org/un_2dc707c4ddf85](https://uw7.org/un_2dc707c4ddf85)
+
+INFO: Ogromny zbiór implementacji wspomnianych rzeczy w JS. Wszystko podzielone na kategorie, z dokładnym wyjaśnieniem zagadnienia. Użyteczne np. przy nauce programowania lub przy przygotowywaniu się do rozmowy o pracę.
+
+### 36. Podręcznik do Midjourney - tworzenie efektownych grafik
+
+[https://uw7.org/un_531e695480052](https://uw7.org/un_531e695480052)
+
+INFO: Jak zdefiniować wszystkie ustawienia sceny takie jak oświetlenie, perspektywa, rodzaj grafiki itp. Poradnik zawiera setki porad, dzięki którym ulepszysz obraz uzyskiwany z Midjourney.
 
 ## 2023-04-07
 
