@@ -1,4 +1,186 @@
-# Archiwum Mrugalskiego na dzień 7/15/2023
+# Archiwum Mrugalskiego na dzień 7/22/2023
+
+## 2023-07-21
+
+### 1. Sztuczna inteligencja już zyskała świadomość?! - wywiad z prof. Włodzisławem Duchem (film, 37 minut)
+
+[https://www.youtube.com/watch?v=zeGCPA4p6z0](https://www.youtube.com/watch?v=zeGCPA4p6z0)
+
+INFO: Ciekawa i momentami lekko filozoficzna rozmowa na temat świadomości AI i jej granic. Czy AI jest niebezpieczne, czy może czuć ból, a może kiedyś będzie chcieć przejąć kontrolę nad światem? Zaproszony gość jest specjalistą w dziedzinie neuroinformatyki, sieci neuronowych, uczenia maszynowego i badań nad mózgiem.
+
+### 2. Postgres vs. MySQL - jak to naprawdę wygląda w 2023 roku?
+
+[https://www.bytebase.com/blog/postgres-vs-mysql/](https://www.bytebase.com/blog/postgres-vs-mysql/)
+
+INFO: W tym roku PostgresQL wyprzedził MySQL w popularności według ankiety portalu StackOverflow. Czym jednak różnią się współcześnie te bazy? Wielu programistów pamięta MySQL-a jeszcze z czasów wersji 5.x, więc ich wspomnienia mogą być podobne do wspomnień z czasów starego PHP-a. Warto rzucić okiem na to porównanie.
+
+### 3. Zagrożenia płynące z publikowania zdjęć swoich dzieci w sieci (film, 3 minuty)
+
+[https://www.youtube.com/watch?v=F4WZ_k0vUDM](https://www.youtube.com/watch?v=F4WZ_k0vUDM)
+
+INFO: Ciekawa inicjatywa uświadamiająca zagrożenia związane z publicznym udostępnianiem zdjęć swoich dzieci w sieci. Przy okazji zahacza o tematykę wykorzystania AI do produkcji deepfake.
+
+### 4. Jak położyć na łopatki giełdę kryptowalut małym Pythonowym skryptem
+
+[https://blog.everstrike.io/wash-trading-gone-wrong-how-a-crypto-exchange-accidentally-obliterated-itself/](https://blog.everstrike.io/wash-trading-gone-wrong-how-a-crypto-exchange-accidentally-obliterated-itself/)
+
+INFO: Historia giełdy BaseFEX, która oszukiwała zawyżając swoje wolumeny obrotu dziennego za pomocą bota. Pewien programista znalazł jednak sposób na oszukanie oszustów, osiągając tym samym około 1000% zysku z ich giełdy, a w konsekwencji doprowadzając do jej zamknięcia.
+
+### 5. Interaktywny przewodnik po ścieżkach w SVG
+
+[https://www.nan.fyi/svg-paths](https://www.nan.fyi/svg-paths)
+
+INFO: Format SVG jest dla wielu programistów przerażający. Dużo liczb, sporo pojedynczych, nic nieznaczących liter i nagle z tego powstaje piękna grafika - jakim cudem?! Ten poradnik pozwoli Ci zrozumieć, jak działają ścieżki. Aplikację uruchom na komputerze. Scrolluj powoli, aby widzieć jakie zmiany wprowadza kod prezentowany w lekcji w oknie podglądu widocznym po prawej stronie. Nad oknem podglądu masz menu z dostępem do kolejnych lekcji.
+
+### 6. Ciekawy atak phishingowy na PayPal
+
+[https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/](https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/)
+
+INFO: W ramach systemu PayPal można wysłać do klienta fakturę wraz z załączoną notatką. Problem polega na tym, że ta notatka jest cytowana w mailu wysyłanym do klienta przez system płatności. Klient może nie wiedzieć, że to nie jest tekst napisany przez Paypala, a przez kogoś innego. Oszuści wykorzystują to do wyłudzania pieniędzy w bardzo kreatywny sposób.
+
+### 7. Dlaczego OpenAI opóźnia wsparcie dla obrazów w GPT-4?
+
+[https://arstechnica.com/information-technology/2023/07/report-openai-holding-back-gpt-4-image-features-on-fears-of-privacy-issues/](https://arstechnica.com/information-technology/2023/07/report-openai-holding-back-gpt-4-image-features-on-fears-of-privacy-issues/)
+
+INFO: Na prezentacjach widzieliśmy jak GPT-4 świetnie pracuje z obrazami, dźwiękiem, filmami, ale funkcje te nie są jeszcze dostępne. Jaki jest tego powód? O tym w artykule.
+
+### 8. Normalizacja Baz Danych - jak to zrobić i w jakim celu?
+
+[https://www.databasestar.com/database-normalization/](https://www.databasestar.com/database-normalization/)
+
+INFO: Projektując bazę danych, nie zawsze jesteśmy w stanie przewidzieć wszystkie konsekwencje użytej struktury danych. Dlaczego zazwyczaj powinieneś rozbić dane np. na 3-4 tabele i stosować połączenia między nimi, a nie np. zbudować jedną, dobrze zaprojektowaną tabelę? Koniecznie poczytaj o anomaliach z insertami, updatami i deletami.
+
+### 9. Apple dołącza do wyścigu w technologiach generatywnych AI?
+
+[https://archive.ph/diZIg](https://archive.ph/diZIg)
+
+INFO: Wygląda na to, że Apple pracuje nad własnym modelem językowym (LLM), który będzie zasilał ich rozwiązania techniczne. Czy Apple ma szanse konkurować z produktami od OpenAI lub Google? a może będzie to technologia zupełnie innego przeznaczenia?
+
+### 10. Kevin Mitnick zmarł w wieku 59 lat
+
+[https://www.washingtonpost.com/obituaries/2023/07/20/kevin-mitnick-hacker-dies/](https://www.washingtonpost.com/obituaries/2023/07/20/kevin-mitnick-hacker-dies/)
+
+INFO: Prawdopodobnie najbardziej rozpoznawalny i ikoniczny z hackerów lat 80-90 zmarł w tym tygodniu. Niewątpliwie wpłynął on swoimi działaniami na rozwój branży cybersecurity, a w szczególności na edukację w dziedzinie ataków socjotechnicznych.
+
+### 11. Czy aplikacje do nawigacji mogą tworzyć korki, zamiast pomóc je omijać?
+
+[https://spectrum.ieee.org/your-navigation-app-is-making-traffic-unmanageable](https://spectrum.ieee.org/your-navigation-app-is-making-traffic-unmanageable)
+
+INFO: Inżynierowie projektujący drogi w miastach, czy na wsiach znają globalną charakterystykę ruchu na danym obszarze. Aplikacje działają na zasadzie 'tu i teraz', stawiając szybkość dotarcia jednostki do celu jako swój priorytet. Niestety, takie podejście może doprowadzić do pogorszenia sytuacji na drogach, a nie do jej polepszenia.
+
+### 12. Czy AI stworzy nową kategorię gier? Gry, które nigdy się nie kończą
+
+[https://a16z.com/2023/07/19/the-neverending-game-how-ai-will-create-a-new-category-of-games/](https://a16z.com/2023/07/19/the-neverending-game-how-ai-will-create-a-new-category-of-games/)
+
+INFO: Większość współczesnych gier posiada jakąś fabułę, która ma swój początek i zazwyczaj koniec. Ewentualnie gra może posiadać ograniczoną liczbę poziomów. A gdyby tak fabuła i poziomy były generowane przez AI i nigdy się nie kończyły? Czy tak może wyglądać niebawem przyszłość niektórych z gier?
+
+### 13. ChatHub - pracuj z wieloma chatami AI jednocześnie
+
+[https://chathub.gg/](https://chathub.gg/)
+
+INFO: To rozszerzenie pozwala Ci na wygodną pracę w jednym oknie, jednocześnie z narzędziami takimi jak ChatGPT, Bing, Bard, Claude i kilkoma innymi. Daje to oszczędność czasu i pewnego rodzaju wygodę.
+
+### 14. Jak laik może funkcjonować bez Google Play?
+
+[https://www.internet-czas-dzialac.pl/odcinek-38-f-droid-jak-laik-moze-funkcjonowac-bez-google-play/](https://www.internet-czas-dzialac.pl/odcinek-38-f-droid-jak-laik-moze-funkcjonowac-bez-google-play/)
+
+INFO: Masz telefon z Androidem, ale chcesz odciąć się od usług Google na tyle, jak dalece to możliwe? Życie bez Google Maps, czy Gmaila jest wykonalne, ale jak żyć bez Google Play?! Z pomocą przychodzi F-Droid. Artykuł omawia, co to jest, jak tego używać i dlaczego może być dobre dla Ciebie i Twojej prywatności.
+
+### 15. Git Rebase - wszystko, co programista powinien wiedzieć
+
+[https://www.freecodecamp.org/news/git-rebase-handbook/](https://www.freecodecamp.org/news/git-rebase-handbook/)
+
+INFO: Bardzo przystępny podręcznik online wyjaśniający temat rebase w repozytorium gita. Nawet jeśli korzystasz z tej funkcji dość regularnie, możesz dowiedzieć się kilku niuansów, które ułatwią Ci codzienną pracę.
+
+### 16. Repozytorium rozszerzeń do SQLite
+
+[https://sqlpkg.org/all/](https://sqlpkg.org/all/)
+
+INFO: Jeśli wykorzystujesz w swoim projekcie bazę SQLite, to jest szansa, że sporo logiki biznesowej dałoby się przenieść na samą bazę, wykorzystując zewnętrzne moduły. Na tej stronie znajdziesz 58 z nich. Pozwolą Ci nie tylko weryfikować dane, generować hashe i liczby losowe, ale także np. wykonywać zapytania HTTP wprost z języka SQL, czy wykonywać zaawansowane obliczenia arytmetyczne na poziomie bazy.
+
+### 17. Za maksymalnie 4 lata wymienisz baterię w każdym smartfonie
+
+[https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
+
+INFO: Komisja Europejska znów działa i po akcji ze standaryzacją ładowarek na terenie Unii, przyszedł czas na wprowadzenie standardów z wymianą baterii. Do 2027 roku, wszystkie nowe modele sprzedawane na terenie UE będą musiały mieć możliwość samodzielnej wymiany baterii.
+
+### 18. Mozilla prezentuje MDN Playground - przestrzeń do prototypowania
+
+[https://developer.mozilla.org/en-US/blog/introducing-the-mdn-playground/](https://developer.mozilla.org/en-US/blog/introducing-the-mdn-playground/)
+
+INFO: To typowy playground podobny do tego znanego np. z Codepen, JSFiddle, czy JSBin. Służy do szybkiego prototypowania i udostępniania frontendowego. Ma wbudowane bardzo wygodne uzupełnianie składni. Aby dało się udostępniać efekty swojej pracy, trzeba założyć konto w systemie.
+
+### 19. Nadchodzi sieć 100x szybsza od WiFi?
+
+[https://www.tomshardware.com/news/li-fi-standard-released](https://www.tomshardware.com/news/li-fi-standard-released)
+
+INFO: LiFi, bo tak nazywa się to rozwiązanie, używa światła (a konkretniej: podczerwieni) do przesyłu danych. Ma to swoje plusy (szybkość), jak i słabsze strony (nie przechodzi przez ściany). Więcej o technologii w artykule.
+
+### 20. Advanced Python Mastery - kurs doskonalenia znajomości Pythona
+
+[https://github.com/dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery)
+
+INFO: To nie jest wstęp do programowania w Pythonie. Autor zakłada, że programować już umiesz, a teraz chcesz się tylko doskonalić. Cały kurs to jeden duży plik PDF i zbiór zadań do niego.
+
+### 21. Użycie GPT-4 do walki z telefonicznymi oszustami
+
+[https://www.theregister.com/2023/07/03/jolly_roger_telephone_company/](https://www.theregister.com/2023/07/03/jolly_roger_telephone_company/)
+
+INFO: Ciekawe zastosowanie technologii AI. Naciągacze dodzwaniają się do bota, który słucha ich pytań, a następnie w możliwie kulturalny, ale i wkurzający zarazem sposób przeciąga rozmowę, zmienia temat, opowiada historie ze swojego życia itp.
+
+### 22. FerretDB - otwartoźródłowa alternatywa dla MongoDB
+
+[https://www.ferretdb.io/](https://www.ferretdb.io/)
+
+INFO: Twoja firma nie może wykorzystywać MongoDB ze względu na licencję tej bazy, a jednocześnie bardzo chcesz/potrzebujesz korzystać z MongoDB? Rozwiązaniem jest FerretDB. To nie jest nowa baza typu NoSQL. To proxy, które zamienia protokół Mongo na zapytania zrozumiałe dla silnika DB leżącego pod spodem (np. PostgreSQL).
+
+### 23. Wyróżniki frameworków frontendowych
+
+[https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
+
+INFO: Każdy z popularnych frameworków został opisany w sposób jasno tłumaczący, który problem stara się on rozwiązać. Dobre zestawienie dla osób niezaznajomionych z konkretnym rozwiązaniem technologicznym.
+
+### 24. Bard (AI od Google) jest już dostępny w Polsce
+
+[https://bard.google.com/](https://bard.google.com/)
+
+INFO: Aplikacja już jakiś czas temu był publicznie dostępny na świecie (bez listy oczekujących), a od niedawna można z niego swobodnie korzystać także i w naszym kraju. Warto przetestować.
+
+### 25. Apple pozbędzie się FaceTime oraz iMessage z UK?
+
+[https://www.macrumors.com/2023/07/20/apple-threatens-to-pull-facetime-and-imessage-uk/](https://www.macrumors.com/2023/07/20/apple-threatens-to-pull-facetime-and-imessage-uk/)
+
+INFO: Nowe prawo UK wymusza na Apple zaimplementowanie furtki w systemie, która umożliwi organom ścigania z UK zaglądanie do danych szyfrowanych nawet metodami end-to-end encryption. Co na to Apple? O tym w artykule.
+
+### 26. Vimscript - książka do nauki skryptowania VIM-a
+
+[https://learnvimscriptthehardway.stevelosh.com/](https://learnvimscriptthehardway.stevelosh.com/)
+
+INFO: To nie jest tutorial obsługi VIM-a, a podręcznik do jego bardzo dogłębnej customizacji. Dowiesz się z niego jak zautomatyzować swoją pracę w edytorze za pomocą wspomnianego Vimscriptu, czyli wewnętrznego języka do programowania w VIM. Poradnik przeznaczony jest dla przynajmniej średnio zaawansowanych użytkowników.
+
+### 27. Anytype - aplikacja w stylu Notion/Obsidian
+
+[https://anytype.io/](https://anytype.io/)
+
+INFO: Tworzenie notatek, budowanie bazy wiedzy (np. podejście Second Brain), lista ToDo, spis artykułów do przeczytania na później i wiele więcej. Wszystko w jednej aplikacji działającej na Windows/Mac/Linux. Anytype działa w trybie 'local-first', czyli przede wszystkim pracujesz na danych lokalnych, które mogą być synchronizowane z chmurą. Oznacza to, że praca jest szybsza, a przy okazji w pełni możliwa, gdy nie masz dostępu do internetu.
+
+### 28. ChatGPT Plus wprowadza custom instructions
+
+[https://venturebeat.com/ai/chatgpt-plus-gets-custom-instructions-allowing-it-to-remember-how-you-want-it-to-behave/](https://venturebeat.com/ai/chatgpt-plus-gets-custom-instructions-allowing-it-to-remember-how-you-want-it-to-behave/)
+
+INFO: Funkcja ta umożliwia skonfigurowanie chata w taki sposób, aby zawsze po uruchomieniu posiadał już pewną wiedzę, jak i postępował według Twoich wytycznych bez konieczności każdorazowej ich definicji. Artykuł zawiera ciekawy przykład użycia nowych możliwości na przykładzie pisania książki, gdzie chat od razu wie jaką książkę piszesz, kim są bohaterowie itp. Niestety, custom instructions nie są jeszcze dostępne na terenie Unii Europejskiej, ale... od czegoś jest VPN ;)
+
+### 29. Przeglądarka cheat sheets do narzędzi CLI i języków programowania
+
+[https://cheat.sh/](https://cheat.sh/)
+
+INFO: To dość znane narzędzie, które wiele lat temu już wrzucałem do newslettera, ale myślę, że warto je sobie przypomnieć. Poza interfejsem typowo webowym oferuje ono bardzo wygodny interfejs obsługiwany np. przez CURL-a lub przez dedykowaną aplikację kliencką. Bardzo skondensowana porcja wiedzy, która może Ci się przydać, gdy potrzebujesz nie tylko przeczytać dokumentację, ale bardziej np. zobaczyć przykłady użycia konkretnej komendy w terminalu.
+
+### 30. Codzienna porcja designów dla UX-ów
+
+[https://www.uidesigndaily.com/](https://www.uidesigndaily.com/)
+
+INFO: Autorka bloga codziennie publikuje jeden projekt, czy to całego serwisu, czy małego komponentu. Wszystko, co zaprojektowała jest do ściągnięcia za darmo w formatach Figmy, Sketcha, Photoshopa. Może to być użyteczne dla Ciebie, jeśli także wykonujesz tego rodzaju designy. Licencja zezwala na komercyjne użycie tych prac.
 
 ## 2023-07-14
 
