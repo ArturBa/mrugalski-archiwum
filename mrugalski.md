@@ -1,4 +1,198 @@
-# Archiwum Mrugalskiego na dzień 9/23/2023
+# Archiwum Mrugalskiego na dzień 9/30/2023
+
+## 2023-09-29
+
+### 1. JS Crush - jedna z trudniejszych gier uczących JavaScriptu (gra!)
+
+[https://js-crush.vercel.app/](https://js-crush.vercel.app/)
+
+INFO: To typowa gra polegająca na łączeniu takich samych elementów. Zasady są takie same jak w każdej grze typu "Match". Możesz połączyć dowolną liczbę elementów, które przedstawiają taką samą wartość. Na czym polega problem? Zamiast kolorów/kształtów są... wyrażenia z JavaScript i to sprawia, że zaczyna robić się naprawdę ciekawie. Zdobądź jak najwięcej punktów w 60 sekund. Metoda losowego łączenia elementów nie daje przyzwoitej punktacji - sprawdzałem ;)
+
+### 2. Technologiczna niezależność - jak ją uzyskać?
+
+[https://sive.rs/ti](https://sive.rs/ti)
+
+INFO: Jedna firma zapewnia Ci skrzynkę na maile, druga serwer VPS, trzecia synchronizację plików w chmurze, kolejna daje hosting pod stronę itd. Od jak wielu firm zależna jest Twoja obecność w sieci? Ten poradnik pomoże Ci zmniejszyć tę liczbę do 1-2 firm.
+
+### 3. Efektywny inżynier? - zbiór porad zwiększających produktywność i rozwój ludzi z IT
+
+[https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+
+INFO: Co sprawia, że niektórzy inżynierowie są tak efektywni? Edmond Lau podpowiada jak zdobywać nowe umiejętności, jak skupiać się na najważniejszych zadaniach i jak usprawniać swoją pracę. Wszystko to znajdziesz w jego książce 'Efektywny Inżynier', a jej podsumowanie znajdziesz w tym artykule.
+
+### 4. Lex Fridman i Mark Zuckerberg - pierwszy w historii wywiad w Metaversie (film, 1h i 5 minut)
+
+[https://www.youtube.com/watch?v=MVYrJJNdrEg](https://www.youtube.com/watch?v=MVYrJJNdrEg)
+
+INFO: Rozmowa na temat samego Metaversu, postrzegania rzeczywistości, sztucznej inteligencji i przyszłości ludzkości. Sama tematyka to sprawa drugorzędna, ale sposób przeprowadzenia tej rozmowy jest naprawdę wyjątkowy, a poziom realizmu renderowanych twarzy mnie zaskoczył.
+
+### 5. Jak zrobić sobie API z pliku ZIP od Europejskiego Banku Centralnego?
+
+[https://csvbase.com/blog/5](https://csvbase.com/blog/5)
+
+INFO: Bardzo sprytna metoda na odpytywanie 'w locie' pliku ZIP z danymi walutowymi banku centralnego. W praktyce plik jest pobierany, mapowany na bazę SQLite i przeszukiwany już docelowo zapytaniami SQL. Po drodze autor rozwiązania pokazuje jeszcze jak wygenerować wykresy na podstawie tych danych i kilka innych ciekawych sztuczek. Jeśli zadajesz sobie pytanie 'po co mi jakieś dane z banku centralnego', to pomyśl, że możesz użyć tych samych trików do odpytywania zbiorów danych z innych stron.
+
+### 6. Zbuduj swój pierwszy plugin ChatGPT w JavaScript (GPT-4)
+
+[https://www.sitepoint.com/javascript-chatgpt-plugin/](https://www.sitepoint.com/javascript-chatgpt-plugin/)
+
+INFO: Ten artykuł pomoże Ci zrozumieć, czym są pluginy czatu, jakie możliwości oferują i jak zbudować swój własny, wykorzystując JS. Jak się okazuje, tworzenie takich rozwiązań nie jest wcale tak skompliowane, na jakie wygląda wg dokumentacji.
+
+### 7. Konferencje Infoshare Dev [sponsorowane]
+
+[https://dev.infoshare.pl/](https://dev.infoshare.pl/)
+
+INFO: Infoshare Dev to 2 konferencje dla branży IT: 24.10 w Katowicach i 26.10 w Gdyni. 4 ścieżki: Front-End, Java, AI / ML, DevOps & Cloud. Dla czytelników newslettera bilety 10% taniej z kodem unknow10
+
+### 8. Deno - nauka przez przykłady
+
+[https://examples.deno.land/](https://examples.deno.land/)
+
+INFO: Jeśli kiedykolwiek przeszła Ci przez głowę myśl o nauce technologii Deno (runtime dla JavaScript/TypeScript), to ta strona wprowadzi Cię w ten temat w ekspresowym tempie, przy założeniu, że znasz już podstawy JavaScriptu. To zbiór krótkich przykładów kodu z adnotacjami. Świetne do nauki.
+
+### 9. KGB, komputer i ja - film dokumentalny (1h)
+
+[https://youtube.com/watch?v=PGv5BqNL164&si=4eo3WARIm7JzQprC](https://youtube.com/watch?v=PGv5BqNL164&si=4eo3WARIm7JzQprC)
+
+INFO: Akcja filmu dzieje się w 1986 roku. Główny bohater, astronom z Lawrence Berkeley Laboratory zauważa 75 centów nieścisłości w pewnych rozliczeniach księgowych. Po głębszej analizie zauważa, że manipulacje finansowe, to prawdopodobnie robota hackera. Postanawia więc go wyśledzić.
+
+### 10. Lista 12 wzorców projektowych używanych przy pracy z mikroserwisami
+
+[https://levelup.gitconnected.com/12-microservices-pattern-i-wish-i-knew-before-the-system-design-interview-5c35919f16a2](https://levelup.gitconnected.com/12-microservices-pattern-i-wish-i-knew-before-the-system-design-interview-5c35919f16a2)
+
+INFO: Na najpopularniejszym rozwiązaniu polegającym na wrzuceniu wszystkich usług za API Gateway świat się nie kończy. Istnieje jeszcze kilkanaście innych rozwiązań, które także mają swoje zastosowanie.
+
+### 11. Free software, free society - wstąpienie Richarda Stallmana na TEDxGeneva (film, 14 minut)
+
+[https://www.youtube.com/watch?v=Ag1AKIl_2GM](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+
+INFO: Dlaczego potrzebujemy wolnego oprogramowania? Jakie są filary wolności użytkownika i dlaczego to jest takie ważne? To wystąpienie ma już 9 lat, ale natrafiłem na nie dopiero w tym tygodniu. Z racji tego, że jest to wykład niby technologiczny, ale bardziej światopoglądowy, dość naturalne może być to, że nie każdy będzie się zgadzał z punktem widzenia Stallmana.
+
+### 12. Dlaczego chmurowe środowiska programistyczne zyskują popularność?
+
+[https://blog.pragmaticengineer.com/why-are-cloud-development-environments-spiking-in-popularity-now/](https://blog.pragmaticengineer.com/why-are-cloud-development-environments-spiking-in-popularity-now/)
+
+INFO: "Środowisko programistyczne w chmurze? A co to za wymysł?!" powiedzielibyśmy jeszcze kilka lat temu. Czasy się zmieniają i coraz więcej firm decyduje się na tego typu rozwiązanie. Pytanie jednak brzmi, dlaczego to robią? Artykuł stara się wyjaśnić to zjawisko.
+
+### 13. Ile będzie ważyć node_modules po instalacji paczki?
+
+[https://pkg-size.dev/](https://pkg-size.dev/)
+
+INFO: Podaj nazwę paczki lub wrzuć swój plik packages.json, a dowiesz się, o ile zwiększy się Twój codebase po użyciu wybranej paczki wraz z jej zależnościami.
+
+### 14. Historia pewnej krótkiej, dwuliterowej rejestracji z USA
+
+[https://100parkingtickets.com/](https://100parkingtickets.com/)
+
+INFO: Co złego może się stać, gdy zamówisz sobie personalizowaną rejestrację z dwoma literami będącymi Twoimi inicjałami? W zasadzie to nic się nie stanie. No, chyba że w systemie komputerowym z mandatami, te dwie literki mają pewne szczególne znaczenie - wtedy masz przechlapane.
+
+### 15. Notify - wysyłaj powiadomienia na Discorda i telefon
+
+[https://infosecwriteups.com/find-bugs-while-sleeping-get-phone-notifications-when-a-bug-is-found-b06ef95a6df7](https://infosecwriteups.com/find-bugs-while-sleeping-get-phone-notifications-when-a-bug-is-found-b06ef95a6df7)
+
+INFO: Przykład wykorzystania aplikacji Notify, umiejącej wysyłać powiadomienia na różne kanały komunikacji. Możesz dzięki temu np. informować swój team o stopniu zaawansowania builda, czy wysyłać sobie powiadomienie na telefon, gdy coś przestanie działać.
+
+### 16. Jak pytać GPT-4 o akcje, a nie odpowiedzi (film, 2h i 26 minut)
+
+[https://www.youtube.com/watch?v=TbsiT1AH8MM](https://www.youtube.com/watch?v=TbsiT1AH8MM)
+
+INFO: ChatGPT najczęściej używany jest do generowania odpowiedzi na pytania użytkownika. Jeśli jednak jesteś programistą i masz dostęp do API, to ten sam mechanizm, zamiast tylko generować tekst, może także sterować wybranymi przez Ciebie procesami. Jak to zrobić? Wersję no-code oraz code znajdziesz w nagraniu.
+
+### 17. Pozbądź się tego "ELSE" z kodu!
+
+[https://preslav.me/2023/09/22/ditch-that-else/](https://preslav.me/2023/09/22/ditch-that-else/)
+
+INFO: Wielokrotnie zagnieżdżony kod składający się z dziesiątek 'IF-ów w IF-ach' bywa naprawdę trudny do analizy i debugowania. Gdy dodamy do tego jeszcze kilka zapisów ELSE, może z tego wyjść niezły śmietnik. Jak to uprościć?
+
+### 18. Twoja nowa dziewczyna to... AI? - do czego może doprowadzić rozwój technologii?
+
+[https://www.freyaindia.co.uk/p/we-cant-compete-with-ai-girlfriends](https://www.freyaindia.co.uk/p/we-cant-compete-with-ai-girlfriends)
+
+INFO: Artykuł zwraca uwagę na problem nieracjonalnych standardów zarówno piękna, jak i emocji, które mogą narzucić nam AI, które nie tylko wyglądają, ale i zachowują się idealnie. To alarmujące spojrzenie na to, jak technologia może wpływać na nasze relacje, poczucie własnej wartości i oczekiwania wobec innych.
+
+### 19. Operacja Upsert w SQL - da się zrobić to lepiej?
+
+[https://antonz.org/sql-upsert/](https://antonz.org/sql-upsert/)
+
+INFO: Zastanawiałeś się kiedyś, jak w SQL-u dodać nowe rekordy do bazy danych i jednocześnie zaktualizować już istniejące? Ten artykuł pokazuje, jak to zrobić w różnych systemach zarządzania bazami danych. Przykłady są interaktywne, więc możesz nie tylko czytać, ale i ćwiczyć na bieżąco. Znajdziesz tu informacje dla MySQL/MariaDB, SQLite, PostgreSQL, SQL Server i Oracle.
+
+### 20. Sztuczna Polska - czyli uroki naszego kraju widziane przez AI
+
+[https://www.instagram.com/sztuczna_polska/](https://www.instagram.com/sztuczna_polska/)
+
+INFO: Przeważnie nie linkuję do pojedynczych kont na Instagramie, ale tym razem zrobię wyjątek. Twórca tego konta publikuje różnorodne przeróbki polskich miast, polityków, zabytków itp. Wszystkie wykonane oczywiście z użyciem sztucznej inteligencji. Każdy kafelek to tzw. karuzela (zbiór zdjęć, a nie pojedyncza fotka!), więc pamiętaj, aby zobaczyć wszystkie w danym zbiorze. Momentami zabawne ;)
+
+### 21. Jak i w jakim celu co wykrywać tenele SSH?
+
+[https://www.trisul.org/blog/detecting-ssh-tunnels/](https://www.trisul.org/blog/detecting-ssh-tunnels/)
+
+INFO: Tunelowanie połączeń przez SSH to w pełni normalna, często stosowana technika uzyskania dostępu do usług np. za NAT-em, czy w odciętej przez firewall części sieci. Problem zaczyna się, jeśli działasz w środowisku korporacyjnym z bardzo wyśrubowaną polityką bezpieczeństwa. Tam tunele SSH mogą nie być mile widziane. Jak jako admin możesz takie tunele wykryć? Tego dowiesz się z artykułu.
+
+### 22. Whiz - copilot dla Twojego terminala
+
+[https://github.com/searchableguy/whiz](https://github.com/searchableguy/whiz)
+
+INFO: Jeśli wiesz, jak działa Copilot dla kodu, pracujący np. w VSCode, to wyobraź sobie, jak mogłoby działać takie rozszerzenie w terminalu. Opisujesz, co chcesz zrobić (np. "wylistuj mi pliki które..."), a aplikacja generuje Ci odpowiednie polecenie wykonujące akcję, o którą prosisz. Przed wykonaniem wygenerowanej akcji trzeba oczywiście potwierdzić, że wygenerowane polecenie ma sens i jest wg Ciebie bezpieczne.
+
+### 23. Czym jest "zlobotomizowana sowa" w CSS?
+
+[https://blog.logrocket.com/css-lobotomized-owl-selector-modern-guide](https://blog.logrocket.com/css-lobotomized-owl-selector-modern-guide)
+
+INFO: Mowa oczywiście o zabawnie nazwanym selektorze CSS, który w języku polskim funkcjonuje po prostu pod nazwą "sowa". Do czego on służy, jak działa i jak go wykorzystać w praktyce?
+
+### 24. Optymalizacja wydajności builda w Next.js
+
+[https://blog.logrocket.com/optimizing-build-performance-next-js/](https://blog.logrocket.com/optimizing-build-performance-next-js/)
+
+INFO: Ten artykuł to zbiór porad na temat optymalizacji wydajności procesu builda w NextJS. Autor krok po kroku omawia różne techniki, automatycznej optymalizacji plików statycznych, po optymalizację skryptów 3-party.
+
+### 25. ChatGPT teraz słyszy, widzi i mówi (mobilna appka)
+
+[https://openai.com/blog/chatgpt-can-now-see-hear-and-speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
+
+INFO: Mowa oczywiście o oficjalnej aplikacji mobilnej wydanej przez OpenAI. Można jej teraz używać do rozpoznawania obrazów i dźwięków, a następnie zadawać pytania związane z rozpoznanymi obiektami. Aktualizacja jest wprowadzana stopniowo u kolejnych użytkowników, więc jest szansa, że jeszcze jej nie masz.
+
+### 26. Workery od Cloudflare oferują dostęp do GPU i LLM-ów
+
+[https://blog.cloudflare.com/workers-ai/](https://blog.cloudflare.com/workers-ai/)
+
+INFO: Cloudflare prezentuje Workers AI - platformę umożliwiającą twórcom oprogramowania korzystanie z modeli AI przy pomocy kilku linii kodu. Dzięki niej masz dostęp do popularnych modeli open-source, które mogą działać na serwerach GPU Cloudflare.
+
+### 27. Przegląd narzędzi do tworzenia diagramów blokowych
+
+[https://chriscoyier.net/2023/09/19/when-you-need-to-draw-some-gosh-danged-boxes-that-are-connected-to-some-other-gosh-darned-boxes-with-arrows-connecting-them/](https://chriscoyier.net/2023/09/19/when-you-need-to-draw-some-gosh-danged-boxes-that-are-connected-to-some-other-gosh-darned-boxes-with-arrows-connecting-them/)
+
+INFO: Czasami potrzebujesz po prostu narysować kilka prostokątów połączonych strzałkami, ale chcesz, aby wyglądało to estetycznie. Jaki soft do tego wybrać? Oto kilka propozycji.
+
+### 28. SeaGOAT - semantyczna wyszukiwarka kodu w lokalnych repozytoriach
+
+[https://github.com/kantord/SeaGOAT](https://github.com/kantord/SeaGOAT)
+
+INFO: Opisujesz krótko (językiem naturalnym), co chcesz zmienić/znaleźć w kodzie, a aplikacja mówi Ci, w którym miejscu kodu jest to, czego szukasz. Zgadujesz, że prawdopodobnie w backendzie siedzi jakiś ChatGPT? No to tutaj Cię zaskocze - zero AI. Po prostu wektorowa baza danych ChromaDB.
+
+### 29. Ochrona zasobów AWS przed ransomware - jak to osiągnąć?
+
+[https://www.primeharbor.com/blog/awsbackup/](https://www.primeharbor.com/blog/awsbackup/)
+
+INFO: Tak, ataki ransomware na zasoby chmurowe także istnieją. Może zdarzyć się, że całe Twoje środowisko produkcyjne padnie po takim ataku. Jak przygotować się na taką sytuację? Garść informacji na temat AWS Backup.
+
+### 30. Ataki na modele językowe - przykłady
+
+[https://github.com/dropbox/llm-security](https://github.com/dropbox/llm-security)
+
+INFO: Rosnąca popularność LLM-ów sprawi prawdopodobnie również wzrost ataków na te rozwiązania. Firma Dropbox postanowiła zebrać kilka ciekawych metoda ataku i przetestować je na modelach. Zapytania i ich rezultaty umieszczone są w podlinkowanym repozytorium.
+
+### 31. Sprytna wyszukiwarka ofert pracy - WFH, praca z biura i sporo filtrów
+
+[https://uw7.org/un_e0952cf0590af/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_e0952cf0590af/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Ciekawie zbudowana wyszukiwarka ofert z różnych krajów i serwisów. Możesz zawężać wyniki wyszukiwania po słowach kluczowych, wymaganym doświadczeniu, zarobkach, a także np. po tym, czy firma zezwala na pracę w 100% zdalną.
+
+### 32. Jak (nie) ubiegać się o pracę w IT
+
+[https://uw7.org/un_da0d274726ccc/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_da0d274726ccc/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Chcesz aplikować na stanowisko techniczne w branży IT? Autor, pracownik firmy Canonical, dzieli się swoimi spostrzeżeniami, pokazując, co robić, a czego unikać, by Twoja aplikacja przyciągnęła uwagę potencjalnego pracodawcy.
 
 ## 2023-09-22
 
