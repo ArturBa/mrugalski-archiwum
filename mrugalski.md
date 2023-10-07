@@ -1,4 +1,198 @@
-# Archiwum Mrugalskiego na dzień 9/30/2023
+# Archiwum Mrugalskiego na dzień 10/7/2023
+
+## 2023-10-06
+
+### 1. Społeczne oziębienie - efekt uboczny Big Data
+
+[https://www.socialcooling.com/](https://www.socialcooling.com/)
+
+INFO: Czy odczuwasz presję bycia 'perfekcyjnym' w świecie cyfrowym? Ten artykuł omawia 'społeczne oziębienie', czyli negatywne skutki przetwarzania ogromnej ilości naszych danych na nasze zachowania i decyzje. Zobacz, jak prywatność i wolność mogą być ograniczane przez niewidzialne algorytmy oceniające każdy nasz ruch.
+
+### 2. Maciek Aniserowicz u Przemka Górczyka - wywiad (film, 2h i 17 minut)
+
+[https://youtube.com/watch?v=sAEIspeGnMk](https://youtube.com/watch?v=sAEIspeGnMk)
+
+INFO: Rozmowa o wypaleniu zawodowym, wydawaniu kursów online, zarabianiu milionów, podejściu do pracy i wielu innych tematach. Treść bardziej do przemyśleń dla ludzi działających w branży IT i myślących o przyszłości swojej kariery.
+
+### 3. Implementacja inteligentnego domu z użyciem OutSystems
+
+[https://itnext.io/home-automation-with-outsystems-follow-up-ceda2176c5a6](https://itnext.io/home-automation-with-outsystems-follow-up-ceda2176c5a6)
+
+INFO: Ciekawe case study ogarnięcia automatyzacji w domu z użyciem technologii no-code, kilku urządzeń IoT i starego tableta.
+
+### 4. Jak działa funkcja Find My, gdy iPhone jest wyłączony?
+
+[https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html)
+
+INFO: Czy zastanawiałeś się kiedyś, jak to możliwe, że możesz znaleźć swój iPhone, nawet gdy jest wyłączony? Ten artykuł tłumaczy jak działa technologia Always-on Processor (AOP) dostępna od iOS 15. Dowiedz się, jak procesor, który jest zawsze włączony, oszczędza energię, a także jakie są potencjalne zagrożenia dla bezpieczeństwa z tego płynące.
+
+### 5. Przepalanie kasy na płatne reklamy dla narzędzi deweloperskich - czego się nauczyliśmy?
+
+[https://posthog.com/blog/dev-marketing-paid-ads](https://posthog.com/blog/dev-marketing-paid-ads)
+
+INFO: Zastanawiasz się, jak skutecznie zainwestować w reklamę swojego narzędzia dla programistów? Ekipa PostHog dzieli się swoimi doświadczeniami i daje konkretne, praktyczne rady dla start-upów. Autorzy dzielą się swoimi opiniami o reklamach na Twitterze, Facebooku, Google, LinkedIn, Reddicie i kilku innych miejscach.
+
+### 6. Skąd Twój komputer wie, która jest godzina?
+
+[https://dotat.at/@/2023-05-26-whence-time.html](https://dotat.at/@/2023-05-26-whence-time.html)
+
+INFO: Pytanie wydaje się banalne i istnieją na nie banalne odpowiedzi, jednak gdy zagłębimy się w temat, zaczyna być ciekawie. Komputer pobiera czas z serwera NTP, ale skąd ten serwer wie, która jest godzina? Pobiera go z innego serwera, a skąd ten inny to wie? Pobiera go z GPS. Skąd GPS to wie? I tak w kilkudziesięciu prostych krokach otrzymujemy odpowiedź :D
+
+### 7. Podbij swoją karierę za pomocą Symfony - Webinar [sponsorowane]
+
+[https://asphp.pl/bezplatny-webinar](https://asphp.pl/bezplatny-webinar)
+
+INFO: Webinar, podczas którego Bartek Sosna demonstruje, jak Symfony przyspiesza rozwój kariery programisty. Opowie o tym, jak zwiększyć swoje zarobki i mieć więcej czasu jako programista PHP.
+
+### 8. Co programista musi wiedzieć o unicode?
+
+[https://tonsky.me/blog/unicode/](https://tonsky.me/blog/unicode/)
+
+INFO: Czy wiesz, jak poprawnie korzystać z UTF-8? Artykuł w przystępny sposób tłumaczy zasady działania Unicode i problematykę związaną z kodowaniem znaków. Dlaczego jeden znak zajmuje wiele bajtów i dlaczego jest to tak zmienne? Ile różnych symboli pomieści UTF-8 i jaka część jego pojemności jest już zużyta? Sporo ciekawostek dla osób lubiących dogłębnie poznawać zagadnienia technologiczne.
+
+### 9. Nie potrzebujesz dedykowanej usługi cache - PostgreSQL wystarczy
+
+[https://martinheinz.dev/blog/105](https://martinheinz.dev/blog/105)
+
+INFO: Stawianie oddzielnej aplikacji do ogarniania pamięci cache w aplikacji jest dość popularne, ale dlaczego programista miałby nie wykorzystać świetnie znanej mu bazy PostgreSQL w tym celu? A może, w niektórych przypadkach, będzie to nawet lepsze rozwiązanie niż dedykowana aplikacja?
+
+### 10. Dependabot dodaje szkodliwy kod do Twojej aplikacji?!
+
+[https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/](https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/)
+
+INFO: Hakerzy manipulują commitami, wykorzystując Dependabota jako kamuflaż. Artykuł przedstawia mechanizmy ataku, analizuje przeprowadzone działania i daje wskazówki, jak zabezpieczyć się przed podobnymi zagrożeniami.
+
+### 11. Zdobycie roota na Ubuntu z użyciem logrotate
+
+[https://joshua.hu/gaining-root-with-logrotate-sudo-ubuntu](https://joshua.hu/gaining-root-with-logrotate-sudo-ubuntu)
+
+INFO: Ubuntu 22.04 posiada konto zdatne do uruchamiania aplikacji logrotate poprzez sudo. Czy to wystarczające uprawnienia do przejęcia kontroli nad serwerem? Jak najbardziej! :)
+
+### 12. Tysiące kluczy API ujawnionych w komentarzach na GitHubie
+
+[https://trufflesecurity.com/blog/thousands-of-github-comments-leak-live-api-keys/](https://trufflesecurity.com/blog/thousands-of-github-comments-leak-live-api-keys/)
+
+INFO: Badacze z Truffle Security odkryli, że spora liczba kluczy dostępowych ląduje w komentarzach na GitHubie (nie w samych commitach). Dowiedz się, dlaczego edycja komentarzy nie usuwa ich z historii i jakie są konsekwencje takiego błędu dla bezpieczeństwa danych. Co można zrobić, aby temu zjawisku przeciwdziałać? Więcej w artykule.
+
+### 13. Omówienie wszystkich rodzajów wagonów kolejowych (film, 17 minut)
+
+[https://www.youtube.com/watch?v=psjExhXfvbI](https://www.youtube.com/watch?v=psjExhXfvbI)
+
+INFO: Temat może wydawać się dość nudny, ale jest jak najbardziej techniczny i jest szansa, że zainteresuje nie tylko fanów zagadnień kolejowych. Masz spore zaległości w projektach, szef ciśnie z zadaniami, a na uczelni urwanie głowy? To idealny moment na prokrastynacje i oglądanie filmu o wagonach ;)
+
+### 14. Czym się różni pseudonimizacja od anonimizacji? (film, 46 minut)
+
+[https://www.internet-czas-dzialac.pl/pseudonimizacja-a-anonimizacja/](https://www.internet-czas-dzialac.pl/pseudonimizacja-a-anonimizacja/)
+
+INFO: Czy patrząc na dane, można jednoznacznie stwierdzić, że są anonimowe? Czy np. haszowanie numerów telefonu to skuteczna pseudonimizacja? Adwokatka i kryptolog podejmują próbę pogodzenia prawnych i matematycznych definicji pojęć "anonimizacja" i "pseudonimizacja".
+
+### 15. Hardenowanie macOS - z uwzględnieniem nowego systemu Sonoma
+
+[https://www.bejarano.io/hardening-macos/](https://www.bejarano.io/hardening-macos/)
+
+INFO: Jak zwiększyć bezpieczeństwo MacOS? Oto lista łatwych do wprowadzenia modyfikacji. Tekst został zaktualizowany, uwzględniając najnowszy system operacyjny od Apple.
+
+### 16. Jak rozpoznać fonta ze zdjęcia/tekstu z sieci
+
+[https://stackdiary.com/how-to-identify-fonts/](https://stackdiary.com/how-to-identify-fonts/)
+
+INFO: Widzisz naprawdę ciekawego fonta użytego na pewnej stronie lub w reklamie graficznej. Co to za font? Istnieje kilka sposobów/serwisów na rozpoznanie tego. Dlaczego aż kilka, jeśli można użyć jednego? Po pierwsze, nie każda usługa posiada w swojej bazie wszystkie fonty, których szukasz, a po drugie, serwisy oferują różną trafność w rozpoznawaniu tekstu.
+
+### 17. Którą bazę wektorową wybrać? - porównanie 7 najpopularniejszych
+
+[https://benchmark.vectorview.ai/vectordbs.html](https://benchmark.vectorview.ai/vectordbs.html)
+
+INFO: W dobie sztucznej inteligencji i implementacji podejścia typu RAG, bazy wektorowe stały się niezwykle popularne. Mając do wyboru Pinecone, Weviate, Milvus, Qdrant, Chroma, Elasticsearch i PGvector, którą i dlaczego miałbyś wybrać? Zwięzłe porównanie.
+
+### 18. Hiperpersonalizacja AI, czyli GPT-4 dopasowane do Ciebie [autopromocja]
+
+[https://www.aidevs.pl/webinar](https://www.aidevs.pl/webinar)
+
+INFO: Dlaczego miałbyś korzystać z publicznie dostępnych, ogólnikowych odpowiedzi z GPT-4, jeśli możesz dostosować ten model (korzystając z API) do swoich potrzeb, dodając do niego długoterminową pamięć, interakcję z usługami i urządzeniami IoT, dostęp do internetu i wiele, wiele innych. Już za kilkanaście dni, wraz z Adamem Gospodarczykiem i Mateuszem Chrobokiem widzimy się na webinarze na ten temat. Zapisz się na listę zainteresowanych, a wtedy, nawet jeśli Cię nie będzie z nami na żywo, prześlemy Ci linka do nagrania.
+
+### 19. Plusy i minusy "text-wrap: balance" + polifil (CSS)
+
+[https://bleech.de/en/blog/the-ups-and-downs-of-text-wrap-balance-and-a-polyfill/](https://bleech.de/en/blog/the-ups-and-downs-of-text-wrap-balance-and-a-polyfill/)
+
+INFO: Tekst przygotowany przez copywritera nie zawsze rozkłada się równomiernie na stronie. Niekiedy jedno słowo przeskakuje do kolejnej linii, a jeszcze innym razem pierwsza linia nagłówka zawiera 8 słów, a druga tylko 3. Jak to zrównoważyć? Istnieją oczywiście ręczne metody na rozwiązanie tego problemu, ale od pewnego czasu CSS ma natywne rozwiązanie, które pomoże Ci ogarnąć ten temat.
+
+### 20. Jak zmusić stare aplikacje do obsługi protokołu IPv6 (Linux)
+
+[https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
+
+INFO: Istnieją aplikacje, które powstały w epoce IPv4-only. Nie sposób namówić je standardowymi metodami na wspieranie adresacji IPv6, ale z pomocą przychodzi nam LD_PRELOAD.
+
+### 21. Kata Containers - lekkie maszyny wirtualne
+
+[https://katacontainers.io/](https://katacontainers.io/)
+
+INFO: Kontenery są lekkie, wirtualne maszyny mają znacznie lepszą izolację zasobów. A gdyby połączyć te dwie rzeczy w jedną całość? Tak powstały Kata COntainers, czyli system zarządzania kontenerami (kompatybilne np. z Dockerem), ale uruchamiane w stylu VM-ek. Projekt się rozwija, więc ma pewne ograniczenia (więcej o nich w dokumentacji), ale zapowiada się ciekawie.
+
+### 22. Table-Saw - komponent do wyświetlania responsywnych tabel
+
+[https://github.com/zachleat/table-saw](https://github.com/zachleat/table-saw)
+
+INFO: Chcesz zaprezentować dużą ilosć danych w postaci tabelarycznej? Na desktopie wszystko wygląda świetnie, ale na urządzeniach mobilnych przeglądanie takiej tabeli to koszmar? Ten komponent poprawi dla Ciebie responsywnosć tabel i jeśli to będzie konieczne, przebuduje je w taki sposób, aby dane były prezentowane pionowo zamiast poziomo. Rzuć okiem na demo, aby zrozumieć, jak to działa.
+
+### 23. Generator plików JSON - przykładowe dane
+
+[https://www.jsongenerator.io/](https://www.jsongenerator.io/)
+
+INFO: Definiujesz strukturę danych, na jakiej Ci zależy, ustawiasz pętle na liczbę potrzebnych rekordów, a na koniec tylko umieszczasz odpowiednie placeholdery w kodzie i gotowe. Przydatne narzędzie do przygotowywania danych testowych do swoich aplikacji.
+
+### 24. Właściwość HTMLElement.dataset w czystym JavaScript
+
+[https://gomakethings.com/the-htmlelement.dataset-property-in-vanilla-javascript/](https://gomakethings.com/the-htmlelement.dataset-property-in-vanilla-javascript/)
+
+INFO: Przetrzymywanie danych bezpośrednio w atrybutach drzewa DOM to dość częsta praktyka. Ten artykuł wyjaśni Ci, jak łatwo można później się do takich danych dobrać, a nawet jak je edytować z poziomu JS.
+
+### 25. Gmail wprowadza reakcje na maile za pomocą emoji
+
+[https://support.google.com/mail/answer/14080429?visit_id=638319434506118031-3649702038&p=emoji_reactions&rd=1](https://support.google.com/mail/answer/14080429?visit_id=638319434506118031-3649702038&p=emoji_reactions&rd=1)
+
+INFO: Wydaje się to niewielkim i do tego nikomu niepotrzebnym drobiazgiem, jednak w środowiskach korporacyjnych może to być gamechanger. Koniec z zastanawianiem się, czy szef widział maila, koniec z odpisywaniem "ACK" na wiadomości. Po prostu jednym klikiem dajesz znać odbiorcy, czy np. akceptujesz jego prostą sugestię, czy nie, albo oznaczasz maila, mówiąc za pomocą obrazu 'dzięki za info'.
+
+### 26. Przeglądarka Vivaldi jest już dostępna na iOS
+
+[https://vivaldi.com/blog/vivaldi-browser-launches-on-ios/](https://vivaldi.com/blog/vivaldi-browser-launches-on-ios/)
+
+INFO: Ten news z pewnością ucieszy wielbicieli Vivaldi w wersji desktopowej. Obecnie nie widzę w spisie funkcji niczego będącego rewolucją, ale z pewnością projekt będzie dalej rozwijany. Interesująco wygląda Vivaldi w wersji na iPadOS.
+
+### 27. Wzorzec obserwator w interfejsie użytkownika - czym jest?
+
+[https://swistak.codes/post/obserwator/](https://swistak.codes/post/obserwator/)
+
+INFO: Artykuł przedstawia jedną podstawowych koncepcji stojących za interaktywnością UI, czyli wzorzec projektowy obserwator. Od podstawowej, książkowej implementacji, przez uproszczoną po gotowe rozwiązania dostępne dla różnych języków.
+
+### 28. Idiomy programistyczne - jak to napisać w języku X?
+
+[https://www.programming-idioms.org/all-idioms](https://www.programming-idioms.org/all-idioms)
+
+INFO: Ponad 330 'idiomów', czyli fragmentów kodu prezentujących standardowe metody implementacji najczęstszych rzeczy w językach programowania. Wyszukiwanie wartości, deklaracje funkcji, zamiana wartości zmiennych i wiele innych. Idealne do nauki programowania nowego języka.
+
+### 29. Wzorzec projektowy Dekorator w praktyce
+
+[https://devszczepaniak.pl/wzorzec-projektowy-dekorator/](https://devszczepaniak.pl/wzorzec-projektowy-dekorator/)
+
+INFO: Wykorzystanie wzorca projektowego Dekorator to prosty sposób by w prosty i schludny sposób rozszerzyć możliwości kodu. W najnowszym wpisie na blogu dzielę się założeniami stojącymi za Dekoratorem, jego wadami i zaletami. Przedstawiam też, jak wygląda zastosowanie dekoratorów w JavaScript i TypeScript w praktyce. W artykule przemyciłem również wiele praktycznych przypadków, gdzie wykorzystanie dekoratora pasuje idealnie.
+
+### 30. CSS Subgrid - jak to działa?
+
+[https://web.dev/css-subgrid/](https://web.dev/css-subgrid/)
+
+INFO: Jeśli komuś mało standardowego grida w CSS, to może jeszcze bardziej zagłębić się w temat i lepiej sterować strukturą strony za pomocą subgridów. Do czego one służą i jak ich używać?
+
+### 31. Lista 18 stron z darmowymi wektorowymi ilustracjami wysokiej jakości
+
+[https://uw7.org/un_45a0105ea3b16/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_45a0105ea3b16/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Ten artykuł to przegląd 18 serwisów, na których publikowane są profesjonalne (i darmowe!) grafiki wektorowe. Artykuł zwraca uwagę także na kwestię licencji tych grafik, ponieważ nie wszystkie nadają się do wykorzystania komercyjnego.
+
+### 32. Kilkanaście tysięcy pomysłów na startupy
+
+[https://uw7.org/un_ca956e270bd9c/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_ca956e270bd9c/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Ktoś wpadł na ambitny pomysł. Automatycznie zaciągnięto dane na temat obowiązków wykonywanych na kilkuset stanowiskach z różnych dziedzin, a następnie przekształcono je na pomysły starupowe. W praktyce wszystko i tak sprowadza się do zastąpienia tego, co do tej pory było wykonywane przez człowieka za pomocą automatów. Lista jest zbyt długa, aby dało się ją przeczytać, ale jeśli chodzi Ci po głowie pomysł na biznes związany z czymś konkretnym (np. gry komputerowe, handel, obsługa użytkownika itp.), to możesz wyszukać pomysłów z tym związanych w podlinkowanym spisie.
 
 ## 2023-09-29
 
