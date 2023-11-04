@@ -1,4 +1,216 @@
-# Archiwum Mrugalskiego na dzień 10/28/2023
+# Archiwum Mrugalskiego na dzień 11/4/2023
+
+## 2023-11-03
+
+### 1. Jak szybko rozwija się sztuczna inteligencja? Porównanie modeli od OpenAI
+
+[https://theaidigest.org/progress-and-dangers](https://theaidigest.org/progress-and-dangers)
+
+INFO: Interaktywny artykuł, który porównuje modele GPT-2, GPT-3, GPT-3.5-Turbo oraz GPT-4. Jak bardzo zmieniła się jakość udzielanych odpowiedzi? To jest interesujące i zadziwiające zarazem.
+
+### 2. 7 typów trudnych współpracowników i jak sobie z nimi radzić
+
+[https://careercutler.substack.com/p/7-types-of-difficult-coworkers-and](https://careercutler.substack.com/p/7-types-of-difficult-coworkers-and)
+
+INFO: Czy masz w pracy kolegę, który zawsze dostrzega potencjalne ryzyko w każdym pomyśle? A może jest ktoś, kto ciągle w ostatniej chwili wnosi swoje uwagi? W artykule znajdziesz garść metod na poprawę współpracy z takimi osobami.
+
+### 3. Organizacja kalendarza dla menadżerów IT (i nie tylko)
+
+[https://hybridhacker.email/p/your-week-as-an-engineering-manager](https://hybridhacker.email/p/your-week-as-an-engineering-manager)
+
+INFO: Czy kiedykolwiek zastanawiałeś się, jak powinien wyglądać Twój tydzień pracy jako IT Manager? Ten artykuł nie tylko dostarczy odpowiedzi na to pytanie, ale także przeprowadzi Cię przez proces tworzenia tygodniowego kalendarza, który odzwierciedla typowe obowiązki na tym stanowisku. Podoba mi się podejście polegające na umieszczaniu na początku kalendarza tych niezmiennych i nieprzesuwalnych elementów dnia.
+
+### 4. Digitalizacja społeczeństwa w Europie - jak to naprawdę wygląda?
+
+[https://ec.europa.eu/eurostat/web/interactive-publications/digitalisation-2023](https://ec.europa.eu/eurostat/web/interactive-publications/digitalisation-2023)
+
+INFO: Jak myślisz, jaki procent studentów w Polsce studiuje kierunki związane z branżą IT? A jaki procent Polaków umie korzystać z komputera? Ile procent pracowników to ludzie z IT? Jak popularne są usługi chmurowe w UE? Czy AI opanowała już rynek IT? Mnóstwo ciekawych danych na temat krajów europejskich czeka na Ciebie. Przyznam, że jestem mocno zaskoczony wynikami tej analizy &mdash; żyjemy w bańce.
+
+### 5. Ludzie rozmawiają z ChatGPT godzinami - rzeczywistość z filmu "Her"?
+
+[https://arstechnica.com/information-technology/2023/10/people-are-speaking-with-chatgpt-for-hours-bringing-2013s-her-closer-to-reality/](https://arstechnica.com/information-technology/2023/10/people-are-speaking-with-chatgpt-for-hours-bringing-2013s-her-closer-to-reality/)
+
+INFO: Pamiętasz film "Ona", w którym główny bohater zakochuje się w asystentce AI? Dzięki nowo dodanym funkcjom głosowym ChatGPT, ludzie doświadczają realnej wersji tej futurystycznej wizji, prowadząc dosłownie godzinne rozmowy z asystentem AI. Artykuł zainteresował mnie od strony czysto socjologicznej - nie tyle potrzebujemy w tym przypadku AI, ile 'czegoś', z czym możemy swobodnie porozmawiać.
+
+### 6. Jak AWS, Azure i GCP radzą sobie z awariami całych regionów?
+
+[https://newsletter.pragmaticengineer.com/p/handling-a-regional-outage-comparing](https://newsletter.pragmaticengineer.com/p/handling-a-regional-outage-comparing)
+
+INFO: Rzadko się to zdarza, ale jednak - wszyscy trzej dostawcy chmury doświadczyli awarii całych regionów. Autor skupia się na komunikacji podczas incydentów, szczegółach zdarzeń i retrospekcji po incydencie. To ciekawa analiza podejścia trzech różnych firm.
+
+### 7. Chcesz realizować projekty w Google Cloud, znasz się na kubernetesach, pipeline'ach CI/CD i wiesz co to IaC, FinOps i SRE? [sponsorowane]
+
+[https://oktawave.com/pl/firma/kariera/cloud-devops-engineer?utm_source=un](https://oktawave.com/pl/firma/kariera/cloud-devops-engineer?utm_source=un)
+
+INFO: INFO: Dołącz do zespołu DevOpsów Oktawave i zmigruj z nimi infrastrukturę IT spółek Grupy Polsat Plus (m.in. Polkomtel, Netia) do Google Cloud. Gwarantują dobre wynagrodzenie, pracę zdalną, wspierający team i ciekawe wyzwania.
+
+### 8. Terminalowa gra w klimacie Halloween
+
+[https://joel.tools/halloween/](https://joel.tools/halloween/)
+
+INFO: Poruszasz się po drzewie katalogów za pomocą klasycznych komend linuksowych. Po drodze zbierasz słodycze i walczysz z potworami. Warto rozpocząć grę od wpisania 'help' (ważne komendy to na przykład 'open' i 'use').
+
+### 9. Dług technologiczny - reguła 25%
+
+[https://shopify.engineering/technical-debt-25-percent-rule](https://shopify.engineering/technical-debt-25-percent-rule)
+
+INFO: Jak skutecznie spłacać dług technologiczny na co dzień, tygodniowo, miesięcznie, a nawet rocznie? Ten artykuł podpowie Ci, jak odróżnić to, które elementy musisz naprawić od razu, od tych, które mogą poczekać na 'lepsze czasy'. Dowiedz się, jak radzić sobie z różnymi rodzajami długu technologicznego i jak efektywnie zarządzać swoim czasem, aby skutecznie go eliminować.
+
+### 10. Obrazy AI sprowadzają świat do stereotypów?
+
+[https://restofworld.org/2023/ai-image-stereotypes/](https://restofworld.org/2023/ai-image-stereotypes/)
+
+INFO: Czy kiedykolwiek zastanawiałeś się, jak sztuczna inteligencja widzi różne narodowości? Autor analizuje, jak popularny generator obrazów - Midjourney, przedstawia różne kraje. W praktyce, za każdym razem otrzymujemy obraz rzeczywistości zniekształcony przez stereotypy.
+
+### 11. Automatyzacja w kontekście pracy w zespole - bezpłatny webinar
+
+[https://automationmaestro.pl/live/](https://automationmaestro.pl/live/)
+
+INFO: Jak uprościć życie sobie i innym, idąc zgodnie z duchem DevSecOps? Już 7 listopada o 20:00 odbędzie się webinar na temat automatyzacji GIT-a, spójnych procesów wydawania nowych wersji oprogramowania oraz automatycznego tworzenia dokumentacji. Wrzucam link, ponieważ webinar jest organizowany przez mojego znajomego. Wierzę jednak, że może Cię on zainteresować.
+
+### 12. Mockaroo - generator losowych danych do testów
+
+[https://www.mockaroo.com/](https://www.mockaroo.com/)
+
+INFO: Potrzebujesz danych, na których przetestujesz swoją aplikację? Na przykład 1000 przykładowych imion i nazwisk z adresami mailowymi albo spis przykładowych adresów IP? Interesują Cię formaty takie jak JSON, CSV, TSV, Excel i wiele innych? Wyklikaj to, czego potrzebujesz, w Mockaroo. Darmowe konto potrafi generować do 1000 rekordów jednocześnie, ale możesz pobrać tyle paczek danych, ile tylko zechcesz.
+
+### 13. Czy podzielisz kształt na połowy? (gra)
+
+[https://brilliant.org/challenges/halfsies/](https://brilliant.org/challenges/halfsies/)
+
+INFO: Teoretycznie prosta gra polega na przecinaniu różnych kształtów na dwie równe części. O ile podział prostokąta czy koła nie stanowi problemu, to przecięcie bardziej zaawansowanych kształtów już stanowi niemałe wyzwanie. Sprawdź się!
+
+### 14. Vectorpea - edytor grafik wektorowych online
+
+[https://www.vectorpea.com/](https://www.vectorpea.com/)
+
+INFO: Czy nazwa wydaje Ci się łudząco podobna do Photopea? To nie jest przypadek! Ta aplikacja wygląda i działa dokładnie tak samo, jak swój pierwowzór, z tą różnicą, że pracuje na grafikach wektorowych, a nie rastrowych. Całość jest oczywiście darmowa i dostępna w przeglądarce. Nie zastąpi ona na pewno narzędzi od Adobe, ale pozwoli na wykonanie prostych prac bez konieczności instalowania drogiego oprogramowania.
+
+### 15. Dev tools - zbior użytecznych porad
+
+[https://dev.to/lissy93/awesome-dev-tool-tips-32oo](https://dev.to/lissy93/awesome-dev-tool-tips-32oo)
+
+INFO: Tak, to kolejny artykuł na temat ciekawych możliwości ukrytych w przeglądarce w narzędziach dla programistów. Z każdym takim tekstem dowiaduję się jednak czegoś nowego, czego nie wiedziałem do tej pory, a co ułatwia mi pracę. Może i Ty znajdziesz coś dla siebie.
+
+### 16. Lazy Loading jest fajny, ale nie wszędzie!
+
+[https://cloudfour.com/thinks/stop-lazy-loading-product-and-hero-images/](https://cloudfour.com/thinks/stop-lazy-loading-product-and-hero-images/)
+
+INFO: Rozwiązania typu LazyLoad potrafią poprawić responsywność strony, skracać czas jej ładowania, zmniejszać rozmiar zaciąganych elementów i... zupełnie zepsuć doświadczenia, jakich doznaje użytkownik. Używaj więc tego rozwiązania z rozsądkiem - jak to zrobić, dowiesz się z artykułu.
+
+### 17. Dlaczego warto wziąć pod uwagę użycie SQLite?
+
+[https://www.epicweb.dev/why-you-should-probably-be-using-sqlite](https://www.epicweb.dev/why-you-should-probably-be-using-sqlite)
+
+INFO: Gdy myślisz o bazie danych dla swojego projektu, prawdopodobnie przychodzą Ci na myśl rozwiązania takie jak PostgreSQL, MySQL czy Oracle. Ten artykuł prezentuje SQLite jako potężną i niezwykle prostą alternatywę dla tych popularnych rozwiązań. Autor omawia zalety SQLite, takie jak brak opóźnień, łatwość użycia i niskie koszty utrzymania, a także porusza kwestię potencjalnych wad. Artykuł zasługuje na przeczytanie i przemyślenie Twojego wyboru. SQLite już dawno przestał być bazą danych używaną tylko do małych projektów.
+
+### 18. Przestań używać 'npm install' w swoim procesie CI/CD
+
+[https://blog.bitsrc.io/stop-using-npm-install-in-your-ci-cd-pipeline-ba0378bbebfb](https://blog.bitsrc.io/stop-using-npm-install-in-your-ci-cd-pipeline-ba0378bbebfb)
+
+INFO: Omówienie kluczowych różnic między "npm install" a "npm ci". Dlaczego warto odejść od tego pierwszego?
+
+### 19. Blokujesz przyciski na stronie? To zła praktyka
+
+[https://gomakethings.com/dont-disable-buttons/](https://gomakethings.com/dont-disable-buttons/)
+
+INFO: Użytkownik klika na przycisk "Wyślij". Przycisk blokuje się, aby uniemożliwić jego powtórne użycie. Dowiedz się, dlaczego jest to złym pomysłem i jakie problemy może powodować, zwłaszcza dla osób korzystających z czytników ekranu. Autor proponuje proste rozwiązanie, które nie tylko poprawia dostępność, ale także zapobiega wielokrotnemu wysyłaniu formularza.
+
+### 20. Co jest nie tak z domeną IO i jak historia za nią stoi?
+
+[https://www.beep.blog/io/](https://www.beep.blog/io/)
+
+INFO: Czy wiesz, jaką historię kryje domena .IO? Dowiedz się, jak niewielkie, rajskie wyspy stały się centrum militarnym i jakie to ma znaczenie dla domeny .io, popularnej w świecie startupów. Przygotuj się na poruszającą lekcję historii, której nie znajdziesz w podręcznikach. Pamiętaj, że przedstawione, dość mocne opinie, są opiniami autorki bloga.
+
+### 21. Pisanie kodu w JavaScript bez systemu budowania
+
+[https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/](https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/)
+
+INFO: Czy naprawdę potrzebujesz systemu budowania źródeł dla swojego projektu JavaScript? Autorka dzieli się swoimi doświadczeniami i uzasadnia, dlaczego zwykle rezygnuje z takiego systemu, mimo jego wielu zalet. W artykule znajdziesz wyjaśnienie, dlaczego promuje ona takie właśnie podejście.
+
+### 22. Web Componenty - tworzymy akordeon
+
+[https://gomakethings.com/creating-a-progessively-enhanced-accordion-with-web-components/](https://gomakethings.com/creating-a-progessively-enhanced-accordion-with-web-components/)
+
+INFO: Komponenty webowe zyskują na popularności, ale jeszcze nie każdy frontendowiec miał z nimi do czynienia. Z tego artykułu dowiesz się, jak stworzyć swój pierwszy komponent i jak zbudować go w sposób bezpieczny - tak, aby był użyteczny także bez JavaScript.
+
+### 23. Kompletny przewodnik po WebSockets z React
+
+[https://ably.com/blog/websockets-react-tutorial](https://ably.com/blog/websockets-react-tutorial)
+
+INFO: Artykuł ten jest kompendium wiedzy na temat WebSocketów i ich implementacji w React. Autor zaczyna od prostych wyjaśnień, czym jest ta technologia, jak działa, a później przechodzi do praktycznej wiedzy, która z pewnością przyda się Wam w pracy. Myślę, że tekst w wyczerpujący sposób omawia wspomniany temat.
+
+### 24. Przełącznik light/dark mode w czystym CSS bez JS
+
+[https://shkspr.mobi/blog/2023/10/css-only-colour-scheme-selector-no-js-required/](https://shkspr.mobi/blog/2023/10/css-only-colour-scheme-selector-no-js-required/)
+
+INFO: Zazwyczaj zmiana trybu strony z "dziennego" na "nocny" następuje przy lekkiej pomocy JavaScriptu. W tym artykule autor pokazuje, że przy zastosowaniu nowoczesnej składni CSS, wsparcie w postaci skryptów nie jest już niezbędne.
+
+### 25. Formbricks - otwartoźródłowa alternatywa dla Typeform
+
+[https://github.com/formbricks/formbricks](https://github.com/formbricks/formbricks)
+
+INFO: Czy Formularze Google wydają Ci się zbyt ubogie, a TypeForm za drogi? Spróbuj FormBricks i stwórz swoje własne, szczegółowo rozbudowane oraz atrakcyjne wizualnie formularze i ankiety. Link do repozytorium przytoczyłem poniżej, ale kiedy odwiedzisz ich stronę, będziesz mógł zobaczyć, jak takie formularze prezentują się w praktyce.
+
+### 26. App::Rak - zaawansowane narzędzie do wyszukiwania wzorców w plikach
+
+[https://github.com/lizmat/App-Rak](https://github.com/lizmat/App-Rak)
+
+INFO: Istnieje wiele narzędzi, które umożliwiają przeszukiwanie plików i katalogów. AppRak łączy je wszystkie w jedno, proste w obsłudze, narzędzie, którego obsługi można nauczyć się bardzo szybko. Celem tego narzędzia jest zastąpienie takich rozwiązań jak grep, find, ag, rg, itp.
+
+### 27. Raporty z analizy szybkości stron - jak je czytać i o co tam chodzi?
+
+[https://www.smashingmagazine.com/2023/10/answering-questions-interpreting-page-speed-reports/](https://www.smashingmagazine.com/2023/10/answering-questions-interpreting-page-speed-reports/)
+
+INFO: Zdobywanie wysokich wyników w narzędziach takich jak Lighthouse daje satysfakcję. Pytanie jednak, co oznaczają owe wszystkie FCP, TBT, CLS, TTFB oraz inne nieznane nam parametry? I jak w istocie możemy je poprawić?
+
+### 28. Jak dobrze (i jak źle) projektować API REST
+
+[https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
+
+INFO: Bardzo skumulowana porcja porad na temat dobrych i złych praktyk, z jakimi możemy się spotkać przy implementacji API REST-owego, jest dostępna dla Was. Jest sporo artykułów tego typu, ale ta skondensowana forma przypadła mi do gustu.
+
+### 29. Zawijanie tekstu w CSS, czyli "text-wrap: balance" vs "text-wrap: pretty"
+
+[https://blog.stephaniestimac.com/posts/2023/10/css-text-wrap/](https://blog.stephaniestimac.com/posts/2023/10/css-text-wrap/)
+
+INFO: Autorka wyjaśni różnice między tymi dwoma trybami zawijania tekstu i pokaże na realnych przykładach, kiedy mogą Ci się one przydać w codziennej pracy.
+
+### 30. TOP17 błędów w Node.js i sposoby na ich rozwiązanie
+
+[https://dev.to/logrocket/17-common-nodejs-errors-and-how-to-solve-them-8g1](https://dev.to/logrocket/17-common-nodejs-errors-and-how-to-solve-them-8g1)
+
+INFO: Autor omawia 17 najczęstszych błędów, które mogą napotkać programiści pracujący w Node.js, oraz proponuje skuteczne metody na ich rozwiązanie.
+
+### 31. TMUX - optymalna konfiguracja wypracowana po latach pracy
+
+[https://medium.com/code-art/after-n-years-im-finally-using-tmux-in-such-an-elegant-way-8d2492d964db](https://medium.com/code-art/after-n-years-im-finally-using-tmux-in-such-an-elegant-way-8d2492d964db)
+
+INFO: Tmux to tzw. terminal multiplexer, czyli narzędzie do efektywnego zarządzania oknami, ale w terminalu i do tego w trybie tekstowym. Autor wyjaśnia, jak bardzo użycie takiego narzędzia wpływa na Jego pracę i efektywność, a także jak bardzo zmieniło to Jego codzienny workflow.
+
+### 32. Generowanie obrazów (AI) na Macu w zaledwie sekundę - poradnik
+
+[https://replicate.com/blog/run-latent-consistency-model-on-mac](https://replicate.com/blog/run-latent-consistency-model-on-mac)
+
+INFO: Jeśli kiedykolwiek eksperymentowałeś ze Stable Diffusion, wiesz, że ta zabawa wymaga sporo czasu i cierpliwości. Niniejszy poradnik pokazuje, jak uruchomić na swoim sprzęcie projekt bazujący na SD, który potrafi zwrócić obrazy w niewiele ponad sekundę od wywołania polecenia. W porównaniu do minut generacji przy klasycznym Stable Diffusion, robi to wrażenie.
+
+### 33. Ustawa antyspoofingowa a telemarketerzy
+
+[https://jozwiak.top/blog/walka-z-oszustwami-w-komunikacji-elektronicznej-nowa-ustawa-a-telemarketerzy](https://jozwiak.top/blog/walka-z-oszustwami-w-komunikacji-elektronicznej-nowa-ustawa-a-telemarketerzy)
+
+INFO: Co mają wspólne sprzedawcy garnków i fotowoltaiki z oszustami bankowymi oraz co zmienia nowa ustawa antyspoofingowa?
+
+### 34. Inżynieria promptów dla DALL-E 3
+
+[https://uw7.org/un_d501460abe71c/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_d501460abe71c/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Model pracy z DALL-E w wersji trzeciej znacząco się zmienił. Dawniej DALL-E stanowiło osobną usługę, teraz natomiast jest ona wbudowana w ChatGPT Plus. Metody budowania promptów, metody ich optymalizacji, jak i cały workflow, uległy znaczącej zmianie. Ten poradnik wyjaśni Ci, jak efektywnie korzystać z nowej wersji generatora.
+
+### 35. Darmowe usługi VPN i serwery proxy
+
+[https://uw7.org/un_4804ca4ae220f/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_4804ca4ae220f/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Potrzebujesz szybko zmienić swój adres IP i wchodzić na strony z Chin, Serbii czy Brazylii, a jednocześnie nie chcesz płacić za taką możliwość? Ten serwis agreguje dostępy do darmowych serwerów proxy i usług typu VPN. Mam jednak prośbę: traktuj te usługi jako skrajnie niezaufane i szemrane. Nie są one oficjalnymi dostawcami usług. Takie rozwiązania nadają się do developmentu aplikacji, przeprowadzania testów i pentestów, ale zdecydowanie nie do zachowania bezpieczeństwa czy prywatności.
 
 ## 2023-10-27
 
@@ -38,7 +250,7 @@ INFO: Film omawia zagrożenia związane z możliwością wykorzystania osiągni�
 
 INFO: Czy kiedykolwiek zastanawiałeś się, dlaczego niektóre strony wyglądają dziwnie na komputerze stacjonarnym? Ten artykuł analizuje trend w projektowaniu stron internetowych, zwany 'content dispersion', który polega na nadmiernym rozciągnięciu i powiększeniu treści na dużych ekranach. Dowiedz się, jak ten trend wpływa na użyteczność stron oraz jakie są jego zalety i wady.
 
-### 7. Oferty pracy dla Adminów - od JustJoinIT [sponsorowane]
+### 7. Oferty pracy dla Adminów - od Just Join IT [sponsorowane]
 
 [https://bit.ly/justjoinit-admin](https://bit.ly/justjoinit-admin)
 
