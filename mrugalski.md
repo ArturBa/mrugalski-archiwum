@@ -1,4 +1,216 @@
-# Archiwum Mrugalskiego na dzień 11/11/2023
+# Archiwum Mrugalskiego na dzień 11/18/2023
+
+## 2023-11-17
+
+### 1. Relokacja do Japonii jako DevOps Engineer
+
+[https://mallakimahdi.medium.com/relocating-to-japan-as-a-devops-engineer-e18f58501a9d](https://mallakimahdi.medium.com/relocating-to-japan-as-a-devops-engineer-e18f58501a9d)
+
+INFO: Historia 29-letniego Mahdiego, który postanowił znaleźć pracę w Japonii i tam zamieszkać. Jak wygląda proces szukania pracodawcy, czy trzeba znać język japoński, jak wygląda sprawa podatków, co z wynajmem mieszkania i jak bardzo japońska kultura pracy różni się od naszej?
+
+### 2. Debata o sztucznej inteligencji - Duch, Dragan i Przegalińska (film, 2h i 26m)
+
+[https://www.youtube.com/watch?v=Ey7ZdqIQTLo](https://www.youtube.com/watch?v=Ey7ZdqIQTLo)
+
+INFO: Długa, ale i ciekawa debata poruszająca wiele aspektów związanych z rozwojem i bezpieczeństwem sztucznej inteligencji. Pani Przegalińska pojawiła się na debacie w bardzo nietypowej formie, a zaproszeni goście gwarantują ciekawą dyskusję. Idealne do słuchania na długim spacerze. Dragan, jak zawsze, rzuca ciekawe, nowe spojrzenie na niby oczywiste tematy.
+
+### 3. Framing - naucz się skutecznie komunikować się jako gość z IT
+
+[https://careercutler.substack.com/p/framing-the-1-most-important-communication](https://careercutler.substack.com/p/framing-the-1-most-important-communication)
+
+INFO: Kiedy dyskutujesz o swoim awansie z menedżerem, w jaki sposób poruszasz ten temat? A co z opowiadaniem o sobie na rozmowie kwalifikacyjnej? Albo, kiedy dajesz feedback koledze z pracy? W każdej z tych sytuacji nasza intuicja na temat tego, co powiedzieć, może nas mylić. Artykuł zawiera porady, jak efektywnie przekazać pewne myśli.
+
+### 4. Lista 67 nietypowych sztuczek użytecznych przy debugowaniu aplikacji webowych
+
+[https://alan.norbauer.com/articles/browser-debugging-tricks](https://alan.norbauer.com/articles/browser-debugging-tricks)
+
+INFO: Zaawansowane sztuczki usprawniające debugowanie w przeglądarce. Jest ich tak wiele, że istnieje szansa, że znajdziesz w artykule coś zupełnie dla Ciebie nieznanego.
+
+### 5. Zastrzeganie numeru PESEL - dostępne już od dziś
+
+[https://niebezpiecznik.pl/post/zastrzeganie-numeru-pesel-juz-od-jutra-tlumaczymy-jak-to-bedzie-dzialac/](https://niebezpiecznik.pl/post/zastrzeganie-numeru-pesel-juz-od-jutra-tlumaczymy-jak-to-bedzie-dzialac/)
+
+INFO: Nastał ten dzień, w którym wprowadzono ogólnopolski system do zastrzegania numerów PESEL. Pozwala on wpisać się na listę osób, które nie chcą, aby na ich dane udzielano kredytów czy dokonywano jakichkolwiek operacji u notariusza. Podobne systemy już istniały, ale dotyczyły tylko banków i to tylko wybranych. Nowe rozwiązanie będzie powszechne i obowiązkowe. System rusza dzisiaj, ale instytucje mają obowiązek respektowania go od czerwca 2024.
+
+### 6. Reverse Engineering Apple AirTagów (film, 38 minut)
+
+[https://www.youtube.com/watch?v=paxErRRsrTU](https://www.youtube.com/watch?v=paxErRRsrTU)
+
+INFO: Badacz próbuje dostać się do pamięci Apple AirTaga. Co znajduje się w środku, jak wydobyć z niego oprogramowanie i jak to wszystko funkcjonuje? Treść silnie związana z programowaniem i technologią sprzętową, ale myślę, że może Cię zainteresować. Film ma nieco uszkodzony dźwięk, ale w komentarzach znajdziesz sprytny sposób, jak go naprawić.
+
+### 7. 💎 Fabryka Testów - kursy tańsze nawet do -40% [sponsorowane]
+
+[https://fabrykatestow.pl/bf2023/](https://fabrykatestow.pl/bf2023/)
+
+INFO: Odkryj świat testów automatycznych. W Black Friday czekają na Ciebie wyjątkowe okazje! Niezależnie od tego, czy dopiero zaczynasz, czy jesteś doświadczonym testerem, nasze kursy są skrojone na miarę Twoich potrzeb, zapewniając kompleksową wiedzę i praktyczne umiejętności. Skorzystaj z oferty już teraz i wynieś swoją karierę na kolejny level!
+
+### 8. Beg Bounties - zalew 'żebro-raportów' security w branży IT
+
+[https://www.troyhunt.com/beg-bounties/](https://www.troyhunt.com/beg-bounties/)
+
+INFO: Zapewne znasz pojęcie "Bug Bounty". To rodzaj programów, w ramach których tester bezpieczeństwa otrzymuje wynagrodzenie za znalezioną lukę. Niestety, od kilku lat na rynku istnieje zjawisko "Beg Bounty" (żebranie o nagrodę). Polega to na wykonaniu kilku prostych skanów bezpieczeństwa i raportowaniu ich w hurtowych ilościach do różnych firm, licząc na zarobek. Prowadzę firmę hostingową i tych zgłoszeń faktycznie bywa sporo, a trywialność zgłaszanych błędów przyprawia o facepalm.
+
+### 9. Jak sprawić, by nauka była równie uzależniająca, jak media społecznościowe? (film, 13 minut)
+
+[https://youtube.com/watch?v=P6FORpg0KVo&si=a6bqJVtacgxJfeHr](https://youtube.com/watch?v=P6FORpg0KVo&si=a6bqJVtacgxJfeHr)
+
+INFO: Twórca platformy Duolingo opowiada o tym, jakie psychologiczne elementy znane z mediów społecznościowych i gier zastosował w swojej aplikacji, aby mocniej "uzależnić" swoich użytkowników od nauki. Interesująca i momentami zabawna prezentacja.
+
+### 10. Portainer - obsługi GUI dla Dockera (poradnik)
+
+[https://blog.tomaszdunia.pl/portainer/](https://blog.tomaszdunia.pl/portainer/)
+
+INFO: Jest szansa, że korzystasz z Dockerów przez aplikację desktopową lub przez komendy terminala. Istnieje jednak rozwiązanie do wygodnego zarządzania kontenerami z poziomu interfejsu webowego. Artykuł wyjaśnia nie tylko, jak zainstalować Portainera (to akurat jest proste), ale skupia się także na postawieniu pierwszego, działającego kontenera z dołączonymi volumenami i eksportowanymi portami.
+
+### 11. Hejt w internecie - Dawid Myśliwiec z "Uwaga! Naukowy Bełkot" (film, 56 minut)
+
+[https://youtube.com/watch?t=15m30s&v=YX1X_MBZcv8](https://youtube.com/watch?t=15m30s&v=YX1X_MBZcv8)
+
+INFO: Smutny film na ważny temat. Hejt, ataki słowne, groźby karalne i natarczywe zaczepki to codzienność wśród twórców online. Sam ich od lat doświadczam. Warto posłuchać, jak to wygląda od strony twórcy. Jeśli jesteś twórcą online, obejrzyj całość. Jeśli jesteś tylko widzem, treść interesująca dla Ciebie zaczyna się od 15:30.
+
+### 12. Spamerzy wykorzystują Google Forms do phishingu
+
+[https://blog.talosintelligence.com/google-forms-quiz-spam/](https://blog.talosintelligence.com/google-forms-quiz-spam/)
+
+INFO: Bardzo kreatywna metoda na wysyłanie wiadomości z zaufanej domeny Google. Atakujący wykorzystują formularze Google i funkcję rozsyłania rozwiązań. Nie istnieje zbyt duża szansa na skuteczną, technologiczną obronę przed tą metodą, więc warto przynajmniej wiedzieć, że taki atak istnieje.
+
+### 13. Dlaczego ludzie nadal używają VBA?!
+
+[https://sancarn.github.io/vba-articles/why-do-people-use-vba.html](https://sancarn.github.io/vba-articles/why-do-people-use-vba.html)
+
+INFO: Visual Basic for Applications jest dla wielu programistów relikt przeszłości. Jednakże coś sprawia, że to rozwiązanie nadal jest szeroko używane w niektórych kręgach. Dlaczego tak się dzieje i co jest główną przyczyną? Dlaczego wszyscy Ci ludzie nie przesiądą się na przykład na Pythona? Na to pytanie stara się odpowiedzieć autor artykułu.
+
+### 14. Refundacja na szkła kontaktowe i monitor.
+
+[https://serwisy.gazetaprawna.pl/praca-i-kariera/artykuly/9339075,dofinansowanie-do-szkiel-kontaktowych-i-monitor-stacjonarny-od-pracodawcy-wazne-zmiany-od-17-listopada-2023-r.html](https://serwisy.gazetaprawna.pl/praca-i-kariera/artykuly/9339075,dofinansowanie-do-szkiel-kontaktowych-i-monitor-stacjonarny-od-pracodawcy-wazne-zmiany-od-17-listopada-2023-r.html)
+
+INFO: Od dziś (17.11) zmieniły się przepisy BHP dotyczące pracowników. Twój pracodawca może już dofinansować Ci nie tylko okulary, ale także szkła kontaktowe i dodatkowy monitor - nawet jeśli pracujesz zdalnie!
+
+### 15. Nowe produkty od OpenAI - dogłębna analiza (film, 45 minut)
+
+[https://www.youtube.com/watch?v=pq34V_V5j18](https://www.youtube.com/watch?v=pq34V_V5j18)
+
+INFO: Być może znasz już wystąpienie Sama Altmana, który prezentował nowe możliwości dostępne na platformie od OpenAI. Tym razem prezentacja była skierowana do nietechnicznych osób. Na tym filmie znajdziesz te same informacje, ale podane w formie "dla programisty". Sporo ciekawych rozwiązań.
+
+### 16. Console Ninja - loguj błędy wprost w VS Code
+
+[https://console-ninja.com/](https://console-ninja.com/)
+
+INFO: To rozszerzenie do VS Code pozwala na wypisanie wartości console.log nie na standardowej konsoli błędów, ale dokładnie w miejscu w kodzie, w którym się one znajdują. Warto rzucić okiem na dołączony film, ponieważ on idealnie wyjaśnia, o co dokładnie chodzi.
+
+### 17. Szybkie pisanie na klawiaturze - czy naprawdę warto się tego uczyć?
+
+[https://two-wrongs.com/typing-fast-is-about-latency-not-throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
+
+INFO: Jak zauważa autor, przeskok z pisania 80 słów na minutę do 120, to przeważnie jakieś 3 sekundy oszczędności na linijce kodu (to szacunki). Czy dla zaoszczędzenia tych 3 sekund warto uczyć się szybkiego pisania? TAK! I nie chodzi tutaj o to, ile czasu zaoszczędzisz dziennie, miesięcznie, czy rocznie. W szybkim pisaniu wg autora chodzi o coś zupełnie innego. Ciekawe spojrzenie na ten temat.
+
+### 18. Hackowanie Google Bard - prompt injection i pozyskiwanie danych
+
+[https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
+
+INFO: Badacz odkrył lukę, pozwalającą na wyciągnięcie historii chatu poprzez wstrzyknięcie złośliwego dokumentu zawierającego dodatkowe instrukcje. Po pierwsze, uzyskał w ten sposób efekt w stylu prompt injection, a po drugie, wstrzykując odpowiednie tagi Markdown, udało mu się wydobyć pierwsze zdanie z konwersacji użytkownika (technicznie rzecz biorąc, mógł wydobyć wszystkie).
+
+### 19. Skrypty blokujące Developer Toolsy - jak one działają? (film, 5 minut)
+
+[https://christianheilmann.com/2023/11/14/cracking-a-developer-tools-killer-script/](https://christianheilmann.com/2023/11/14/cracking-a-developer-tools-killer-script/)
+
+INFO: Czy można zablokować programiście możliwość debugowania naszej aplikacji webowej? Krótka odpowiedź brzmi: NIE, ale można to debugowanie znacząco utrudnić. Autor przedstawia w filmie kilka mechanizmów utrudniających debugowanie i metody ich obejścia.
+
+### 20. Wtyczka do automatyzacji przeglądarki (Chrome)
+
+[https://www.automa.site/](https://www.automa.site/)
+
+INFO: Wykonujesz w kółko podobne zadania w przeglądarce? Wpisywanie danych, cykliczne klikanie niektórych opcji czy generowanie raportów? Ta wtyczka (nie musisz znać programowania!) zautomatyzuje Twoje akcje. Cały workflow da się po prostu wyklikać.
+
+### 21. Argumenty przeciwko wektorowym bazom danych
+
+[https://vec3.ai/](https://vec3.ai/)
+
+INFO: Dowiedz się, dlaczego bazy danych wektorowe nie są uniwersalnym rozwiązaniem na każdy problem i jakie są ukryte koszty ich stosowania. Poznaj także dostępne alternatywy i najlepsze praktyki dotyczące budowania projektów AI. Artykuł zawiera załączoną prezentację, i to ona stanowi główną treść przekazu.
+
+### 22. Ruby on Rails - film dokumentalny
+
+[https://youtube.com/watch?v=HDKUEXBF3B4](https://youtube.com/watch?v=HDKUEXBF3B4)
+
+INFO: Historia frameworka Ruby on Rails, w której David Heinemeier Hansson (DHH) - twórca RoR - opowiada o tym, jak przekształcił swój szalony pomysł na platformę w jeden z najczęściej omawianych pełnostackowych frameworków ostatnich 20 lat. W komentarzach pod filmem znajdziesz timestampy z poruszanych zagadnień.
+
+### 23. Najlepsze aplikacje App Store 2023 - finaliści
+
+[https://www.apple.com/newsroom/2023/11/meet-the-2023-app-store-award-finalists/](https://www.apple.com/newsroom/2023/11/meet-the-2023-app-store-award-finalists/)
+
+INFO: Apple ogłosiło finalistów corocznego plebiscytu na najlepsze aplikacje i gry w kilku kategoriach. Jeśli jesteś użytkownikiem iPhone'a, iPada lub Maca, to być może znajdziesz tu coś ciekawego dla siebie.
+
+### 24. Monaspace - interesujący font dla programistów od GitHuba
+
+[https://monaspace.githubnext.com/](https://monaspace.githubnext.com/)
+
+INFO: W zasadzie jest to rodzina fontów, która cechuje się nie tylko czytelnością kodu, ale również sprytnymi ligaturami - połączeniami znaków, np. != zostanie zmienione na przekreślony znak równości. Zaskakującym rozwiązaniem jest też inny sposób zapisu komentarzy. Przykłady, jak to wygląda w akcji, znajdziesz na stronie.
+
+### 25. Zestawienie najlepszych asystentów GPTs
+
+[https://github.com/AgentOps-AI/BestGPTs](https://github.com/AgentOps-AI/BestGPTs)
+
+INFO: OpenAI dopiero tydzień temu upubliczniło technologię asystentów zwaną GPTs (dżipitis ;)), a już powstało ponad 6100 publicznie dostępnych botów. To repozytorium gromadzi te subiektywnie najciekawsze i najbardziej użyteczne.
+
+### 26. Dlaczego globalne wdrożenie IPv6 idzie tak wolno?
+
+[https://thenewstack.io/why-is-ipv6-adoption-slow/](https://thenewstack.io/why-is-ipv6-adoption-slow/)
+
+INFO: Adresacja IPv6 jest z nami od ponad 20 lat, a jednak Jej wdrożenie w skali całego świata przeciąga się niesamowicie. Co stoi na przeszkodzie, aby po prostu przejść na nową adresację? Ten artykuł stara się odpowiedzieć na to pytanie.
+
+### 27. Jak to jest z tymi kontenerami? - 10 spostrzeżeń
+
+[https://www.datadoghq.com/container-report/](https://www.datadoghq.com/container-report/)
+
+INFO: Najnowszy raport bada ponad 2,4 miliarda kontenerów, uruchamianych przez dziesiątki tysięcy klientów Datadog. Garść ciekawostek dla ludzi zafascynowanych liczbami.
+
+### 28. XNote - Smart-Notatnik napędzany przez ChatGPT
+
+[https://www.kickstarter.com/projects/xnote/xnote-chatgpt-powered-smart-notebook/description](https://www.kickstarter.com/projects/xnote/xnote-chatgpt-powered-smart-notebook/description)
+
+INFO: Interesujący produkt na Kickstarterze. W praktyce nie jest to notatnik, ale inteligentny długopis, który transportuje notatki wprost do Telefonu i opracowuje je (streszcza, poprawia, tłumaczy itp.) za pomocą API od OpenAI.
+
+### 29. Wyszukiwarka usuniętych filmów z YouTube
+
+[https://findyoutubevideo.thetechrobo.ca/](https://findyoutubevideo.thetechrobo.ca/)
+
+INFO: Masz link do nagrania, ale po jego kliknięciu otrzymujesz komunikat, że materiał został usunięty - czy to przez YT, czy przez twórcę. To narzędzie potrafi przywrócić film do życia. Musisz jednak znać jego ID. Aplikacja przeszukuje serwisy, które okazjonalnie wykonują kopię zapasowe niektórych nagrań, i jeśli będziesz miał dostatecznie dużo szczęścia, może okazać się, że i Twoje usunięte nagranie będzie w jednym z tych miejsc.
+
+### 30. React Components vs Web Components - co je różni?
+
+[https://blog.jim-nielsen.com/2023/html-web-components/](https://blog.jim-nielsen.com/2023/html-web-components/)
+
+INFO: Zarówno React, jak natywne rozwiązania dostępne w silniku przeglądarki wspierają komponenty. Jaka jest różnica między nimi i który z mechanizmów będzie lepszy do Twoich zastosowań?.
+
+### 31. Imponujące efekty tekstowe w terminalu
+
+[https://github.com/ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects)
+
+INFO: Masz ochotę, aby za każdym logowaniem na serwer pojawiały Ci się "literki z Matrixa" albo chcesz, aby regulamin serwera płonął lub eksplodował? To narzędzie realizuje właśnie taki cel. Sporo gotowych efektów. Bawiłem się tym przez chwilę i wygląda to niezwykle estetycznie i niezbyt kiczowato. Przypomina klimatem stare ziny sprzed 20 lat.
+
+### 32. Jak działają REM-y w CSS i zoomowanie w przeglądarce?
+
+[https://www.matuzo.at/blog/2023/how-browsers-zoom-text](https://www.matuzo.at/blog/2023/how-browsers-zoom-text)
+
+INFO: Czym różni się obsługa jednostek REM od PX w różnych przeglądarkach? Okazuje się, że Chrome nieco inaczej reaguje na taką jednostkę niż na przykład Firefox czy Safari, ale czy w związku z tym powinniśmy coś zrobić?
+
+### 33. CVE Half-Day Watcher - powiadomienie o znanych lukach
+
+[https://github.com/Aqua-Nautilus/CVE-Half-Day-Watcher](https://github.com/Aqua-Nautilus/CVE-Half-Day-Watcher)
+
+INFO: Prawdopodobnie wiesz, czym są luki 0-day (producenci oprogramowania o nich nie wiedzą, a informacja o luce wyciekła). Luki 1-day to przeważnie sytuacje, w których patch jest już dostępny, ale jeszcze nie każdy go zaaplikował. Ten soft raportuje Ci luki 0.5-day, czyli takie, nad których usunięciem trwają już prace, ale oficjalny patch jeszcze nie istnieje. Dzięki temu prostemu rozwiązaniu możesz dostawać powiadomienia, gdy oprogramowanie, którego używasz, będzie narażone na luki, a patch jeszcze nie będzie dostępny.
+
+### 34. Użyteczne porady dla osób rozwiązujących CTF-y (security)
+
+[https://uw7.org/un_b40f5e8664920/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_b40f5e8664920/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Zawody typu CTF wymagają kreatywności i logicznego myślenia, ale zadania posiadają pewne części wspólne, które warto wykonywać zawsze (skanowanie serwera, poszukiwanie ukrytych plików, steganografia, ataki bruteforce itp.). Ten artykuł to ściąga z gotowymi poleceniami do wykonania, które przyspieszą Twoje rozwiązywanie CTF-ów, dzięki czemu będziesz w stanie skupić się na tej bardziej kreatywnej ich części.
+
+### 35. Włamanie do firmowej bazy Firebase - case study
+
+[https://uw7.org/un_44fc8f66f96fc/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_44fc8f66f96fc/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Opis poszukiwania danych dostępowych do bazy na firmowej stronie i metody ich wykorzystania. Dobry materiał dla pentesterów. Autor prezentuje dwa interesujące narzędzia, które możesz nie znać.
 
 ## 2023-11-10
 
