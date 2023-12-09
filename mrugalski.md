@@ -1,4 +1,216 @@
-# Archiwum Mrugalskiego na dzień 12/2/2023
+# Archiwum Mrugalskiego na dzień 12/9/2023
+
+## 2023-12-08
+
+### 1. Muzeum internetowych artefaktów - nostalgia++
+
+[https://neal.fun/internet-artifacts/](https://neal.fun/internet-artifacts/)
+
+INFO: Nie wiem, w jakim wieku jesteś i jak dobrze pamiętasz np. początki internetu w Polsce, ale ta strona sięga jeszcze głębiej i pokazuje ciekawe znaleziska z lat 1977-2007. Wciągająca lektura.
+
+### 2. Jak polscy hakerzy uratowali pociągi przed wiecznym postojem - afera z Newag
+
+[https://zaufanatrzeciastrona.pl/post/o-trzech-takich-co-zhakowali-prawdziwy-pociag-a-nawet-30-pociagow/](https://zaufanatrzeciastrona.pl/post/o-trzech-takich-co-zhakowali-prawdziwy-pociag-a-nawet-30-pociagow/)
+
+INFO: Prawdopodobnie dotarły już do Ciebie informacje o odkryciu dokonanym przez grupę Dragon Sector w pociągach Newagu. Jeśli jeszcze nie znasz tego tematu, warto się z nim zapoznać. Jeśli uda się potwierdzić informacje przedstawione w artykule, możemy to nazwać jedną z największych spraw w Polsce związanych z bezpieczeństwem informatycznym.
+
+### 3. Niezauważalna rekompilacja kodu - jak to było z tymi pociągami?
+
+[https://gynvael.coldwind.pl/?id=777](https://gynvael.coldwind.pl/?id=777)
+
+INFO: Czy możliwe jest zdekompilowanie i ponowne skopiowanie kodu źródłowego aplikacji w sposób niezauważalny dla badaczy? Gynvael, jeden z członków Dragon Sector (ale nie biorący udziału w analizie kodu od Newagu), tłumaczy, w jakim stopniu linia obrony stosowana przez firmę jest zgodna z faktami.
+
+### 4. Lista 20 konceptów DevOps które musisz znać (film, 18 minut)
+
+[https://www.youtube.com/watch?v=RMlv9y45G98](https://www.youtube.com/watch?v=RMlv9y45G98)
+
+INFO: Czym jest "caching", CDN, chmura obliczeniowa? Jak działa load balancer? Czym różni się skalowanie wertykalne od horyzontalnego? Czym jest tajemnicze ACID? O co chodzi z brokerami i mikroserwisami? Wszystko to i wiele więcej znajdziesz w jednym, skondensowanym filmie i to wszystko po polsku.
+
+### 5. Odzyskiwanie usuniętych plików z drzewa roboczego Git
+
+[https://www.smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/](https://www.smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/)
+
+INFO: Czy zdarzyło Ci się kiedyś przypadkowo usunąć ważne pliki z projektu i myśleć, że już ich nie odzyskasz? Ten artykuł przedstawia kilka metod, które w odpowiednich sytuacjach mogą pomóc Ci przywrócić utracone dane. Dowiedz się, jak działają mechanizmy Git-a dotyczące plików i jak wykorzystać je do odzyskiwania danych, nawet jeśli wydawało Ci się, że są one już bezpowrotnie stracone.
+
+### 6. Motion Extraction - jak wykryć ruch w nagraniu? (film, 7 minut)
+
+[https://www.youtube.com/watch?v=NSS6yAMZF78](https://www.youtube.com/watch?v=NSS6yAMZF78)
+
+INFO: Ciekawa i niezwykle prosta technika pozwala na wydobycie z nagrania elementów, które się poruszają, nawet wtedy, gdy na pierwszy rzut oka żaden obiekt nie wydaje się poruszać. Efekt jest nie tylko użyteczny, ale i przyjemny dla oka.
+
+### 7. Lista 5-ciu kluczowych zasad architektury nowoczesnego frontendu
+
+[https://www.workingsoftware.dev/5-essential-frontend-architecture-principles/](https://www.workingsoftware.dev/5-essential-frontend-architecture-principles/)
+
+INFO: Artykuł przedstawia pięć zasad architektury frontendu, które pomogą Ci osiągnąć cele takie jak wydajność czy skalowalność aplikacji. Poznaj praktyczne wskazówki dotyczące asynchronicznego ładowania, usuwania martwego kodu oraz ustalania "budżetu wydajnościowego", które mogą diametralnie zmienić jakość Twoich projektów.
+
+### 8. Czy wiesz, że technologie webowe potrafią takie rzeczy?
+
+[https://thewebshowcase.withgoogle.com/](https://thewebshowcase.withgoogle.com/)
+
+INFO: Zespół Google przygotował prezentację możliwości nowoczesnych technologii webowych. Momentami to, co da się uzyskać w przeglądarce, potrafi zaskoczyć. Nawigacja po artykułach nie jest zbyt wygodna, ale po chwili się przyzwyczaisz.
+
+### 9. Kalendarze adwentowe dla webdeveloperów - kompilacja
+
+[https://adrianroselli.com/2023/12/web-development-advent-calendars-for-2023.html](https://adrianroselli.com/2023/12/web-development-advent-calendars-for-2023.html)
+
+INFO: Tak jak dla dzieci niekiedy kupuje się 'kalendarze' z czekoladkami, odliczające dni do świąt, tak programiści, naśladując ten zwyczaj, publikują swoje wersje kalendarzy, ale z poradami, kodami źródłowymi, zadaniami do rozwiązania itp. Ciekawa forma zabawy i nauki zarazem. Warto rzucić okiem.
+
+### 10. Szukasz pracy w branży Cloud? Przygotuj chmurowe CV
+
+[https://medium.com/@meachamdillon52/how-to-create-a-cloud-resume-with-aws-a-step-by-step-guide-b087ddef6b32](https://medium.com/@meachamdillon52/how-to-create-a-cloud-resume-with-aws-a-step-by-step-guide-b087ddef6b32)
+
+INFO: Programiści na rozmowie o pracy mogą pokazać zawartość swojego GitHuba, ale co ma pokazać osoba chcąca zakomunikować "znam AWS"? Ten artykuł podpowie Ci, jak przygotować takie chmurowe CV, które zaprezentuje posiadane przez Ciebie umiejętności. Autor podaje przykłady z korzystaniem z AWS, ale myślę, że przeniesienie idei na inne platformy nie będzie większym problemem.
+
+### 11. Wydobywanie sekretów z systemów CI/CD
+
+[https://www.synacktiv.com/en/publications/cicd-secrets-extraction-tips-and-tricks](https://www.synacktiv.com/en/publications/cicd-secrets-extraction-tips-and-tricks)
+
+INFO: Czy dane dostępowe przechowywane w systemach CI/CD są bezpieczne? Ich twórcy zapewniają, że tak jest. Odkryj, jak autorzy artykułu wykorzystali Azure DevOps i GitHub Actions, aby obejść zabezpieczenia platform i wydobyć przechowywane w systemach klucze dostępowe. Przy okazji poznasz narzędzie "Nord Stream", które może automatyzować ten proces. To lektura obowiązkowa dla każdego, kto chce zrozumieć i wzmocnić bezpieczeństwo swoich procesów integracji i dostarczania oprogramowania.
+
+### 12. Dzielić projekt na pliki, czy trzymać wszystko razem? - to zależy...
+
+[https://www.pathsensitive.com/2023/12/should-you-split-that-file.html](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html)
+
+INFO: Bałagan w kodzie źródłowym to niestety częsty przypadek, z którym przyjdzie Ci się zmagać, gdy odziedziczysz kod po poprzednim programiście. Jeśli projekt jest naprawdę duży, dzieląc go na pliki, możemy skończyć z tysiącami plików składającymi się z jednej funkcji. Trzymając wszystko razem, możemy osiągnąć kod, który jest niezdatny do ogarnięcia dla programisty. Co zatem robić? Istnieje jeszcze trzecie rozwiązanie.
+
+### 13. Wydobywanie informacji ze stron z użyciem CSS
+
+[https://portswigger.net/research/blind-css-exfiltration](https://portswigger.net/research/blind-css-exfiltration)
+
+INFO: Ataki typu XSS są powszechnie znane, ale niekiedy jedyne, co pentester może zrobić podczas swoich testów, to wstrzyknięcie fragmentu arkusza CSS do innej strony. Czy taki atak pozwala wykraść cenne informacje? Oczywiście!
+
+### 14. Liczenie unikalnych wizyt na stronie - bez ciasteczek, UID czy fingerprintingu
+
+[https://notes.normally.com/cookieless-unique-visitor-counts/](https://notes.normally.com/cookieless-unique-visitor-counts/)
+
+INFO: Bardzo sprytna metoda na sprawdzanie, czy dany użytkownik strony jest unikalnym odwiedzającym, czy może przychodzi do nas już po raz kolejny. Interesujące jest to, że autor tego rozwiązania wykorzystał coś innego niż ciasteczka czy klasyczne skrypty śledzące użytkownika.
+
+### 15. Rozwiązania ServerLess na dużą skalę - przemyślenia od praktyków
+
+[https://medium.com/@j.spiliot/serverless-at-scale-lessons-from-200-million-lambda-invocations-e3a8ad16ffb9](https://medium.com/@j.spiliot/serverless-at-scale-lessons-from-200-million-lambda-invocations-e3a8ad16ffb9)
+
+INFO: Zespół, który ma na swoim koncie ponad 200 milionów wywołań funkcji Lambda, dzieli się swoimi przemyśleniami na temat wdrażania technologii tego typu. Jak łatwo przewidzieć, nie wszystko jest tak piękne, jak wygląda.
+
+### 16. Jak działa Shazam, czyli aplikacja do rozpoznawania utworów
+
+[https://www.cameronmacleod.com/blog/how-does-shazam-work](https://www.cameronmacleod.com/blog/how-does-shazam-work)
+
+INFO: Jak to się dzieje, że Twój smartfon, słysząc zaledwie kilka sekund utworu, jest w stanie stwierdzić, co to za piosenka i kto jest jej wykonawcą? Jak działa ta technologia i jak to się dzieje, że przeszukuje ona z taką prędkością niezliczone ilości próbek audio?
+
+### 17. OSINT-owy kalendarz adwentowy
+
+[https://www.osint4fun.eu/en/](https://www.osint4fun.eu/en/)
+
+INFO: Zbiór 24 zagadek wymaga użycia podstawowych umiejętności OSINT-owych (poszukiwanie informacji w sieci, wyszukiwanie obrazem, wiązanie faktów itp.). Codziennie publikowana jest jedna zagadka.
+
+### 18. ZnanySciemniacz - sprawdź, które opinie o lekarzach są kupione
+
+[http://znanysciemniacz.pl/](http://znanysciemniacz.pl/)
+
+INFO: Aplikacja analizuje profil lekarza z portalu "Znany Lekarz" i podpowiada, które z komentarzy są prawdopodobnie kupione lub "pożyczone" z innych kont. Pozwoli Ci to oddzielić oszustów kupujących recenzje od wiarygodnych lekarzy.
+
+### 19. Bezpieczeństwo rozwiązań chmurowych - analiza raportu
+
+[https://www.datadoghq.com/state-of-cloud-security/](https://www.datadoghq.com/state-of-cloud-security/)
+
+INFO: Ten artykuł to analiza wyzwań, z jakimi mierzą się organizacje korzystające z AWS, Azure i Google Cloud. Jakie są najczęstsze luki w zabezpieczeniach i jak wygląda poziom wdrożenia popularnych zabezpieczeń w firmach? Tego dowiesz się z raportu.
+
+### 20. Container queries w CSS - od czego zacząć?
+
+[https://developer.mozilla.org/en-US/blog/getting-started-with-css-container-queries/](https://developer.mozilla.org/en-US/blog/getting-started-with-css-container-queries/)
+
+INFO: Chcesz tworzyć elastyczne, responsywne układy stron bez nadmiaru kodu? Warto poznać "zapytania kontenerowe", które zmieniają zasady gry w projektowaniu responsywnych komponentów. Dowiedz się, jak z nich korzystać i czy mogą one zastąpić Media Queries w Twoich projektach.
+
+### 21. Dowiedz się jak działają frameworki JS... budując framework
+
+[https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
+
+INFO: Autor pokazuje, jak krok po kroku zbudować framework, działający na podobnych zasadach do React, Vue czy Svelte. Zrozumienie podstaw reaktywności, klonowania drzewa DOM i wykorzystania nowoczesnych API przeglądarek - to wszystko znajdziesz w tym szczegółowym przewodniku.
+
+### 22. Google zaprezentowało Gemini - najbardziej funkcjonalny model AI?
+
+[https://blog.google/technology/ai/google-gemini-ai/](https://blog.google/technology/ai/google-gemini-ai/)
+
+INFO: Artykuł prosto od Google na temat ich nowego modelu językowego. Autorzy porównują jego możliwości z GPT-4 i tłumaczą, czym będą różnić się wersje Ultra, Pro i Nano.
+
+### 23. Atrybuty HTML poprawiające dostępność i użyteczność strony
+
+[https://www.htmhell.dev/adventcalendar/2023/4/](https://www.htmhell.dev/adventcalendar/2023/4/)
+
+INFO: Artykuł zawiera opis pięciu mniej popularnych atrybutów, które mogą ułatwić obsługę Twojej aplikacji webowej, zwłaszcza osobom z ograniczeniami. Spośród pięciu wymienionych atrybutów, znałem tylko jeden.
+
+### 24. Pigułka wiedzy o JSON Web Tokenach
+
+[https://devszczepaniak.pl/json-web-token/](https://devszczepaniak.pl/json-web-token/)
+
+INFO: "Czym są te tokeny? Jak są zbudowane? Na czym opiera się ich bezpieczeństwo? Jak je odczytywać? Czym jest ich sygnatura i jak jest zbudowana?" - oto pytania, na które odpowiem w dzisiejszym wydaniu. Ta wiedza jest współcześnie niezbędna dla większości programistów webowych i na pewno przyda się i Tobie.
+
+### 25. Montowanie commitów Git jako folderów za pomocą NFS
+
+[https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
+
+INFO: Autorka przedstawia swój projekt nazwany "git-commit-folders", który montuje commity z repozytorium GIT jako oddzielne foldery. Można je ręcznie przeglądać, przeszukiwać, czy odzyskiwać z nich dane. To interesujące podejście do pracy z systemem kontroli wersji.
+
+### 26. Zaawansowany, wizualny edytor animacji CSS
+
+[https://animotion.dev/](https://animotion.dev/)
+
+INFO: Odrobinę przypomina mi to starego Macromedia Flasha sprzed kilkunastu lat. Idea jest prosta: dodajesz klatki kluczowe, zmieniasz właściwości animowanych obiektów, a aplikacja generuje do tego kod CSS. Brzmi bardzo łatwo, ale niestety aplikacja nie jest przyjazna dla użytkownika. Chwilę zajęło mi odkrycie, jak się tego używa.
+
+### 27. Materiały z konferencji Oh My Hack 2023
+
+[https://blog.szurek.tv/post/oh-my-hack-2023-materialy/](https://blog.szurek.tv/post/oh-my-hack-2023-materialy/)
+
+INFO: Lista publicznie dostępnych prezentacji ze wspomnianej konferencji. Są to slajdy i materiały, a nie nagrania z wystąpień!
+
+### 28. Nadchodzą zmieny w Facebookowym Messengerze - E2EE
+
+[https://about.fb.com/news/2023/12/default-end-to-end-encryption-on-messenger/](https://about.fb.com/news/2023/12/default-end-to-end-encryption-on-messenger/)
+
+INFO: Meta wprowadza do swojego komunikatora szereg zmian. Część z nich poprawia użyteczność produktu i zwiększa jego możliwości. Największą jednak zmianą jest wprowadzenie szyfrowania end-to-end, które ma być domyślnie włączone dla wszystkich użytkowników. Od lat zainteresowani mogli ręcznie włączyć tę funkcję.
+
+### 29. CDPATH: Jak łatwo nawigować po katalogach w terminalu
+
+[https://www.writesoftwarewell.com/cdpath-easily-navigate-directories-in-the-terminal/](https://www.writesoftwarewell.com/cdpath-easily-navigate-directories-in-the-terminal/)
+
+INFO: Czy zdarza Ci się wpisywać długie ścieżki dostępu do folderów w terminalu? Artykuł wyjaśnia, jak sprytna modyfikacja zmiennej CDPATH może Ci znacznie ułatwić życie, umożliwiając szybkie przenoszenie się do często używanych katalogów.
+
+### 30. Worker Cloudflare pobierający tekst ze strony - źródła
+
+[https://github.com/ozanmakes/scrapedown](https://github.com/ozanmakes/scrapedown)
+
+INFO: Scrapedown to projekt workera zdolnego do uruchomienia w środowisku Cloudflare. Po podaniu adresu do dowolnego artykułu, zwraca on go w trybie 'reader', czyli w formie czystego tekstu, bez nawigacji i reklam. Istnieje możliwość zachowania formatowania w artykule za pomocą konwersji na format Markdown.
+
+### 31. Samodzielne hostowanie Tailscale z użyciem Headscale (film, 22 minuty)
+
+[https://youtube.com/watch?v=OECp6Pj2ihg&si=H0sNrqRLfvk3bPNE](https://youtube.com/watch?v=OECp6Pj2ihg&si=H0sNrqRLfvk3bPNE)
+
+INFO: Headscale to nieoficjalna, otwartoźródłowa implementacja serwera Tailscale, którą możesz uruchomić na swojej maszynie. Jeśli wiesz, czym jest Tailscale, ale nie chcesz lub nie możesz korzystać z ich infrastruktury, zastosowanie wersji self-hosted może być dobrym rozwiązaniem.
+
+### 32. Dlaczego 0.6 + 0.3 = 0.8999999999999999 w JS?
+
+[https://dev.to/jeevaramanathan/decoding-why-06-03-08999999999999999-in-js-and-how-to-solve-640](https://dev.to/jeevaramanathan/decoding-why-06-03-08999999999999999-in-js-and-how-to-solve-640)
+
+INFO: Ciekawostka programistyczna, która może Ci się przydać do lepszego zrozumienia, jak działają komputery, jak działa JavaScript, lub... przyda Ci się do zabłyśnięcia na rozmowie o pracę. ;)
+
+### 33. GQL - Język zapytań do repozytorium
+
+[https://github.com/AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL)
+
+INFO: Czy nie byłoby fajnie odpytywać repozytorium kodu w taki sposób, jak odpytuje się bazy danych? Twórcy GQL zrealizowali ten pomysł. Korzystając z zapytań, które wyglądają jak te SQL-owe, możesz wyciągać z repozytorium wiele ciekawych informacji.
+
+### 34. Jak włamano się do znanych firm? - zbiór raportów
+
+[https://uw7.org/un_8a7d831161124/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_8a7d831161124/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Okta, Microsoft, Uber, Cisco i wiele innych. Repozytorium to zawiera listę udokumentowanych włamań wraz z oficjalnymi opisami, jak do nich doszło. Jest to interesująca lektura, zwłaszcza dla osób zainteresowanych tematami związanymi z security/pentesting.
+
+### 35. Zestaw narzędzi do testów penetracyjnych na środowisku Azure
+
+[https://uw7.org/un_62b07fc0449a5/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_62b07fc0449a5/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Jesteś pentesterem i dostałeś do testów aplikację działającą na Azure? To repozytorium zawiera zbiór narzędzi oraz artykułów, które mogą ułatwić Twoją pracę.
 
 ## 2023-12-01
 
