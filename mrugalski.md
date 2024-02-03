@@ -1,4 +1,216 @@
-# Archiwum Mrugalskiego na dzień 1/27/2024
+# Archiwum Mrugalskiego na dzień 2/3/2024
+
+## 2024-02-02
+
+### 1. Jak prowadzić prezentacje/prelekcje - wersja dla ludzi z IT
+
+[https://sfhbook.netlify.app/](https://sfhbook.netlify.app/)
+
+INFO: Przygotowujesz prelekcję na konferencję, a może masz po prostu wystąpić przed ludźmi z firmy? Nie ma znaczenia, bo i tak będziesz walczyć o to, aby utrzymać uwagę słuchaczy. Autor poradnika dzieli się swoimi sposobami na wciągnięcie słuchaczy w prezentację, dobre przygotowanie się do niej i dorzuca kilka porad, które mogą być dla Ciebie super cenne, zwłaszcza gdy występujesz na scenie po raz pierwszy.
+
+### 2. Baterie jądrowe - rewolucja, czy jednak nie bardzo? (film, 33 minuty)
+
+[https://www.youtube.com/watch?v=OtOeL_5l2i0](https://www.youtube.com/watch?v=OtOeL_5l2i0)
+
+INFO: Media, pisząc o bateriach jądrowych, wspominają, że ładowanie smartfonów będzie już przeszłością, gdyż telefony będziemy ładować raz na kilkadziesiąt lat. Czy te baterie naprawdę trzymają aż tak długo? Tak! Czy są tanie, małe i lekkie? Tak! Czy będziemy mieć je w smartfonach i uwolnimy się od ładowarek? Prawdopodobnie nie, ale o tym więcej usłyszysz w filmie.
+
+### 3. Jak Rosjanie upchnęli cztery dyski twarde na jednej kasecie VHS w latach 90.
+
+[https://jacobfilipp.com/arvid-vhs/](https://jacobfilipp.com/arvid-vhs/)
+
+INFO: W latach 90. w Rosji powstało rozwiązanie, pozwalające przechowywać ogromne - jak na tamte czasy - ilości danych na zwykłej kasecie VHS. Poznaj historię karty ArVid, która umożliwiała zapisanie równowartości czterech dysków twardych na jednej taśmie. Dobra lektura dla wielbicieli starych i mało znanych technologii.
+
+### 4. AI w biznesie - czy na tym da się zarobić? (film, 53 minuty)
+
+[https://youtube.com/watch?v=FwPhBhZaN1M](https://youtube.com/watch?v=FwPhBhZaN1M)
+
+INFO: Sztuczna Inteligencja w branży IT jest zazwyczaj kojarzona z programistami, algorytmami, integracjami itp. Ale jak to wygląda od strony biznesu? Czy właściciel firmy spoza świata IT ma czego szukać w branży AI, a jeśli tak, to od czego powinien zacząć? Ten wywiad budzi trochę kontrowersji (może nie czytaj komentarzy, a ocenę zostaw sobie?), ale daje też pewne spojrzenie na tematykę sieci neuronowych i LLM-ów z punktu widzenia osoby nietechnicznej.
+
+### 5. Przewidywania programistyczne na 2024 rok
+
+[https://blogs.newardassociates.com/blog/2024/2024-tech-predictions.html](https://blogs.newardassociates.com/blog/2024/2024-tech-predictions.html)
+
+INFO: Próba przewidzenia tego, co jeszcze czeka nas w obecnym roku. Każde wydarzenie ma podane szacunkowe prawdopodobieństwo wystąpienia. Co ciekawe, Autor przygotowywał podobny wpis rok temu, więc wpis rozpoczyna się od rozliczenia poprzednich predykcji.
+
+### 6. Recenzja gogli Apple Vision Pro (film, 9 minut)
+
+[https://www.youtube.com/watch?v=8xI10SFgzQ8](https://www.youtube.com/watch?v=8xI10SFgzQ8)
+
+INFO: Reporterka postanowiła nosić wspomniany zestaw przez cały dzień i przetestować, jak sprawuje się on przy codziennych aktywnościach. Przyznam, że wygląda to momentami co najmniej dziwnie, ale i ciekawie zarazem.
+
+### 7. Darmowe warsztaty - "Proxmox - Praktyczne wprowadzenie do wirtualizacji serwerów" [sponsorowane]
+
+[https://asdevops.pl/s35/](https://asdevops.pl/s35/)
+
+INFO: Poznaj zaawansowane techniki zarządzania maszynami wirtualnymi, zwiększ wydajność swoich serwerów i zdobądź cenne umiejętności w obszarze wirtualizacji, uczestnicząc w praktycznych zajęciach prowadzonych przez eksperta w tej dziedzinie. Dołącz do nas, aby rozwinąć swoje umiejętności w zakresie Proxmox i zyskać nowe możliwości w administrowaniu infrastrukturą serwerową.
+
+### 8. Laika 13 - nastolatka wychowana przez social media
+
+[https://www.laika13.com/](https://www.laika13.com/)
+
+INFO: Chodzi o projekt stworzenia "Nastolatki AI", która czerpie 100% swojej wiedzy o świecie z mediów społecznościowych. Cały jej światopogląd jest kształtowany przez to, co publikowane jest na głównych platformach społecznościowych na świecie. Laika jest wykorzystywana w badaniach zdrowia psychicznego nastolatków. AI już zdążyła nabyć kilkanaście zaburzeń psychicznych. Dostęp do Laiki mają wyłącznie badacze, edukatorzy i dziennikarze.
+
+### 9. Gwiazdy świata JavaScriptu 2023 roku
+
+[https://risingstars.js.org/2023/en](https://risingstars.js.org/2023/en)
+
+INFO: Poznaj najpopularniejsze projekty ze świata JavaScript, które zdobyły serca programistów na GitHubie w ubiegłym roku. W zestawieniu znajdziesz frameworki, narzędzia do budowania aplikacji, statyczne generatory stron, biblioteki do wykresów, a nawet coś z tematyki AI.
+
+### 10. Top 100 Narzędzi Deweloperskich 2023 - Nagrody StackShare
+
+[https://stackshare.io/posts/top-developer-tools-2023](https://stackshare.io/posts/top-developer-tools-2023)
+
+INFO: Odkryj, które narzędzia deweloperskie zyskały największą popularność w 2023 roku, według dorocznego zestawienia z platformy StackShare. Technologie i rozwiązania programistyczne wyróżniono w kategoriach, takich jak "nowe narzędzie roku", "narzędzie hostingowe roku" czy "język roku". Jest szansa, że w zestawieniu odkryjesz jakieś nowe i użyteczne dla Ciebie narzędzie.
+
+### 11. Jak Uber znajduje kierowców w pobliżu przy milionie zapytań na sekundę?
+
+[https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers](https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers)
+
+INFO: Odkryj, jak Uber radzi sobie z ogromnym obciążeniem sieci, wyszukując najbliższych kierowców przy milionie zapytań na sekundę, wykorzystując innowacyjny system indeksowania przestrzennego. Przeczytaj więcej o wyzwaniach związanych z precyzją i skalowalnością tej usługi.
+
+### 12. Twórca komunikatora Usecrypt został aresztowany
+
+[https://wiadomosci.wp.pl/zarzuty-dla-tworcy-usecryptu-pranie-pieniedzy-i-zorganizowana-grupa-przestepcza-6989575024712640a](https://wiadomosci.wp.pl/zarzuty-dla-tworcy-usecryptu-pranie-pieniedzy-i-zorganizowana-grupa-przestepcza-6989575024712640a)
+
+INFO: Jakiś czas temu o Usecrypcie było głośno, głównie ze względu na próbę uciszania Niebezpiecznika, ZaufanejTrzeciejStrony, czy Informatyka Zakładowego. Do promocji "najbezpieczniejszego komunikatora na świecie" ręce przyłożyli znani celebryci, którzy obecnie pospiesznie usuwają wszelkie ślady swojej współpracy z firmą. Twórca komunikatora został zatrzymany ze względu na pranie pieniędzy i działalność w zorganizowanej grupie przestępczej.
+
+### 13. Code Review - jak to robić dobrze?
+
+[https://vadimkravcenko.com/shorts/code-reviews/](https://vadimkravcenko.com/shorts/code-reviews/)
+
+INFO: Artykuł opisuje doświadczenia autora z początków jego kariery, kiedy zespół zaniedbał code review, co doprowadziło do problemów z czytelnością i utrzymaniem kodu. Znajdziesz tu praktyczne porady dotyczące przeprowadzania code review, definiowania standardów kodowania i dlaczego Twoje "emocjonalne przywiązanie" do kodu może być szkodliwe.
+
+### 14. Jak Apple zbudowało iCloud - co jest pod spodem?
+
+[https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions)
+
+INFO: Czy zastanawiałeś się kiedyś, jak Apple poradziło sobie z wyzwaniem przechowywania miliardów baz danych w iCloud? Ten artykuł przedstawia kulisy infrastruktury technologicznej stojącej za tą usługą, odkrywając rolę FoundationDB i Cassandra w obsłudze CloudKit. Dowiedz się, jak Apple radzi sobie ze skalowaniem i zapewnieniem niezawodności usługi, będąc jednym z największych graczy na rynku.
+
+### 15. AI Gateway - jedno API dla 100+ LLMów
+
+[https://github.com/Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+
+INFO: Z każdym modelem językowym, czy to lokalnym, czy zdalnym, komunikuje się trochę inaczej. A gdyby tak ujednolicić tę komunikację i zbudować dla wszystkich jedno, wspólne API? To właśnie próbuje zrealizować ten projekt i, jak widać, całkiem nieźle im to wychodzi.
+
+### 16. Jan - alternatywa dla ChatGPT działająca lokalnie
+
+[https://jan.ai/](https://jan.ai/)
+
+INFO: Boisz się używać ChatGPT, ponieważ Twoje dane są wysyłane do sieci? Jan rozwiązuje ten problem, dając Ci możliwość lokalnego (w pełni offline!) uruchomienia wybranych modeli LLM open-source. Aplikacja działa na Windowsie, Linuksie oraz Macu.
+
+### 17. Lekcje na temat LLM-ów [autopromocja]
+
+[https://lekcje.aidevs.pl/](https://lekcje.aidevs.pl/)
+
+INFO: Wraz z Adamem Gospodarczykiem i Mateuszem Chrobokiem przygotowaliśmy kilka, niepublikowanych wcześniej nagrań związanych z modelami językowymi i bazami wektorowymi. Co kilka dni otrzymasz od nas nowe nagranie. Łącznie będą to 4 maile.
+
+### 18. Wgłąb katalogu .git
+
+[https://jvns.ca/blog/2024/01/26/inside-git/](https://jvns.ca/blog/2024/01/26/inside-git/)
+
+INFO: Czy zastanawiałeś się kiedykolwiek, co kryje się w tajemniczym katalogu .git Twojego projektu? Artykuł w przystępny sposób wyjaśnia strukturę i funkcję poszczególnych plików i katalogów znajdujących się w .git. To interesująca lektura dla tych, którzy chcą lepiej zrozumieć, jak działa system kontroli wersji od środka.
+
+### 19. Cross browser testing - jak podejść do tematu?
+
+[https://www.semrush.com/blog/cross-browser-testing/](https://www.semrush.com/blog/cross-browser-testing/)
+
+INFO: Jak upewnić się, czy Twoja strona internetowa działa bez zarzutu w różnych przeglądarkach? Oczywiście, trzeba ją w tych przeglądarkach przetestować, ale jak efektywnie się do tego zabrać? W artykule znajdziesz kompleksowy przewodnik po takich testach. Dowiedz się, jakie narzędzia wykorzystać i na jakie problemy możesz napotkać.
+
+### 20. Jak zarządzać dyżurami on-call?
+
+[https://hybridhacker.email/p/how-to-manage-on-call-duties](https://hybridhacker.email/p/how-to-manage-on-call-duties)
+
+INFO: Dyżury on-call mogą być wyzwaniem, ale i okazją do rozwoju. Ten artykuł dzieli się doświadczeniami autora z firmy Namecheap na temat efektywnego organizowania takich dyżurów, poruszając zarówno trudności, jak i korzyści wynikające z tej praktyki. Artykuł zawiera garść porad między innymi na temat zarządzania czasem pracy po godzinach, które mogą pomóc w utrzymaniu równowagi między życiem zawodowym a prywatnym.
+
+### 21. Homepage - Twoja customowa strona startowa
+
+[https://github.com/gethomepage/homepage](https://github.com/gethomepage/homepage)
+
+INFO: Nowoczesna, statyczna strona domowa z widgetami. Możesz na niej zamieścić zarówno linki do usług, jak i proste informacje (np. statystyki) wyciągnięte z innych serwisów. Zaletą tego rozwiązania jest fakt, że możesz całość postawić jako kontener Docker'a.
+
+### 22. Opis luki XSS na platformie Chess.com
+
+[https://skii.dev/rook-to-xss/](https://skii.dev/rook-to-xss/)
+
+INFO: Czy pasjonują Cię szachy i cyberbezpieczeństwo? Oto ciekawy opis tego, jak autor wykorzystał lukę XSS, aby zhakować popularny serwis szachowy. Dobra lektura dla fanów websecurity i dla pentesterów.
+
+### 23. Ataki webowe w logach webservera - analiza
+
+[https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
+
+INFO: Autor postanowił przyjrzeć się różnego rodzaju próbom włamań i skanom bezpieczeństwa swoich aplikacji webowych. W artykule znajdziesz Jego przemyślenia na temat tego, co i jak jest skanowane, oraz jakie testy bezpieczeństwa wykonują automaty.
+
+### 24. Nowoczesne, jednolinijkowe usprawnienia w CSS
+
+[https://moderncss.dev/12-modern-css-one-line-upgrades/](https://moderncss.dev/12-modern-css-one-line-upgrades/)
+
+INFO: Chcesz odświeżyć wygląd swojej aplikacji jedną linią kodu CSS? Oto 12 właściwości, które warto dodać do Twoich projektów, aby zmniejszyć dług techniczny, a także ograniczyć konieczność używania JavaScriptu. Od stabilnych ulepszeń po progresywne dodatki.
+
+### 25. Jak skutecznie wdrożyć narzędzie Semgrep w Twojej organizacji?
+
+[https://blog.trailofbits.com/2024/01/12/how-to-introduce-semgrep-to-your-organization/](https://blog.trailofbits.com/2024/01/12/how-to-introduce-semgrep-to-your-organization/)
+
+INFO: Semgrep to narzędzie do statycznej analizy kodu, które wyróżnia się prostotą użycia i bogatym zestawem reguł. Autor przedstawia, jak w siedmiu krokach wprowadzić Semgrep do procesu rozwoju oprogramowania w Twojej firmie, aby zwiększyć bezpieczeństwo kodu i poprawić jego jakość.
+
+### 26. KeePassMini - menadżer haseł z podejrzanymi funkcjami?
+
+[https://zaufanatrzeciastrona.pl/post/menadzer-hasel-podobno-kradnacy-hasla-czyli-najciemniej-pod-latarnia/](https://zaufanatrzeciastrona.pl/post/menadzer-hasel-podobno-kradnacy-hasla-czyli-najciemniej-pod-latarnia/)
+
+INFO: Gdy powierzamy nasze hasła menadżerowi haseł, oczekujemy najwyższego poziomu poufności. Co jednak, gdy odkryjemy, że to sama aplikacja menadżera stanowi zagrożenie? Oto ciekawa analiza błędu/wpadki/backdoora (nie wiadomo, co to jest) w aplikacji KeePassMini. Pamiętaj jednak proszę, że 'KeePassów' jest na rynku od groma i problem nie dotyczył wszystkich, a jedynie tej jednej, konkretnej aplikacji.
+
+### 27. Czy identyfikatory kont AWS są tajne? - ostateczna odpowiedź
+
+[https://blog.plerion.com/aws-account-ids-are-secrets/](https://blog.plerion.com/aws-account-ids-are-secrets/)
+
+INFO: Zdania na temat tego, czy identyfikatory kont AWS są informacją wrażliwą/poufną, od zawsze były podzielone, ale z przewagą w stronę odpowiedzi na 'nie'. Ten artykuł może zmienić Twoje zdanie w tej kwestii. Poznaj praktyczne aspekty bezpieczeństwa, które mogą przekonać Cię do traktowania tych danych jako poufnych.
+
+### 28. Akt o usługach cyfrowych (DSA) i jego wpływ na Twoją firmę IT
+
+[https://prakreacja.pl/dsa-akt-o-uslugach-cyfrowych-zmiany-dla-malych-firm-od-17-02-2024-r/](https://prakreacja.pl/dsa-akt-o-uslugach-cyfrowych-zmiany-dla-malych-firm-od-17-02-2024-r/)
+
+INFO: Jeśli prowadzisz działalność online w branży IT, warto przeczytać ten artykuł. Być może jeszcze o tym nie wiesz, ale istnieje szansa, że właśnie stałeś się firmą hostingową i czekają Cię w związku z tym pewne obowiązki. Przepisy prawne bywają przedziwne.
+
+### 29. Top 40 książek polecanych przez czytelników Hacker News w 2023 roku
+
+[https://hnreads.com/post/top40_2023/](https://hnreads.com/post/top40_2023/)
+
+INFO: Platformy z newsami Hacker News chyba nikomu z moich czytelników nie muszę przedstawiać. Poza ciekawymi linkami są tam także wartościowe dyskusje w komentarzach. Autor tego wpisu postanowił przeskanować wszystkie te komentarze w poszukiwaniu polecanych książek, po czym przygotował zestawienie Top 40 najczęściej wymienianych tytułów. Jest szansa, że znajdziesz tam coś dla siebie.
+
+### 30. Excalidraw - narzędzie online typu whiteboard
+
+[https://excalidraw.com/](https://excalidraw.com/)
+
+INFO: Dawno, dawno temu już dzieliłem się tym narzędziem, ale tak bardzo go lubię, że postanowiłem wrzucić je tutaj ponownie. Za pomocą Excalidraw możesz przygotować rysunki, które wyglądają, jakby były narysowane odręcznie. Warto aktywować bibliotekę (prawy górny róg) i dodać do niej gotowe assety, aby zwiększyć możliwości aplikacji.
+
+### 31. Selektory CSS :nth-child() vs :nth-of-type() - jakie są różnice?
+
+[https://www.freecodecamp.org/news/nth-child-vs-nth-of-type-selector-in-css/](https://www.freecodecamp.org/news/nth-child-vs-nth-of-type-selector-in-css/)
+
+INFO: Zastanawiasz się, jak precyzyjnie wybierać elementy w CSS za pomocą selektorów :nth-child() i :nth-of-type()? Ten artykuł wyjaśnia kluczowe różnice między tymi dwoma selektorami i pokazuje ich działanie na konkretnych przykładach. Dobra lektura dla początkujących frontendowców.
+
+### 32. Stylowanie tabel w HTML - poradnik
+
+[https://dev.to/madsstoumann/a-guide-to-styling-tables-28d2](https://dev.to/madsstoumann/a-guide-to-styling-tables-28d2)
+
+INFO: Ten artykuł to kompleksowy przewodnik, który pokaże Ci, jak efektywnie strukturyzować i stylizować elementy tabel na stronie. Dowiedz się, jak nadać tabelom okrągłe rogi, jak wykorzystać efekt "zebry" oraz jak radzić sobie z pewnymi wyzwaniami, które mogą się pojawić podczas takiego stylizowania.
+
+### 33. Apple wprowadza zmiany w iOS, Safari i App Store w Unii Europejskiej
+
+[https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
+
+INFO: Firma Apple została zmuszona przez przepisy UE do dostosowania swoich usług do wymogów Europejskiego Aktu o Rynkach Cyfrowych (DMA). Artykuł przedstawia wprowadzenie nowych API, zwiększenie kontroli nad prywatnością i bezpieczeństwem, a także nowe opcje dystrybucji aplikacji i przetwarzania płatności w UE. Zmiany dotyczą zarówno deweloperów, jak i użytkowników, a ich wprowadzenie planowane jest na marzec 2024 roku. Coś mi się wydaje, że nastąpi podział na "europejskie iPhony" i "pozostałe iPhony". Które będą lepsze, to już pozostawiam do oceny Tobie.
+
+### 34. Rozbudowany kurs wprowadzający do LLM-ów
+
+[https://uw7.org/un_ee866fa0aa6bd/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_ee866fa0aa6bd/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: To NIE jest kurs korzystania z modeli językowych. Twórcy skupiają się na zasadach działania tych modeli, ich nauce, rozbudowie itp. Lekcje zawierają notatniki do Google Colaba, więc każdy z opisanych tematów można wykonać samodzielnie w testowym środowisku.
+
+### 35. Pytania rekrutacyjne do... niemal każdej technologii
+
+[https://uw7.org/un_57ec0dbe0fdf8/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_57ec0dbe0fdf8/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: To jest link do repozytorium, które gromadzi inne repozytoria/listy z pytaniami rekrutacyjnymi. Bez znaczenia jest, czy jesteś frontendowcem, adminem czy programistą. Również nie ma znaczenia, w jakiej technologii pracujesz, bo prawdopodobnie i tak znajdziesz tam pytania rekrutacyjne na swoje stanowisko. To dobry materiał dla osób przygotowujących się do tego typu rozmów, jak i dla tych, którzy chcą rekrutować innych.
 
 ## 2024-01-26
 
