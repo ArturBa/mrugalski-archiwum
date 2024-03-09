@@ -1,4 +1,246 @@
-# Archiwum Mrugalskiego na dzień 3/2/2024
+# Archiwum Mrugalskiego na dzień 3/9/2024
+
+## 2024-03-08
+
+### 1. Serwery Fediverse - jak zdecentralizowana jest naprawdę ta platforma?
+
+[https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
+
+INFO: Czy Fediverse, czyli zbiór zdecentralizowanych serwerów komunikujących się za pomocą protokołu ActivityPub, jest rzeczywiście tak zdecentralizowany, jak się wydaje? Autor artykułu zbadał rozmieszczenie serwerów tej platformy i podzielił się swoją analizą. Jak się okazuje, ponad połowa serwerów jest hostowana przez jedną z czterech firm hostingowych.
+
+### 2. Jak Zapier obsługuje miliardy zadań? - stack technologiczny
+
+[https://newsletter.systemdesign.one/p/zapier-architecture](https://newsletter.systemdesign.one/p/zapier-architecture)
+
+INFO: Zapier to jedno z najpopularniejszych narzędzi no-code na świecie. Tylko jak taka platforma radzi sobie z miliardami zadań od swoich użytkowników? Artykuł przedstawia architekturę aplikacji Zapier, wyjaśniając, jak wykorzystują oni Nginx, Django, MySQL, Redis i inne technologie.
+
+### 3. Technologia Cię okłamuje i ma ku temu powody... (film, 17 minut)
+
+[https://youtu.be/-YVtZV4DjCE](https://youtu.be/-YVtZV4DjCE)
+
+INFO: Co naprawdę pokazuje wskaźnik poziomu baterii w telefonie? Czy jest to jej napięcie, liczba pozostałych jednostek energii, czy może deklarowana pojemność baterii pomniejszona o procentowy wskaźnik zużycia jednostek energii? Nic z tych rzeczy. A czy klawisze góra/dół w edytorze tekstu naprawdę przenoszą Cię linię wyżej/niżej? No nie bardzo. Nawet zaokrąglone kwadraty w produktach Apple nie są zaokrąglone.
+
+### 4. Stwórz spersonalizowany newsletter z ulubionymi treściami
+
+[https://usedigest.com](https://usedigest.com)
+
+INFO: Ta aplikacja pozwoli Ci wyklikać newsletter, zawierający treści, jakich oczekujesz. Chcesz dostawać podsumowanie swojego kalendarza na maila? A może najnowsze filmy z kanałów na YouTube, które obserwujesz? A może najlepsze newsy z wybranych RSS-ów? Zbuduj własny newsletter z 11 gotowych źródeł danych i zdecyduj, jak często chcesz go dostawać. Usługa jest darmowa.
+
+### 5. Copilot Voice - inteligentne programowanie za pomocą głosu
+
+[https://githubnext.com/projects/copilot-voice/](https://githubnext.com/projects/copilot-voice/)
+
+INFO: Większość programistów zna już Copilota, ale nadchodzi wersja Voice, która umożliwi programistom nie tylko pisanie kodu, ale także wydawanie poleceń mających na celu jego przebudowę czy ulepszenie. Na stronie znajdziesz krótki film prezentujący możliwości narzędzia. Copilot Voice nie jest jeszcze publicznie dostępny, ale możesz zapisać się na listę oczekujących, aby otrzymać dostęp do wersji Preview.
+
+### 6. Mail in the Middle - automatyzacja kampanii spear phishingowych
+
+[https://sensepost.com/blog/2024/mail-in-the-middle-a-tool-to-automate-spear-phishing-campaigns/](https://sensepost.com/blog/2024/mail-in-the-middle-a-tool-to-automate-spear-phishing-campaigns/)
+
+INFO: Poznaj narzędzie Mail-in-the-Middle, które wykorzystuje literówki w nazwach domen, aby przechwytywać i modyfikować w locie komunikację między pracownikami firmy a światem zewnętrznym. Artykuł prowadzi przez proces tworzenia takiego systemu, od rejestracji domen do automatyzacji ataków phishingowych. Treść jest raczej mocno skierowana do branży security, z naciskiem na pentesterów realizujących ataki socjotechniczne.
+
+### 7. Za 10 dni ruszamy ze szkoleniem AI Devs - LLMy dla programistów [autopromocja]
+
+[https://www.aidevs.pl/?ref=unknowNews](https://www.aidevs.pl/?ref=unknowNews)
+
+INFO: Chcesz nauczyć się łączenia istniejących rozwiązań IT z modelami językowymi, a jednocześnie jak robić to sprawnie, wydajnie i bezpiecznie? Dołącz do 5-tygodniowego szkolenia kohortowego AI Devs. Już 18 marca ruszamy z kolejną edycją, a w chwili, gdy piszę te słowa, zbliżamy się do liczby 1700 kursantów zapisanych na szkolenie. To ostatnie dni, aby do nas dołączyć.
+
+### 8. Daytona - nowoczesne zarządzanie środowiskami dla programistów
+
+[https://www.daytona.io/](https://www.daytona.io/)
+
+INFO: Zatrudniasz nowego programistę do swojego zespołu. Musi on przygotować swój komputer do pracy nad firmowymi projektami. Pobiera kod z repozytorium, instaluje niezbędne narzędzia, zaciąga zależności do projektu, kompiluje coś, uruchamia testy sprawdzając, czy na pewno wszystko działa... To na pewno zajmie chwilę. Daytona ma skrócić ten proces do wydania jednego polecenia, które ma na celu utworzenie ustandaryzowanego środowiska programistycznego, i najlepiej, że zrobi to w ciągu minuty. Takie rozwiązanie umożliwia skrajnie szybki onboarding nowych pracowników.
+
+### 9. Trendy w programowaniu, które cenię w 2024 roku
+
+[https://thetechenabler.substack.com/p/software-engineering-practices-you](https://thetechenabler.substack.com/p/software-engineering-practices-you)
+
+INFO: Autor dzieli się swoimi przemyśleniami na temat praktyk programistycznych, które obecnie promuje się w firmach. Ocenia, jak bardzo je lubi, z których korzysta i dlaczego są takie fajne. To oczywiście subiektywna ocena.
+
+### 10. Połączenie zdalne z Chrome Remote Desktop (zamiast TeamViewera)
+
+[https://remotedesktop.google.com/?pli=1](https://remotedesktop.google.com/?pli=1)
+
+INFO: Czy irytuje Cię nowa polityka TeamViewer, która ogranicza darmowe sesje do jednej minuty? Istnieje bezpłatna alternatywa. Serwis Chrome Remote Desktop umożliwia bezpieczne połączenie się z Twoim komputerem za pomocą telefonu, tabletu czy innego urządzenia. To przydatne rozwiązanie, jeśli chcesz komuś zdalnie pomóc wykonać akcje na komputerze.
+
+### 11. Jak sztuczna inteligencja zmieniła to, jak pracujemy? (film, 55 minut)
+
+[https://www.youtube.com/watch?v=LLBROHs9_8c](https://www.youtube.com/watch?v=LLBROHs9_8c)
+
+INFO: Rozmowa na temat tego, jak osoby techniczne i prowadzące biznes wykorzystują LLM-y w codziennej pracy oraz w automatyzacji powtarzalnych czynności. To nie jest poradnik, ale subiektywne dzielenie się swoimi doświadczeniami.
+
+### 12. Kryzys w polskim gamedevie - reportaż od CD-Action
+
+[https://www.cdaction.pl/publicystyka/zwolnionych-od-razu-odcieto-od-slacka-i-maila-tak-zle-w-polskim-gamedevie-dawno-nie-bylo](https://www.cdaction.pl/publicystyka/zwolnionych-od-razu-odcieto-od-slacka-i-maila-tak-zle-w-polskim-gamedevie-dawno-nie-bylo)
+
+INFO: Polski rynek gier wideo przechodzi poważny kryzys. W tym reportażu znajdziesz historie pracowników dotkniętych nagłymi zwolnieniami, opis zmian na rynku inwestycyjnym oraz wpływ Brexitu na branżę. Poznaj realia i wyzwania, z jakimi mierzą się twórcy gier w Polsce.
+
+### 13. Planujesz zbudować skracacz linków? Przemyśl to.
+
+[https://app.y.gy/blog/honeypot](https://app.y.gy/blog/honeypot)
+
+INFO: Historia platformy do skracania linków, która przypadkiem stała się siedliskiem linków do złośliwego oprogramowania. Autorka aplikacji opisuje, co było przyczyną takiej sytuacji i dzieli się metodami, które testowała, aby temu zaradzić.
+
+### 14. Stwórzmy grę na NES-a w 2024 roku (filmy, 15 minut)
+
+[https://www.nintendolife.com/features/meet-morphcat-games-the-new-gen-nes-devs-pushing-the-8-bit-envelope](https://www.nintendolife.com/features/meet-morphcat-games-the-new-gen-nes-devs-pushing-the-8-bit-envelope)
+
+INFO: Wiem, że gry na konsolę NES mogą Cię zupełnie nie interesować, ale ten materiał pokazuje w bardzo ciekawy sposób, jakie ograniczenia techniczne spotykali twórcy gier w tamtych czasach. Ograniczona pamięć kodu, miniaturowa pamięć grafiki - zaskakuje, jak sprytnie można sobie poradzić z tymi ograniczeniami i pomimo ich stworzyć przyzwoicie wyglądającą grę (jak na NES-owe warunki).
+
+### 15. Lista 10 najszybciej rosnących aplikacji w styczniu 2024
+
+[https://blog.curiosity.ai/start-the-year-right-with-the-10-hottest-apps-in-january-2024-c15ef76e5c4b](https://blog.curiosity.ai/start-the-year-right-with-the-10-hottest-apps-in-january-2024-c15ef76e5c4b)
+
+INFO: Kompilacja TOP 10 aplikacji z serwisu ProductHunt, które okazały się 'najgorętsze' w ich rankingu za styczeń. W takich zestawieniach większość to nowe startupy, ale zawsze możesz tam odnaleźć coś ciekawego, co być może pomoże Ci w pracy.
+
+### 16. Niespodziewane konsekwencje regulacji Unijnych (film, 20 minut)
+
+[https://youtu.be/rI_TXxNQIlE](https://youtu.be/rI_TXxNQIlE)
+
+INFO: Co dzieje się, gdy przepisy, nawet te mające w zamyśle uczynić wiele dobrego, idą nie do końca w tę dobrą stronę? Omówienie konsekwencji, jakie mają i mogą mieć niektóre z wprowadzanych regulacji, jest naprawdę interesujące. Poruszana jest tematyka cenzury, sztucznej inteligencji, algorytmów itp.
+
+### 17. Web-check - źródła aplikacji do analizy stron internetowych
+
+[https://github.com/Lissy93/web-check](https://github.com/Lissy93/web-check)
+
+INFO: Jakiś czas temu wrzucałem do newslettera aplikację analizującą inne aplikacje webowe. Podajesz nazwę domeny i zdobywasz wiedzę na temat adresu IP, certyfikatów SSL, rekordów DNS i innych rzeczy, które mogą być użyteczne, na przykład, w pracy OSINT-owca. Tym razem linkuję do źródeł tej aplikacji. Analizując je, możesz dowiedzieć się, skąd pochodzą prezentowane na stronie informacje, a co za tym idzie, możesz zaimplementować podobne funkcje na własne potrzeby.
+
+### 18. Przewodnik dla krytykujących Kubernetes
+
+[https://paulbutler.org/2024/the-haters-guide-to-kubernetes/](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
+
+INFO: Kubernetes może wydawać się skomplikowanym narzędziem, które start-upy powinny omijać szerokim łukiem, ale czy na pewno? Przeczytaj, jak firma Jamsocket wykorzystuje Kubernetes na produkcji, korzystając tylko z wybranych funkcji tego rozwiązania i unikając wielu innych.
+
+### 19. Czego nauczyliśmy się tworząc narzędzie do automatyzacji programowania - 6 miesięcy od startu
+
+[https://blog.pythagora.ai/2024/02/19/gpt-pilot-what-did-we-learn-in-6-months-of-working-on-a-codegen-pair-programmer/](https://blog.pythagora.ai/2024/02/19/gpt-pilot-what-did-we-learn-in-6-months-of-working-on-a-codegen-pair-programmer/)
+
+INFO: Czy sztuczna inteligencja może zastąpić programistę? Poznaj wnioski z półrocznej pracy nad GPT Pilot, narzędziem opartym na GPT-4, którego celem było zautomatyzowanie tworzenia aplikacji. Dowiedz się, jakie zadania AI wykonuje już dobrze, gdzie jeszcze potrzebuje ludzkiego wsparcia, i zobacz przykłady aplikacji stworzonych z pomocą tego 'programisty AI'.
+
+### 20. Przestań ręcznie tworzyć pliki Dockerfile - oto alternatywa
+
+[https://medium.com/kpmg-uk-engineering/you-should-stop-writing-dockerfiles-today-do-this-instead-3cd8a44cb8b0](https://medium.com/kpmg-uk-engineering/you-should-stop-writing-dockerfiles-today-do-this-instead-3cd8a44cb8b0)
+
+INFO: Czy wiesz, że Docker może samodzielnie wygenerować dla Ciebie zarówno Dockerfile, jak i konfigurację dla docker-compose? Ten krótki poradnik pokaże Ci, jak używać tej funkcji.
+
+### 21. Wykrywanie zmiany właścicieli rozszerzeń Chrome
+
+[https://github.com/classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management)
+
+INFO: Zapewne używasz wielu rozszerzeń w swojej przeglądarce. Odpowiedzialnie decydujesz, aby nie instalować szemranych rozszerzeń niewiadomego pochodzenia. Problem w tym, że nieuczciwe firmy często kupują rozszerzenia od innych twórców i wprowadzają w nich modyfikacje. Nawet jeśli dana aplikacja przez lata była bezpieczna, nagle może zacząć wykradać Twoje dane. To rozszerzenie monitoruje, kto jest właścicielem rozszerzeń, jakie masz w przeglądarce, i powiadamia Cię, jeśli właściciel ulegnie zmianie.
+
+### 22. CapoJS - uporządkuj sekcję head swojej strony
+
+[https://rviscomi.github.io/capo.js/](https://rviscomi.github.io/capo.js/)
+
+INFO: Kolejność elementów w sekcji head może wpływać na odczuwalne przez użytkownika tempo ładowania strony. Capo to narzędzie, które pomoże Ci zidentyfikować elementy, które ładują się w niewłaściwej kolejności. To rozwiązanie możesz używać zarówno w formie rozszerzenia do przeglądarki, jak i snippetu kodu.
+
+### 23. Ominięcie Content Security Policy poprzez przejęcie formularza
+
+[https://portswigger.net/research/using-form-hijacking-to-bypass-csp](https://portswigger.net/research/using-form-hijacking-to-bypass-csp)
+
+INFO: Opis techniki przejęcia formularza, która umożliwia obejście Polityki Bezpieczeństwa Treści (CSP) i kradzież haseł użytkowników. Artykuł wyjaśnia, na czym polega ta metoda (dokładny opis ataku znajdziesz w linku do raportu w rozdziale "Real World Examples") oraz radzi, jak skanować i zabezpieczać swoje CSP przed podobnymi zagrożeniami.
+
+### 24. Optymalizacja opóźnień w Kafka przy użyciu eBPF
+
+[https://blog.allegro.tech/2024/03/kafka-performance-analysis.html](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
+
+INFO: Zespół Allegro podjął wyzwanie zmniejszenia latencji w swoim głównym klastrze Kafka, gdzie obsługiwanych jest do 1 miliona wiadomości na sekundę. W artykule opisują swoją analizę, w której z pomocą eBPF i profilera zidentyfikowali i wyeliminowali wąskie gardło wydajności. To mocno techniczny tekst dla fanów Linuksa i optymalizacji.
+
+### 25. Twoje treści z Notatek Apple wprost na bloga
+
+[https://quotion.co/](https://quotion.co/)
+
+INFO: Poznaj Quotion - platformę blogową, która umożliwia publikowanie treści bezpośrednio z Notatek Apple, bez potrzeby używania CMS-a czy jakiegokolwiek programowania. Jeśli chcesz możliwie szybko i sprawnie publikować w sieci swoje przemyślenia, a jednocześnie używasz tej aplikacji do notatek, ten serwis może Ci się spodobać. Usługa oferuje pakiet darmowy z limitem do 50 opublikowanych notatek.
+
+### 26. Raport o stanie twórców w 2024 roku - od platformy Kajabi
+
+[https://creatortrends.kajabi.com/](https://creatortrends.kajabi.com/)
+
+INFO: Jak twórcy internetowi przekształcają swoje pasje w dochodowe biznesy? Na czym przeważnie zarabiają? Ile mają źródeł dochodu? Ile realnie da się wyciągnąć pieniędzy z bycia twórcą online? Ten raport na temat twórców jest interesujący, ale chyba najbrzydszy wizualnie, jaki kiedykolwiek widziałem.
+
+### 27. Dockerc - kompilacja obrazów kontenerów do pojedynczych plików wykonywalnych
+
+[https://github.com/NilsIrl/dockerc](https://github.com/NilsIrl/dockerc)
+
+INFO: Zapomnij o komendach typu 'docker run' czy 'npm i'. Docker jest narzędziem, które pozwala przekształcić obrazy kontenerów w pojedyncze wykonywalne pliki, ułatwiając dystrybucję aplikacji. Dowiedz się, jak to działa i jakie korzyści przynosi dla twórców oprogramowania oraz ich użytkowników.
+
+### 28. Top 10 antywzorców dla mikroserwisów
+
+[https://blog.bitsrc.io/10-microservice-anti-patterns-278bcb7f385d](https://blog.bitsrc.io/10-microservice-anti-patterns-278bcb7f385d)
+
+INFO: Tworzysz aplikacje bazujące na mikroserwisach i ciągle narzekasz na tę architekturę? Być może powielasz wraz z zespołem jeden z popularnych antywzorców, których zdecydowanie powinno się unikać?
+
+### 29. Puter - Twoje środowisko pracy w przeglądarce
+
+[https://github.com/HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+INFO: Ten projekt to próba stworzenia środowiska pracy w pełni zarządzanego przez przeglądarkę. Masz tam edytor programistyczny, edytor tekstu, menedżer plików i wiele innych narzędzi. Możesz np. wykorzystać ten system jako sprytniejszy odpowiednik aplikacji Nextcloud/Owncloud. Usługę można uruchomić na własnym komputerze, np. za pomocą Dockera.
+
+### 30. Jak nauczyłem Się touch typingu w 30 Dni (film, 12 minut)
+
+[https://www.youtube.com/watch?v=7gPsIb7oqnw](https://www.youtube.com/watch?v=7gPsIb7oqnw)
+
+INFO: "Touch Typing" to w polskim nazewnictwie po prostu "pisanie bezwzrokowe". Rekordziści, którzy opanowali tę metodę pisania, osiągają nawet do 300 słów na minutę, podczas gdy przeciętny użytkownik komputera wyciąga 7-8 razy mniej.
+
+### 31. Talos Linux - system z zaledwie z 12 plikami binarnymi
+
+[https://www.siderolabs.com/blog/there-are-only-12-binaries-in-talos-linux/](https://www.siderolabs.com/blog/there-are-only-12-binaries-in-talos-linux/)
+
+INFO: Chcesz postawić w firmie możliwie najbezpieczniejszy system, na którym uruchomisz klaster Kubernetesa? Wybór prawdopodobnie padnie na najpopularniejsze Ubuntu. Niestety, zabezpieczanie systemu o ogólnym przeznaczeniu nie jest łatwe i wymaga sporo pracy. Co powiesz na użycie Talosa, który składa się dosłownie z kilkunastu plików wykonywalnych, a wszystko, co potrafi robić, to zarządzanie Kubernetesem? Ten system nie ma nawet polecenia 'ls'. To dopiero jest skrajna minimalizacja wektorów ataku. Ale jeżeli traktujesz temat security naprawdę poważnie, to być może jest to coś, czym warto się zainteresować.
+
+### 32. Czy istnieją strony z łamigłówkami SQL? (wątek z Hacker News)
+
+[https://news.ycombinator.com/item?id=39547822](https://news.ycombinator.com/item?id=39547822)
+
+INFO: Autor wątku zapytał społeczność, czy istnieją jakieś platformy, gry czy aplikacje, na których mógłby poćwiczyć swoje zdolności związane ze znajomością języka SQL. W odpowiedzi otrzymał całkiem pokaźny zbiór wartościowych linków do wspomnianych treści.
+
+### 33. Cloudflare udostępnia Firewall dla AI
+
+[https://blog.cloudflare.com/firewall-for-ai](https://blog.cloudflare.com/firewall-for-ai)
+
+INFO: Cloudflare wprowadza warstwę ochronną dla Wielkich Modeli Językowych (LLMs), mając na celu identyfikację nadużyć przed dotarciem zapytania do modeli. Artykuł omawia wyzwania związane z zabezpieczeniem LLMs w aplikacjach podłączonych do Internetu oraz przedstawia nowe narzędzie "Firewall for AI", które ma chronić zarówno użytkowników, jak i modele przed atakami i nadużyciami.
+
+### 34. JPEG XL - od czego pochodzi ta nazwa?
+
+[https://www.mark-pekala.dev/posts/jpeg-xl](https://www.mark-pekala.dev/posts/jpeg-xl)
+
+INFO: Jak nazwać standard, który ma stać się następcą plików JPG, a który oferuje możliwość tworzenia mniejszych i lepiej skompresowanych plików? Nazwijmy go JPEG XL! Przecież nikt nie skojarzy, że XL oznacza X-tra Large, czyli duży rozmiar. Autor wyjaśnia, skąd wzięła się ta - jego zdaniem głupia - nazwa.
+
+### 35. Przewodnik po Shadow DOM
+
+[https://www.mayank.co/blog/declarative-shadow-dom-guide](https://www.mayank.co/blog/declarative-shadow-dom-guide)
+
+INFO: Firefox w wersji 123 wprowadza deklaratywny Shadow DOM, co otwiera nowe możliwości dla deweloperów. Artykuł wyjaśnia, czym jest Shadow DOM, jakie zalety niesie i jak zacząć go używać w codziennej pracy. Lektura dla frontendowców.
+
+### 36. Nowe funkcje matematyczne w CSS
+
+[https://danielcwilson.com/posts/mathematicss-powers/](https://danielcwilson.com/posts/mathematicss-powers/)
+
+INFO: Od lutego 2024 roku, najnowsze wersje najpopularniejszych przeglądarek oferują już wsparcie dla nowych funkcji matematycznych w CSS. Nie ograniczamy się już do prostego "calc", lecz możemy korzystać również z silni, potęg, pierwiastków, logarytmów itp. Może to podnieść zaawansowane animacje CSS-owe na wyższy poziom.
+
+### 37. Doskonal umiejętności programowania, budując program na różne sposoby
+
+[https://www.freecodecamp.org/news/practice-coding-skills-by-building-a-program-different-ways/](https://www.freecodecamp.org/news/practice-coding-skills-by-building-a-program-different-ways/)
+
+INFO: Ciekawa koncepcja nauki programowania, a dokładniej mówiąc, metoda szlifowania swoich umiejętności w tym zakresie. Autor zachęca do napisania tej samej aplikacji na wiele różnych sposobów. To pewnego rodzaju zabawa z programowaniem, która może przynosić pozytywne efekty.
+
+### 38. Kurs sztucznej inteligencji od Microsoftu
+
+[https://uw7.org/un_dba62847f4f91/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_dba62847f4f91/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Zbudowany z myślą o początkujących, kurs zawiera praktyczne lekcje z wykorzystaniem TensorFlow i PyTorch. Porusza tematy od sieci neuronowych po etykę AI. Razem stanowi to 24 lekcje w formie głównie tekstowej.
+
+### 39. Podstawy cybersecurity od Microsoft - kurs online
+
+[https://uw7.org/un_b0fdfb89664d1/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_b0fdfb89664d1/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Microsoft udostępnił kurs, który jest idealnym startem dla każdego, kto chce zrozumieć kluczowe koncepcje z branży security. Kurs zawiera 7 lekcji z dodatkowymi materiałami do pogłębienia wiedzy, pokrywając m.in. koncepcje takie jak triada CIA czy zero trust. Każda lekcja według Twórców powinna zająć Ci od 30 do 60 minut.
+
+### 40. Zaawansowany prompt engineering dla twórców treści
+
+[https://uw7.org/un_ab28d5fe362c2/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_ab28d5fe362c2/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Poznaj metody tworzenia zapytań, które pozwolą Ci na skuteczniejszą pracę z narzędziami AI, takimi jak ChatGPT, i znacznie usprawnią Twój proces tworzenia treści. Ten przewodnik to skarbnica wiedzy na temat formułowania zapytań, które wydobędą z AI możliwie najlepsze rezultaty.
 
 ## 2024-03-01
 
