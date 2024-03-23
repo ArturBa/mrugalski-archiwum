@@ -1,4 +1,180 @@
-# Archiwum Mrugalskiego na dzień 3/16/2024
+# Archiwum Mrugalskiego na dzień 3/23/2024
+
+## 2024-03-22
+
+### 1. Który obraz został wygenerowany przez AI? - dasz radę rozpoznać?
+
+[https://artsandculture.google.com/experiment/odd-one-out/wAHNn4JsVTFOiw?hl=pl](https://artsandculture.google.com/experiment/odd-one-out/wAHNn4JsVTFOiw?hl=pl)
+
+INFO: W Internecie pełno jest osób, które twierdzą, że "grafiki od AI rozpoznają na kilometr". Sprawdźmy zatem, czy to prawda. Otrzymujesz cztery grafiki, z których trzy są zdjęciami lub dziełami sztuki, a jedna pochodzi z popularnego generatora grafik. Masz dziesięć sekund na zdecydowanie, która grafika została przygotowana przez komputer. To nie jest łatwe zadanie. Grafiki się nie powtarzają, więc możesz grać wiele razy.
+
+### 2. Przejęcie dowolnego konta na Facebooku nawet bez kliknięcia (raport z bugbounty)
+
+[https://infosecwriteups.com/0-click-account-takeover-on-facebook-e4120651e23e](https://infosecwriteups.com/0-click-account-takeover-on-facebook-e4120651e23e)
+
+INFO: Przez pewien czas uzyskanie dostępu do dowolnego konta na wspomnianej platformie było możliwe. Nie wymagało to wysyłania ofierze jakichkolwiek wiadomości, linków, ani nawet nawiązywania z nią kontaktu. Błąd ten, na szczęście, został wykryty w ramach programu bug bounty i jest już naprawiony. Niemniej jednak warto zapoznać się z tym, jak przebiegał ten atak. Jak można zauważyć, nawet poważne firmy z dedykowanymi działami bezpieczeństwa mogą popełnić trywialny błąd, umożliwiający przejęcie dowolnego konta.
+
+### 3. Niedoceniane gadżety technologiczne - głównie kable/adaptery
+
+[https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
+
+INFO: Na tym świecie istnieją drobne akcesoria komputerowe, które mogą znacznie uprościć codzienne życie, o których istnieniu nawet nie masz pojęcia. Są to między innymi kątowe adaptery RJ45, pendrive'y z podwójnym wtykiem, czy miniaturowe dongle USB Wi-Fi i Bluetooth.
+
+### 4. Sam Altman (CEO OpenAI) u Lexa Fridmana - wywiad (film, 2h)
+
+[https://youtu.be/jvqFAi7vkBc](https://youtu.be/jvqFAi7vkBc)
+
+INFO: Wciągająca i interesująca rozmowa z Samem Altmanem na temat przyszłości AI, ChatGPT, GPT-5, firmy OpenAI, Sory (generatywnego wideo), konfliktu z Elonem Muskiem, tego, co się stało z Ilyą, a także trochę o AGI. Dobra treść do zabrania ze sobą na dłuższy spacer.
+
+### 5. Jakich filmów NIE zobaczysz w naszym kraju na VOD bez VPN-a?
+
+[https://streamwithvpn.com](https://streamwithvpn.com)
+
+INFO: Twój serwis streamingowy ma do zaoferowania znacznie więcej niż to, co widać na pierwszy rzut oka. Dzięki tej aplikacji możesz zobaczyć, jakie filmy i seriale 'ukrywa' przed Tobą, na przykład, Netflix czy Disney+. Przy okazji zweryfikujesz, za pomocą którego dostawcy VPN (możesz wybrać tylko jednego z czterech), zobaczysz najwięcej interesujących treści.
+
+### 6. Lista 50 zastosowań dla radia definiowanego programowo (SDR)
+
+[https://blinry.org/50-things-with-sdr/](https://blinry.org/50-things-with-sdr/)
+
+INFO: Dowiedz się, jak za pomocą prostego dongla USB i zestawu antenowego znaleźć 50 fascynujących rzeczy, które są obecne w spektrum radiowym. Od nasłuchiwania rozmów lotniczych, przez namierzanie pojazdów czy lokalizowanie balonów meteorologicznych, po odczyt danych z czujników pogodowych. Artykuł wprowadza w świat radia sterowanego programowo i jego możliwości.
+
+### 7. Zniżki na kursy Nginx-a i Grafany + darmowy wykład na temat K8S do pobrania [sponsorowane]
+
+[https://asdevops.pl/promocja-marzec-2024/](https://asdevops.pl/promocja-marzec-2024/)
+
+INFO: Kursy, które oferujemy to nowości w naszej ofercie. Pozwolą na zdobycie wiedzy z zakresu NGINX i Grafany. Dodatkowo z użyciem kodu "freek8s" możesz odebrać darmowe wykłady K8s Pod, MultiContainer Pod, Init Containers.
+
+### 8. Czy sztuczna inteligencja osłabia nasze umysły?
+
+[https://www.uxtigers.com/post/ai-numb-brain](https://www.uxtigers.com/post/ai-numb-brain)
+
+INFO: "Czy rozwój sztucznej inteligencji uczyni nas mniej inteligentnymi?" - ten artykuł przechodzi przez mity i obawy, pokazując, jak AI może stać się 'wózkiem widłowym dla umysłu', uwalniając nas od monotonnych zadań i pozwalając nam skupić się na głębszym myśleniu. Jego autor zakłada, że rozwój AI może wpłynąć pozytywnie na rozwój człowieka i jego inteligencji. Z artykułu dowiesz się, jakie podstawy stanowią fundament dla takiego myślenia.
+
+### 9. Lista 10 najbardziej interesujących aplikacji w lutym 2024 - ProductHunt
+
+[https://blog.curiosity.ai/februarys-must-have-apps-top-10-picks-to-elevate-your-experience-5a454bba4317](https://blog.curiosity.ai/februarys-must-have-apps-top-10-picks-to-elevate-your-experience-5a454bba4317)
+
+INFO: Podobną kompilację wrzucałem miesiąc temu. Zawiera ona omówienie dziesięciu subiektywnie najciekawszych projektów z platformy ProductHunt. Bardzo często projekty z tej platformy stają się później hitami. Warto poznać je 'zanim staną się modne'. ;)
+
+### 10. Flipper Zero vs rząd Kanady - odpowiedź na zarzuty o ułatwianie kradzieży samochodów
+
+[https://blog.flipper.net/response-to-canadian-government/](https://blog.flipper.net/response-to-canadian-government/)
+
+INFO: Rząd Kanady rozważa zakazanie używania urządzenia Flipper Zero, argumentując, że służy ono do kradzieży samochodów. Czy to prawda, czy to może nieporozumienie wynikające z braku zrozumienia technologii? W artykule wyjaśniono, dlaczego takie działania nie rozwiążą problemu kradzieży aut i jakie są rzeczywiste możliwości Flipper Zero.
+
+### 11. DuckDB jako nowy JQ do analizy JSON-ów?
+
+[https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
+
+INFO: Być może na co dzień pracujesz z JSON-ami, a narzędzie JQ radzi sobie z nimi całkiem dobrze. Istnieje jednak metoda na bardzo sprytne użycie narzędzia DuckDB, dzięki czemu odpytywanie danych w formacie JSON będzie możliwe z użyciem klasycznych zapytań SQL, co może bardzo uprościć Twoją pracę.
+
+### 12. Przegląd narzędzi do monitoringu dla DevOps - tylko OpenSource
+
+[https://medium.com/statuspal/10-best-open-source-monitoring-tools-for-devops-in-2024-c21c01d93e2b](https://medium.com/statuspal/10-best-open-source-monitoring-tools-for-devops-in-2024-c21c01d93e2b)
+
+INFO: Monitoring serwerów i usług to podstawa dobrze działającego produktu, ale pytanie brzmi: czym to wszystko monitorować? Autor tego wpisu zebrał dziesięć obecnie najpopularniejszych rozwiązań do monitoringu i przedstawił ich wady oraz zalety. Z podanej listy używam w swojej firmie Sensu i jestem bardzo zadowolony.
+
+### 13. Dlaczego Facebook przestał używać GIT-a?
+
+[https://graphite.dev/blog/why-facebook-doesnt-use-git](https://graphite.dev/blog/why-facebook-doesnt-use-git)
+
+INFO: Większość firm w branży IT korzysta z systemu Git jako domyślnego rozwiązania do kontroli wersji. Tymczasem, Facebook również używał Git-a, ale z niego zrezygnował. Dlaczego? Ten artykuł wyjaśnia, z jakiego powodu wybrano Mercurial, jakie wyzwania z tym związane firma musiała pokonać, oraz jak wyglądała migracja między rozwiązaniami.
+
+### 14. A gdyby tak przekonać NPC, że są oparte na AI i żyją w symulacji? (film, 17 minut)
+
+[https://www.youtube.com/watch?v=aihq6jhdW-Q](https://www.youtube.com/watch?v=aihq6jhdW-Q)
+
+INFO: Autor testuje możliwości silnika Unreal Engine 5 i rozmawia w trybie rzeczywistym z botami, znajdującymi się w "grze". Jeśli tak pod względem grafiki i interakcji mają wyglądać gry przyszłości, to robi się naprawdę ciekawie...
+
+### 15. Jak pozbywać się rozwiązań 'legacy'? - strategie
+
+[https://martinfowler.com/articles/patterns-legacy-displacement/](https://martinfowler.com/articles/patterns-legacy-displacement/)
+
+INFO: Jak uniknąć pułapek podczas wymiany przestarzałych systemów IT w dużych organizacjach? Autorzy dzielą się swoimi doświadczeniami i przedstawiają sprawdzone wzorce działania, które pomagają w przejściu od starych rozwiązań do nowoczesnych technologii. To dobra lektura dla wszystkich deweloperów planujących modernizację przestarzałych rozwiązań.
+
+### 16. Nanofont - najmniejszy w pełni czytelny font (rozmiar 3x4)
+
+[https://github.com/Michaelangel007/nanofont3x4](https://github.com/Michaelangel007/nanofont3x4)
+
+INFO: Ciekawie opracowany font pozwala upchnąć dużą ilość informacji na małej, fizycznej przestrzeni. Coś mi mówi, że stanie się on domyślnym fontem używanym w umowach firm ubezpieczeniowych, szczególnie w ostatnim akapicie ;)
+
+### 17. weAudit - nowe narzędzie do code review, wprost w VSCode
+
+[https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/](https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/)
+
+INFO: Przedstawiam nowe rozszerzenie do VSCode, które usprawnia proces code-review w Twoim zespole. Umożliwia ono dodawanie zakładek i notatek bezpośrednio w edytorze, śledzenie przeglądanych plików oraz współpracę z innymi użytkownikami aplikacji. Na stronie znajdziesz kilka filmów prezentujących, jak wygląda praca z tym rozszerzeniem.
+
+### 18. Teable - baza danych no-code, która Ci się spodoba
+
+[https://github.com/teableio/teable](https://github.com/teableio/teable)
+
+INFO: Niektórzy preferują wprowadzanie danych do Postgressa, jednak działy handlowe i HR częściej wybierają Excela. Istnieją osoby, które nie cenią sobie Exela, decydując się na Airtable. Wśród nich trafiają się również użytkownicy, dla których rodzaj narzędzia nie ma znaczenia, pod warunkiem że dysponuje wygodnym API. Wydaje się, że Teable, będąc połączeniem Airtable, Excela i Postgressa, przypadnie do gustu każdemu z nich. Backendem rozwiązania jest niezmodyfikowana baza Postgresql, więc admini także będą zadowoleni - to coś, co już dobrze znają.
+
+### 19. Jak chronić się przed repo-jackingiem (GitHub)
+
+[https://github.blog/2024-02-21-how-to-stay-safe-from-repo-jacking/](https://github.blog/2024-02-21-how-to-stay-safe-from-repo-jacking/)
+
+INFO: "Repo-jacking" to atak na tzw. łańcuch dostaw (supply chain attack), który może wpłynąć na tworzone przez Ciebie oprogramowanie. Artykuł wyjaśnia, czym jest to zagrożenie i jak możemy się przed nim zabezpieczyć, koncentrując się na zarządzaniu zależnościami i blokowaniu konkretnych commitów. Poznaj praktyczne porady, które pomogą Ci zabezpieczyć Twój kod przed potencjalnymi atakami tego typu. Ta podatność dotyczy Cię, jeśli zaciągasz kod z bibliotek bezpośrednio np. z GitHuba, a nie z repozytorium paczek (np. npm).
+
+### 20. Terminalowy interfejs dla API w standardzie OpenAPI
+
+[https://github.com/zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui)
+
+INFO: Jeśli masz definicję API zapisaną w standardzie OpenAPI, to dzięki temu narzędziu możesz przeglądać dane, wylistować endpointy, uruchamiać zapytania - a wszystko to z poziomu terminala. Narzędzie możesz uruchomić na przykład jako kontener Dockera, aby uniknąć instalacji zależności i kompilacji.
+
+### 21. Jak zrozumieć DMARC i nie zwariować
+
+[https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
+
+INFO: Chcesz skonfigurować SPF, DKIM i DMARC (rozwiązania związane z mailami, walką ze spamem i podszywaniem się) dla swojej domeny, ale wszystko wydaje się zbyt skomplikowane i mało logiczne? Ten artykuł omawia wspomniane pojęcia w przystępny sposób i pokazuje, jak krok po kroku je wdrożyć. Artykuł niby koncentruje się na DMARC, ale w praktyce omawia wszystkie jego składowe, bez których DMARC nie mógłby istnieć.
+
+### 22. Keynote Jensena Huanga, CEO NVIDIA (film, 2h)
+
+[https://www.youtube.com/live/Y2F8yisiS6E](https://www.youtube.com/live/Y2F8yisiS6E)
+
+INFO: Nvidia jest firmą, która stoi na czele rewolucji AI. To na jej procesorach najczęściej uczą się modele językowe i inne rozwiązania generatywne. Jensen mówi o tym, co jeszcze nas czeka w kwestii AI (według niego jest to kolejna rewolucja przemysłowa), przedstawia nowe rozwiązania technologiczne, opowiada o robotyce, prognozach pogody, symulacjach świata rzeczywistego i kluczowej roli Nvidii w dalszym rozwoju sztucznej inteligencji.
+
+### 23. Znak "$" nie zawsze oznacza "koniec stringa" w regexach
+
+[https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
+
+INFO: Teoria mówi, że znak dolara w wyrażeniach regularnych odpowiada za koniec łańcucha tekstowego. Tylko jak to zwykle bywa w praktyce, trudno zdefiniować, czym jest ten koniec, bo to zależy od technologii, z którą pracujesz. Co, jeśli wczytujesz linie z pliku i każda kończy się znakiem nowej linii?
+
+### 24. Projekt "9 miesięcy" - build in public (playlista z YouTube)
+
+[https://www.youtube.com/playlist?list=PL1i1fDkl-sO0JIZh1YmrkBg7XLyWBxznI](https://www.youtube.com/playlist?list=PL1i1fDkl-sO0JIZh1YmrkBg7XLyWBxznI)
+
+INFO: Początkujący YouTuber z Polski planuje przez następne 9 miesięcy regularnie pokazywać, jak używa narzędzi AI w codziennej pracy, tworząc rozwiązania programistyczne. Pierwsze nagrania są dość "vlogowe" i mogą wydawać się nudne, jednak omawianie tworzenia GPTs-ów, integracja Discorda z Notion za pomocą Make, czy tworzenie stron WWW w Notion wyglądają bardzo zachęcająco. Raz na jakiś czas lubię pomóc początkującym twórcom w rozwoju. Jeśli ta treść Ci się spodoba, zostaw mu, proszę, lajka, suba, komentarz, czy co tam lubisz :)
+
+### 25. Natywne API do wyliczania czasu względnego w JavaScript
+
+[https://www.raymondcamden.com/2024/03/07/using-intlrelativetimeformat-for-localized-relative-timings](https://www.raymondcamden.com/2024/03/07/using-intlrelativetimeformat-for-localized-relative-timings)
+
+INFO: Czy znasz API Intl.RelativeTimeFormat, które pozwala na zwracanie czasu względnego w preferowanym przez użytkownika języku? Ten artykuł przedstawia praktyczne zastosowania tej funkcji, wskazówki dotyczące jej konfiguracji oraz przykłady kodu, które pomogą Ci zrozumieć, jak wykorzystać to narzędzie w realnych projektach internetowych. Mówiąc o czasie względnym, mam na myśli zwroty używane na przykład w aplikacjach pocztowych: "wysłano 7 minut temu" zamiast konkretnej daty i godziny.
+
+### 26. Jak zweryfikować własność domeny dodawanej do Twojego systemu?
+
+[https://workos.com/blog/the-developers-guide-to-domain-verification](https://workos.com/blog/the-developers-guide-to-domain-verification)
+
+INFO: Twoja firma oferuje w ramach produktu SaaS możliwość podpięcia domeny klienta pod produkt. Przed konfiguracją środowiska musisz jednak najpierw sprawdzić, czy podana domena naprawdę należy do klienta, aby nie skonfigurować platformy, na przykład, dla głównej domeny Google. Weryfikacja nie jest trudnym zadaniem, ale jak przeprowadzić ją bezpiecznie i efektywnie zarazem? Tego dowiesz się z artykułu.
+
+### 27. Tworzenie palet kolorów z funkcją CSS color-mix()
+
+[https://developer.mozilla.org/en-US/blog/color-palettes-css-color-mix/](https://developer.mozilla.org/en-US/blog/color-palettes-css-color-mix/)
+
+INFO: Istnieje wiele generatorów online do palet kolorów. Dlaczego jednak masz ich używać, jeśli podobne możliwości oferuje Ci natywna funkcja dostępna w CSS? Artykuł wprowadza w temat mieszania kolorów w CSS, pokazuje, jak za pomocą procentowych wartości i przestrzeni kolorów, stworzyć spójne warianty kolorystyczne. To użyteczna wiedza dla frontendowców.
+
+### 28. JNV - interaktywna przeglądarka i edytor plików JSON
+
+[https://github.com/ynqa/jnv](https://github.com/ynqa/jnv)
+
+INFO: Często pracujesz z plikami JSON, ale aplikacja taka jak JQ nie do końca przypadła Ci do gustu? JNV może bardziej Ci się spodobać, ponieważ oferuje wygodny, nawigowalny kursorami, interfejs tekstowy, opcję wyszukiwania danych, a także autouzupełnianie wyszukiwanych fraz i kluczy/wartości z JSON.
+
+### 29. Podręcznik do nauki JavaScript - kompletna, usystematyzowana wiedza
+
+[https://uw7.org/un_1a9da3860bb95/[ident,fallback=0000000000000000000000000000000000000000]](https://uw7.org/un_1a9da3860bb95/[ident,fallback=0000000000000000000000000000000000000000])
+
+INFO: Omówienie struktur danych, obiektów, modułów, wyrażeń regularnych, tematu programowania asynchronicznego, obsługi zdarzeń, pracy z Canvasem, obsługi DOM, a nawet zahaczenie o NodeJS, a to wszystko w jednej i do tego darmowej książce. Możesz czytać online lub ściągnąć wersję w EPUB/MOBI/PDF. Łącznie ponad 430 stron dobrze usystematyzowanej wiedzy.
 
 ## 2024-03-15
 
